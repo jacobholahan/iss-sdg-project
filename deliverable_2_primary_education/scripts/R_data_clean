@@ -1,0 +1,13 @@
+library(tidyverse)
+
+data <- read_csv("data.csv")
+
+data_clean <- data %>%
+  select(geoUnit, year, value) %>%
+  rename(
+    Region = geoUnit,
+    Year = year,
+    Primary_Completion_Rate = value
+  )
+
+write_csv(data_clean, "sdg_primary_completion_clean.csv")
