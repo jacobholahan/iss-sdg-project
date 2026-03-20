@@ -1,0 +1,4500 @@
+"country","year","water_access"
+"Afghanistan","2000",11.48
+"Afghanistan","2001",11.5
+"Afghanistan","2002",12.3
+"Afghanistan","2003",13.1
+"Afghanistan","2004",13.91
+"Afghanistan","2005",14.73
+"Afghanistan","2006",15.54
+"Afghanistan","2007",16.65
+"Afghanistan","2008",17.55
+"Afghanistan","2009",18.39
+"Afghanistan","2010",19.22
+"Afghanistan","2011",20.06
+"Afghanistan","2012",20.89
+"Afghanistan","2013",21.73
+"Afghanistan","2014",22.56
+"Afghanistan","2015",23.39
+"Afghanistan","2016",24.22
+"Afghanistan","2017",25.06
+"Afghanistan","2018",25.89
+"Afghanistan","2019",26.72
+"Afghanistan","2020",27.56
+"Afghanistan","2021",28.39
+"Afghanistan","2022",29.23
+"Afghanistan","2023",29.91
+"Albania","2000",49.14
+"Albania","2001",49.08
+"Albania","2002",48.98
+"Albania","2003",48.89
+"Albania","2004",50.72
+"Albania","2005",52.58
+"Albania","2006",54.47
+"Albania","2007",56.38
+"Albania","2008",58.33
+"Albania","2009",60.3
+"Albania","2010",62.3
+"Albania","2011",64.33
+"Albania","2012",66.38
+"Albania","2013",68.46
+"Albania","2014",70.56
+"Albania","2015",70.59
+"Albania","2016",70.62
+"Albania","2017",70.64
+"Albania","2018",70.65
+"Albania","2019",70.67
+"Albania","2020",70.67
+"Albania","2021",70.71
+"Albania","2022",70.74
+"Albania","2023",70.77
+"Algeria","2000",69.49
+"Algeria","2001",69.99
+"Algeria","2002",70.47
+"Algeria","2003",70.94
+"Algeria","2004",71.39
+"Algeria","2005",71.83
+"Algeria","2006",72.26
+"Algeria","2007",72.67
+"Algeria","2008",73.06
+"Algeria","2009",73.44
+"Algeria","2010",73.81
+"Algeria","2011",74.16
+"Algeria","2012",74.49
+"Algeria","2013",74.81
+"Algeria","2014",75.12
+"Algeria","2015",75.41
+"Algeria","2016",74.78
+"Algeria","2017",74.07
+"Algeria","2018",73.33
+"Algeria","2019",72.22
+"Algeria","2020",70.53
+"Algeria","2021",68.84
+"Algeria","2022",68.9
+"Algeria","2023",68.97
+"American Samoa","2000",81.91
+"American Samoa","2001",82.59
+"American Samoa","2002",83.27
+"American Samoa","2003",83.95
+"American Samoa","2004",84.64
+"American Samoa","2005",85.33
+"American Samoa","2006",86.02
+"American Samoa","2007",86.71
+"American Samoa","2008",87.4
+"American Samoa","2009",87.96
+"American Samoa","2010",88.17
+"American Samoa","2011",88.39
+"American Samoa","2012",88.6
+"American Samoa","2013",88.81
+"American Samoa","2014",89.03
+"American Samoa","2015",89.24
+"American Samoa","2016",89.45
+"American Samoa","2017",89.67
+"American Samoa","2018",89.88
+"American Samoa","2019",90.09
+"American Samoa","2020",90.31
+"American Samoa","2021",90.52
+"American Samoa","2022",90.54
+"American Samoa","2023",90.54
+"Andorra","2000",90.64
+"Andorra","2001",90.64
+"Andorra","2002",90.64
+"Andorra","2003",90.64
+"Andorra","2004",90.64
+"Andorra","2005",90.64
+"Andorra","2006",90.64
+"Andorra","2007",90.64
+"Andorra","2008",90.64
+"Andorra","2009",90.64
+"Andorra","2010",90.64
+"Andorra","2011",90.64
+"Andorra","2012",90.64
+"Andorra","2013",90.64
+"Andorra","2014",90.64
+"Andorra","2015",90.64
+"Andorra","2016",90.64
+"Andorra","2017",90.64
+"Andorra","2018",90.64
+"Andorra","2019",90.64
+"Andorra","2020",90.64
+"Andorra","2021",90.64
+"Andorra","2022",90.64
+"Andorra","2023",90.64
+"Armenia","2000",82.66
+"Armenia","2001",82.73
+"Armenia","2002",82.8
+"Armenia","2003",82.88
+"Armenia","2004",82.96
+"Armenia","2005",83.04
+"Armenia","2006",83.12
+"Armenia","2007",83.2
+"Armenia","2008",83.28
+"Armenia","2009",83.22
+"Armenia","2010",83.15
+"Armenia","2011",83.08
+"Armenia","2012",83.02
+"Armenia","2013",82.95
+"Armenia","2014",82.89
+"Armenia","2015",82.82
+"Armenia","2016",82.76
+"Armenia","2017",82.69
+"Armenia","2018",82.58
+"Armenia","2019",82.43
+"Armenia","2020",82.28
+"Armenia","2021",82.13
+"Armenia","2022",82.36
+"Armenia","2023",82.21
+"Asia","2000",56.3
+"Asia","2001",56.73
+"Asia","2002",57.3
+"Asia","2003",57.87
+"Asia","2004",58.44
+"Asia","2005",59.01
+"Asia","2006",59.56
+"Asia","2007",60.1
+"Asia","2008",60.63
+"Asia","2009",61.5
+"Asia","2010",62.37
+"Asia","2011",63.31
+"Asia","2012",64.25
+"Asia","2013",65.2
+"Asia","2014",66.14
+"Asia","2015",67.1
+"Asia","2016",68.05
+"Asia","2017",69.01
+"Asia","2018",69.95
+"Asia","2019",70.87
+"Asia","2020",71.77
+"Asia","2021",72.66
+"Asia","2022",73.54
+"Asia","2023",74.39
+"Austria","2000",96.87
+"Austria","2001",97.03
+"Austria","2002",97.18
+"Austria","2003",97.33
+"Austria","2004",97.48
+"Austria","2005",97.64
+"Austria","2006",97.79
+"Austria","2007",97.94
+"Austria","2008",98.09
+"Austria","2009",98.25
+"Austria","2010",98.4
+"Austria","2011",98.55
+"Austria","2012",98.7
+"Austria","2013",98.86
+"Austria","2014",98.91
+"Austria","2015",98.91
+"Austria","2016",98.91
+"Austria","2017",98.91
+"Austria","2018",98.9
+"Austria","2019",98.9
+"Austria","2020",98.9
+"Austria","2021",98.9
+"Austria","2022",98.9
+"Austria","2023",98.89
+"Azerbaijan","2000",48.82
+"Azerbaijan","2001",49.18
+"Azerbaijan","2002",49.54
+"Azerbaijan","2003",49.9
+"Azerbaijan","2004",50.26
+"Azerbaijan","2005",50.61
+"Azerbaijan","2006",50.97
+"Azerbaijan","2007",51.32
+"Azerbaijan","2008",51.67
+"Azerbaijan","2009",52.03
+"Azerbaijan","2010",52.38
+"Azerbaijan","2011",52.75
+"Azerbaijan","2012",53.12
+"Azerbaijan","2013",53.49
+"Azerbaijan","2014",53.88
+"Azerbaijan","2015",54.26
+"Azerbaijan","2016",54.66
+"Azerbaijan","2017",55.05
+"Azerbaijan","2018",55.46
+"Azerbaijan","2019",55.86
+"Azerbaijan","2020",56.28
+"Azerbaijan","2021",56.69
+"Azerbaijan","2022",57.09
+"Azerbaijan","2023",57.45
+"Bahrain","2000",98.7
+"Bahrain","2001",98.73
+"Bahrain","2002",98.76
+"Bahrain","2003",98.8
+"Bahrain","2004",98.83
+"Bahrain","2005",98.87
+"Bahrain","2006",98.9
+"Bahrain","2007",98.93
+"Bahrain","2008",98.93
+"Bahrain","2009",98.93
+"Bahrain","2010",98.92
+"Bahrain","2011",98.92
+"Bahrain","2012",98.92
+"Bahrain","2013",98.92
+"Bahrain","2014",98.92
+"Bahrain","2015",98.91
+"Bahrain","2016",98.91
+"Bahrain","2017",98.91
+"Bahrain","2018",98.91
+"Bahrain","2019",98.91
+"Bahrain","2020",98.9
+"Bahrain","2021",98.9
+"Bahrain","2022",98.9
+"Bahrain","2023",98.9
+"Bangladesh","2000",55.31
+"Bangladesh","2001",55.32
+"Bangladesh","2002",55.29
+"Bangladesh","2003",55.27
+"Bangladesh","2004",55.24
+"Bangladesh","2005",55.21
+"Bangladesh","2006",55.17
+"Bangladesh","2007",55.14
+"Bangladesh","2008",55.09
+"Bangladesh","2009",55.05
+"Bangladesh","2010",55
+"Bangladesh","2011",54.95
+"Bangladesh","2012",55.3
+"Bangladesh","2013",55.66
+"Bangladesh","2014",56.04
+"Bangladesh","2015",56.44
+"Bangladesh","2016",56.85
+"Bangladesh","2017",57.28
+"Bangladesh","2018",57.72
+"Bangladesh","2019",58.18
+"Bangladesh","2020",58.66
+"Bangladesh","2021",59.15
+"Bangladesh","2022",59.16
+"Bangladesh","2023",59.14
+"Belarus","2000",81.94
+"Belarus","2001",82.07
+"Belarus","2002",82.2
+"Belarus","2003",82.32
+"Belarus","2004",83.39
+"Belarus","2005",84.43
+"Belarus","2006",85.46
+"Belarus","2007",86.5
+"Belarus","2008",87.53
+"Belarus","2009",88.54
+"Belarus","2010",89.52
+"Belarus","2011",90.49
+"Belarus","2012",91.44
+"Belarus","2013",92.37
+"Belarus","2014",92.46
+"Belarus","2015",92.54
+"Belarus","2016",92.6
+"Belarus","2017",92.65
+"Belarus","2018",92.71
+"Belarus","2019",92.77
+"Belarus","2020",92.84
+"Belarus","2021",92.91
+"Belarus","2022",92.98
+"Belarus","2023",93.05
+"Belgium","2000",99.75
+"Belgium","2001",99.75
+"Belgium","2002",99.75
+"Belgium","2003",99.75
+"Belgium","2004",99.75
+"Belgium","2005",99.75
+"Belgium","2006",99.75
+"Belgium","2007",99.75
+"Belgium","2008",99.75
+"Belgium","2009",99.75
+"Belgium","2010",99.74
+"Belgium","2011",99.73
+"Belgium","2012",99.71
+"Belgium","2013",99.7
+"Belgium","2014",99.69
+"Belgium","2015",99.67
+"Belgium","2016",99.66
+"Belgium","2017",99.64
+"Belgium","2018",99.63
+"Belgium","2019",99.62
+"Belgium","2020",99.6
+"Belgium","2021",99.59
+"Belgium","2022",99.57
+"Belgium","2023",99.56
+"Benin","2000",14.21
+"Benin","2001",14.31
+"Benin","2002",14.43
+"Benin","2003",14.58
+"Benin","2004",14.72
+"Benin","2005",14.87
+"Benin","2006",15.01
+"Benin","2007",15.16
+"Benin","2008",15.3
+"Benin","2009",15.45
+"Benin","2010",15.59
+"Benin","2011",15.74
+"Benin","2012",15.89
+"Benin","2013",16.03
+"Benin","2014",16.18
+"Benin","2015",16.33
+"Benin","2016",16.48
+"Benin","2017",16.63
+"Benin","2018",16.78
+"Benin","2019",16.93
+"Benin","2020",17.08
+"Benin","2021",17.23
+"Benin","2022",17.39
+"Benin","2023",17.54
+"Bhutan","2000",28.44
+"Bhutan","2001",28.85
+"Bhutan","2002",29.26
+"Bhutan","2003",29.66
+"Bhutan","2004",30.07
+"Bhutan","2005",30.47
+"Bhutan","2006",30.79
+"Bhutan","2007",31.12
+"Bhutan","2008",31.45
+"Bhutan","2009",31.77
+"Bhutan","2010",32.09
+"Bhutan","2011",34.84
+"Bhutan","2012",37.59
+"Bhutan","2013",40.32
+"Bhutan","2014",43.71
+"Bhutan","2015",47.1
+"Bhutan","2016",50.51
+"Bhutan","2017",53.93
+"Bhutan","2018",57.27
+"Bhutan","2019",60.59
+"Bhutan","2020",63.62
+"Bhutan","2021",66.62
+"Bhutan","2022",67.78
+"Bhutan","2023",66.65
+"Bonaire, Sint Eustatius and Saba","2000",83.56
+"Bonaire, Sint Eustatius and Saba","2001",84.33
+"Bonaire, Sint Eustatius and Saba","2002",85.11
+"Bonaire, Sint Eustatius and Saba","2003",85.88
+"Bonaire, Sint Eustatius and Saba","2004",86.66
+"Bonaire, Sint Eustatius and Saba","2005",87.44
+"Bonaire, Sint Eustatius and Saba","2006",88.21
+"Bonaire, Sint Eustatius and Saba","2007",88.99
+"Bonaire, Sint Eustatius and Saba","2008",89.77
+"Bonaire, Sint Eustatius and Saba","2009",90.55
+"Bonaire, Sint Eustatius and Saba","2010",91.34
+"Bonaire, Sint Eustatius and Saba","2011",92.12
+"Bonaire, Sint Eustatius and Saba","2012",92.9
+"Bonaire, Sint Eustatius and Saba","2013",93.69
+"Bonaire, Sint Eustatius and Saba","2014",94.47
+"Bonaire, Sint Eustatius and Saba","2015",95.26
+"Bonaire, Sint Eustatius and Saba","2016",96.05
+"Bonaire, Sint Eustatius and Saba","2017",96.84
+"Bonaire, Sint Eustatius and Saba","2018",97.63
+"Bonaire, Sint Eustatius and Saba","2019",98.42
+"Bonaire, Sint Eustatius and Saba","2020",99.21
+"Bonaire, Sint Eustatius and Saba","2021",100
+"Bonaire, Sint Eustatius and Saba","2022",100
+"Bonaire, Sint Eustatius and Saba","2023",100
+"Bosnia and Herzegovina","2000",87.47
+"Bosnia and Herzegovina","2001",87.56
+"Bosnia and Herzegovina","2002",87.65
+"Bosnia and Herzegovina","2003",87.74
+"Bosnia and Herzegovina","2004",87.83
+"Bosnia and Herzegovina","2005",87.91
+"Bosnia and Herzegovina","2006",88
+"Bosnia and Herzegovina","2007",88.09
+"Bosnia and Herzegovina","2008",88.17
+"Bosnia and Herzegovina","2009",88.26
+"Bosnia and Herzegovina","2010",88.34
+"Bosnia and Herzegovina","2011",88.43
+"Bosnia and Herzegovina","2012",88.51
+"Bosnia and Herzegovina","2013",88.59
+"Bosnia and Herzegovina","2014",88.67
+"Bosnia and Herzegovina","2015",88.74
+"Bosnia and Herzegovina","2016",88.76
+"Bosnia and Herzegovina","2017",88.86
+"Bosnia and Herzegovina","2018",88.86
+"Bosnia and Herzegovina","2019",88.74
+"Bosnia and Herzegovina","2020",88.15
+"Bosnia and Herzegovina","2021",87.57
+"Bosnia and Herzegovina","2022",86.98
+"Bosnia and Herzegovina","2023",86.4
+"Botswana","2000",59.2
+"Botswana","2001",59.6
+"Botswana","2002",59.83
+"Botswana","2003",60.03
+"Botswana","2004",60.23
+"Botswana","2005",60.42
+"Botswana","2006",61.69
+"Botswana","2007",63.51
+"Botswana","2008",65.3
+"Botswana","2009",67.07
+"Botswana","2010",68.82
+"Botswana","2011",70.53
+"Botswana","2012",70.45
+"Botswana","2013",69.88
+"Botswana","2014",69.3
+"Botswana","2015",68.72
+"Botswana","2016",68.14
+"Botswana","2017",67.55
+"Botswana","2018",66.96
+"Botswana","2019",66.36
+"Botswana","2020",65.76
+"Botswana","2021",65.15
+"Botswana","2022",64.54
+"Botswana","2023",63.92
+"Brazil","2000",75.78
+"Brazil","2001",76.33
+"Brazil","2002",76.85
+"Brazil","2003",77.37
+"Brazil","2004",77.79
+"Brazil","2005",78.04
+"Brazil","2006",78.29
+"Brazil","2007",78.54
+"Brazil","2008",78.78
+"Brazil","2009",79.02
+"Brazil","2010",79.25
+"Brazil","2011",79.48
+"Brazil","2012",79.7
+"Brazil","2013",80.47
+"Brazil","2014",81.23
+"Brazil","2015",81.99
+"Brazil","2016",82.73
+"Brazil","2017",83.5
+"Brazil","2018",84.26
+"Brazil","2019",85.01
+"Brazil","2020",85.74
+"Brazil","2021",86.43
+"Brazil","2022",87.12
+"Brazil","2023",87.95
+"Bulgaria","2000",89.6
+"Bulgaria","2001",90.13
+"Bulgaria","2002",90.66
+"Bulgaria","2003",91.19
+"Bulgaria","2004",91.72
+"Bulgaria","2005",92.25
+"Bulgaria","2006",92.78
+"Bulgaria","2007",93.32
+"Bulgaria","2008",93.85
+"Bulgaria","2009",94.38
+"Bulgaria","2010",94.91
+"Bulgaria","2011",95.45
+"Bulgaria","2012",95.98
+"Bulgaria","2013",96.51
+"Bulgaria","2014",97.04
+"Bulgaria","2015",96.95
+"Bulgaria","2016",96.87
+"Bulgaria","2017",96.78
+"Bulgaria","2018",96.7
+"Bulgaria","2019",96.61
+"Bulgaria","2020",96.53
+"Bulgaria","2021",96.45
+"Bulgaria","2022",96.37
+"Bulgaria","2023",96.29
+"Cambodia","2000",17.15
+"Cambodia","2001",17.61
+"Cambodia","2002",18.08
+"Cambodia","2003",18.54
+"Cambodia","2004",19.01
+"Cambodia","2005",19.48
+"Cambodia","2006",19.94
+"Cambodia","2007",20.41
+"Cambodia","2008",20.89
+"Cambodia","2009",21.45
+"Cambodia","2010",22
+"Cambodia","2011",22.56
+"Cambodia","2012",23.12
+"Cambodia","2013",23.69
+"Cambodia","2014",24.25
+"Cambodia","2015",24.82
+"Cambodia","2016",25.39
+"Cambodia","2017",25.96
+"Cambodia","2018",26.54
+"Cambodia","2019",27.12
+"Cambodia","2020",27.7
+"Cambodia","2021",28.29
+"Cambodia","2022",28.88
+"Cambodia","2023",29.45
+"Canada","2000",99.04
+"Canada","2001",99.05
+"Canada","2002",99.05
+"Canada","2003",99.05
+"Canada","2004",99.06
+"Canada","2005",98.94
+"Canada","2006",98.83
+"Canada","2007",98.72
+"Canada","2008",98.61
+"Canada","2009",98.5
+"Canada","2010",98.39
+"Canada","2011",98.27
+"Canada","2012",98.16
+"Canada","2013",98.04
+"Canada","2014",97.93
+"Canada","2015",97.81
+"Canada","2016",97.7
+"Canada","2017",97.58
+"Canada","2018",97.47
+"Canada","2019",97.35
+"Canada","2020",97.24
+"Canada","2021",97.12
+"Canada","2022",97.01
+"Canada","2023",96.89
+"Caribbean","2000",55.06
+"Caribbean","2001",56.11
+"Caribbean","2002",56.19
+"Caribbean","2003",56.29
+"Caribbean","2004",56.37
+"Caribbean","2005",58.59
+"Caribbean","2006",58.67
+"Caribbean","2007",58.76
+"Caribbean","2008",58.84
+"Caribbean","2009",58.92
+"Caribbean","2010",58.99
+"Caribbean","2011",59.04
+"Caribbean","2012",59.06
+"Caribbean","2013",59.07
+"Caribbean","2014",59.08
+"Caribbean","2015",59.08
+"Caribbean","2016",59.13
+"Caribbean","2017",59.02
+"Caribbean","2018",58.77
+"Caribbean","2019",58.81
+"Caribbean","2020",58.82
+"Caribbean","2021",58.8
+"Caribbean","2022",58.81
+"Caribbean","2023",58.85
+"Central African Republic","2000",8.53
+"Central African Republic","2001",8.4
+"Central African Republic","2002",8.26
+"Central African Republic","2003",8.13
+"Central African Republic","2004",7.99
+"Central African Republic","2005",7.86
+"Central African Republic","2006",7.74
+"Central African Republic","2007",7.61
+"Central African Republic","2008",7.49
+"Central African Republic","2009",7.37
+"Central African Republic","2010",7.25
+"Central African Republic","2011",7.14
+"Central African Republic","2012",7.02
+"Central African Republic","2013",6.91
+"Central African Republic","2014",6.8
+"Central African Republic","2015",6.7
+"Central African Republic","2016",6.59
+"Central African Republic","2017",6.49
+"Central African Republic","2018",6.39
+"Central African Republic","2019",6.28
+"Central African Republic","2020",6.18
+"Central African Republic","2021",6.08
+"Central African Republic","2022",6.13
+"Central African Republic","2023",6.17
+"Central America","2000",44.09
+"Central America","2001",44.29
+"Central America","2002",44.5
+"Central America","2003",44.71
+"Central America","2004",44.92
+"Central America","2005",45.13
+"Central America","2006",45.33
+"Central America","2007",45.53
+"Central America","2008",45.77
+"Central America","2009",46
+"Central America","2010",46.23
+"Central America","2011",46.47
+"Central America","2012",46.7
+"Central America","2013",46.93
+"Central America","2014",47.16
+"Central America","2015",47.4
+"Central America","2016",47.64
+"Central America","2017",47.87
+"Central America","2018",48.11
+"Central America","2019",48.34
+"Central America","2020",48.57
+"Central America","2021",48.79
+"Central America","2022",48.97
+"Central America","2023",49.1
+"Central and Southern Asia","2000",47.76
+"Central and Southern Asia","2001",48.9
+"Central and Southern Asia","2002",50.05
+"Central and Southern Asia","2003",51.22
+"Central and Southern Asia","2004",52.42
+"Central and Southern Asia","2005",53.62
+"Central and Southern Asia","2006",54.82
+"Central and Southern Asia","2007",56.04
+"Central and Southern Asia","2008",57.26
+"Central and Southern Asia","2009",58.47
+"Central and Southern Asia","2010",59.68
+"Central and Southern Asia","2011",60.89
+"Central and Southern Asia","2012",62.09
+"Central and Southern Asia","2013",63.3
+"Central and Southern Asia","2014",64.52
+"Central and Southern Asia","2015",65.75
+"Central and Southern Asia","2016",66.98
+"Central and Southern Asia","2017",68.22
+"Central and Southern Asia","2018",69.45
+"Central and Southern Asia","2019",70.68
+"Central and Southern Asia","2020",71.9
+"Central and Southern Asia","2021",73.12
+"Central and Southern Asia","2022",74.35
+"Central and Southern Asia","2023",75.68
+"Central Asia","2000",55.27
+"Central Asia","2001",56.07
+"Central Asia","2002",57.24
+"Central Asia","2003",58.42
+"Central Asia","2004",59.61
+"Central Asia","2005",61.03
+"Central Asia","2006",62.47
+"Central Asia","2007",63.92
+"Central Asia","2008",65.38
+"Central Asia","2009",66.84
+"Central Asia","2010",68.3
+"Central Asia","2011",69.72
+"Central Asia","2012",71.1
+"Central Asia","2013",72.51
+"Central Asia","2014",73.93
+"Central Asia","2015",75.37
+"Central Asia","2016",76.73
+"Central Asia","2017",77.95
+"Central Asia","2018",78.84
+"Central Asia","2019",79.74
+"Central Asia","2020",80.47
+"Central Asia","2021",81.21
+"Central Asia","2022",81.94
+"Central Asia","2023",82.55
+"Chad","2000",5.52
+"Chad","2001",5.55
+"Chad","2002",5.59
+"Chad","2003",5.62
+"Chad","2004",5.65
+"Chad","2005",5.68
+"Chad","2006",5.7
+"Chad","2007",5.73
+"Chad","2008",5.76
+"Chad","2009",5.78
+"Chad","2010",5.81
+"Chad","2011",5.83
+"Chad","2012",5.86
+"Chad","2013",5.89
+"Chad","2014",5.93
+"Chad","2015",5.96
+"Chad","2016",5.99
+"Chad","2017",6.03
+"Chad","2018",6.07
+"Chad","2019",6.11
+"Chad","2020",6.16
+"Chad","2021",6.2
+"Chad","2022",6.25
+"Chad","2023",6.29
+"Chile","2000",91.48
+"Chile","2001",91.96
+"Chile","2002",92.42
+"Chile","2003",92.79
+"Chile","2004",93.17
+"Chile","2005",93.55
+"Chile","2006",93.93
+"Chile","2007",94.32
+"Chile","2008",94.7
+"Chile","2009",95.08
+"Chile","2010",95.46
+"Chile","2011",95.85
+"Chile","2012",96.23
+"Chile","2013",96.62
+"Chile","2014",96.92
+"Chile","2015",96.99
+"Chile","2016",97.06
+"Chile","2017",97.13
+"Chile","2018",97.2
+"Chile","2019",97.31
+"Chile","2020",97.41
+"Chile","2021",97.52
+"Chile","2022",97.62
+"Chile","2023",97.73
+"China, Hong Kong Special Administrative Region","2000",98.37
+"China, Hong Kong Special Administrative Region","2001",98.45
+"China, Hong Kong Special Administrative Region","2002",98.54
+"China, Hong Kong Special Administrative Region","2003",98.63
+"China, Hong Kong Special Administrative Region","2004",98.71
+"China, Hong Kong Special Administrative Region","2005",98.8
+"China, Hong Kong Special Administrative Region","2006",98.88
+"China, Hong Kong Special Administrative Region","2007",98.97
+"China, Hong Kong Special Administrative Region","2008",99.06
+"China, Hong Kong Special Administrative Region","2009",99.14
+"China, Hong Kong Special Administrative Region","2010",99.23
+"China, Hong Kong Special Administrative Region","2011",99.31
+"China, Hong Kong Special Administrative Region","2012",99.4
+"China, Hong Kong Special Administrative Region","2013",99.49
+"China, Hong Kong Special Administrative Region","2014",99.57
+"China, Hong Kong Special Administrative Region","2015",99.66
+"China, Hong Kong Special Administrative Region","2016",99.75
+"China, Hong Kong Special Administrative Region","2017",99.83
+"China, Hong Kong Special Administrative Region","2018",99.92
+"China, Hong Kong Special Administrative Region","2019",99.99
+"China, Hong Kong Special Administrative Region","2020",100
+"China, Hong Kong Special Administrative Region","2021",100
+"China, Hong Kong Special Administrative Region","2022",100
+"China, Hong Kong Special Administrative Region","2023",100
+"China, Macao Special Administrative Region","2000",99.97
+"China, Macao Special Administrative Region","2001",99.97
+"China, Macao Special Administrative Region","2002",99.97
+"China, Macao Special Administrative Region","2003",99.97
+"China, Macao Special Administrative Region","2004",99.98
+"China, Macao Special Administrative Region","2005",99.98
+"China, Macao Special Administrative Region","2006",99.98
+"China, Macao Special Administrative Region","2007",99.98
+"China, Macao Special Administrative Region","2008",99.98
+"China, Macao Special Administrative Region","2009",99.98
+"China, Macao Special Administrative Region","2010",99.99
+"China, Macao Special Administrative Region","2011",99.99
+"China, Macao Special Administrative Region","2012",99.99
+"China, Macao Special Administrative Region","2013",99.99
+"China, Macao Special Administrative Region","2014",99.99
+"China, Macao Special Administrative Region","2015",99.99
+"China, Macao Special Administrative Region","2016",100
+"China, Macao Special Administrative Region","2017",100
+"China, Macao Special Administrative Region","2018",100
+"China, Macao Special Administrative Region","2019",100
+"China, Macao Special Administrative Region","2020",100
+"China, Macao Special Administrative Region","2021",100
+"China, Macao Special Administrative Region","2022",100
+"China, Macao Special Administrative Region","2023",100
+"Colombia","2000",67.73
+"Colombia","2001",68.04
+"Colombia","2002",68.36
+"Colombia","2003",68.66
+"Colombia","2004",68.96
+"Colombia","2005",69.26
+"Colombia","2006",69.56
+"Colombia","2007",69.86
+"Colombia","2008",70.16
+"Colombia","2009",70.45
+"Colombia","2010",70.74
+"Colombia","2011",71.02
+"Colombia","2012",71.31
+"Colombia","2013",71.58
+"Colombia","2014",71.86
+"Colombia","2015",72.13
+"Colombia","2016",72.39
+"Colombia","2017",72.66
+"Colombia","2018",72.91
+"Colombia","2019",73.17
+"Colombia","2020",73.42
+"Colombia","2021",73.67
+"Colombia","2022",73.91
+"Colombia","2023",74.15
+"Congo","2000",27.9
+"Congo","2001",28.06
+"Congo","2002",28.25
+"Congo","2003",28.44
+"Congo","2004",30
+"Congo","2005",31.57
+"Congo","2006",33.17
+"Congo","2007",34.79
+"Congo","2008",36.43
+"Congo","2009",38.09
+"Congo","2010",39.77
+"Congo","2011",41.48
+"Congo","2012",42.47
+"Congo","2013",43.01
+"Congo","2014",43.54
+"Congo","2015",44.07
+"Congo","2016",44.61
+"Congo","2017",45.14
+"Congo","2018",45.33
+"Congo","2019",45.51
+"Congo","2020",45.69
+"Congo","2021",45.87
+"Costa Rica","2000",76.56
+"Costa Rica","2001",76.88
+"Costa Rica","2002",77.19
+"Costa Rica","2003",77.49
+"Costa Rica","2004",77.77
+"Costa Rica","2005",78.04
+"Costa Rica","2006",78.29
+"Costa Rica","2007",78.53
+"Costa Rica","2008",78.76
+"Costa Rica","2009",78.98
+"Costa Rica","2010",79.19
+"Costa Rica","2011",79.38
+"Costa Rica","2012",79.56
+"Costa Rica","2013",79.73
+"Costa Rica","2014",79.89
+"Costa Rica","2015",80.04
+"Costa Rica","2016",80.19
+"Costa Rica","2017",80.32
+"Costa Rica","2018",80.45
+"Costa Rica","2019",80.52
+"Costa Rica","2020",80.52
+"Costa Rica","2021",80.51
+"Costa Rica","2022",80.51
+"Costa Rica","2023",80.5
+"Côte d'Ivoire","2000",25.35
+"Côte d'Ivoire","2001",25.86
+"Côte d'Ivoire","2002",26.36
+"Côte d'Ivoire","2003",26.86
+"Côte d'Ivoire","2004",27.36
+"Côte d'Ivoire","2005",27.85
+"Côte d'Ivoire","2006",28.34
+"Côte d'Ivoire","2007",28.83
+"Côte d'Ivoire","2008",29.32
+"Côte d'Ivoire","2009",29.81
+"Côte d'Ivoire","2010",30.29
+"Côte d'Ivoire","2011",30.77
+"Côte d'Ivoire","2012",31.9
+"Côte d'Ivoire","2013",33.04
+"Côte d'Ivoire","2014",34.18
+"Côte d'Ivoire","2015",35.34
+"Côte d'Ivoire","2016",36.51
+"Côte d'Ivoire","2017",37.68
+"Côte d'Ivoire","2018",38.23
+"Côte d'Ivoire","2019",38.44
+"Côte d'Ivoire","2020",38.67
+"Côte d'Ivoire","2021",38.91
+"Côte d'Ivoire","2022",37.74
+"Côte d'Ivoire","2023",36.25
+"Croatia","2000",85.11
+"Croatia","2001",85.16
+"Croatia","2002",85.28
+"Croatia","2003",85.4
+"Croatia","2004",85.52
+"Croatia","2005",85.63
+"Croatia","2006",85.75
+"Croatia","2007",85.86
+"Croatia","2008",85.97
+"Croatia","2009",86.09
+"Croatia","2010",86.2
+"Croatia","2011",86.31
+"Croatia","2012",86.42
+"Croatia","2013",86.54
+"Croatia","2014",86.59
+"Croatia","2015",86.64
+"Croatia","2016",86.7
+"Croatia","2017",86.76
+"Croatia","2018",86.82
+"Croatia","2019",86.89
+"Croatia","2020",86.96
+"Croatia","2021",87.03
+"Croatia","2022",87.11
+"Croatia","2023",87.19
+"Cyprus","2000",96.32
+"Cyprus","2001",96.32
+"Cyprus","2002",96.32
+"Cyprus","2003",96.31
+"Cyprus","2004",96.51
+"Cyprus","2005",96.71
+"Cyprus","2006",96.91
+"Cyprus","2007",97.1
+"Cyprus","2008",97.3
+"Cyprus","2009",97.49
+"Cyprus","2010",97.69
+"Cyprus","2011",97.88
+"Cyprus","2012",98.08
+"Cyprus","2013",98.27
+"Cyprus","2014",98.46
+"Cyprus","2015",98.66
+"Cyprus","2016",98.85
+"Cyprus","2017",99.05
+"Cyprus","2018",99.24
+"Cyprus","2019",99.44
+"Cyprus","2020",99.63
+"Cyprus","2021",99.74
+"Cyprus","2022",99.73
+"Cyprus","2023",99.72
+"Czechia","2000",94.71
+"Czechia","2001",94.7
+"Czechia","2002",94.96
+"Czechia","2003",95.22
+"Czechia","2004",95.49
+"Czechia","2005",95.75
+"Czechia","2006",96.02
+"Czechia","2007",96.28
+"Czechia","2008",96.55
+"Czechia","2009",96.82
+"Czechia","2010",97.09
+"Czechia","2011",97.36
+"Czechia","2012",97.64
+"Czechia","2013",97.91
+"Czechia","2014",98.11
+"Czechia","2015",98.14
+"Czechia","2016",98.15
+"Czechia","2017",98.15
+"Czechia","2018",98.15
+"Czechia","2019",98.15
+"Czechia","2020",98.15
+"Czechia","2021",98.15
+"Czechia","2022",98.15
+"Czechia","2023",98.15
+"Democratic People's Republic of Korea","2000",69
+"Democratic People's Republic of Korea","2001",69.02
+"Democratic People's Republic of Korea","2002",69.04
+"Democratic People's Republic of Korea","2003",69.06
+"Democratic People's Republic of Korea","2004",69.04
+"Democratic People's Republic of Korea","2005",68.83
+"Democratic People's Republic of Korea","2006",68.62
+"Democratic People's Republic of Korea","2007",68.41
+"Democratic People's Republic of Korea","2008",68.21
+"Democratic People's Republic of Korea","2009",68.02
+"Democratic People's Republic of Korea","2010",67.84
+"Democratic People's Republic of Korea","2011",67.66
+"Democratic People's Republic of Korea","2012",67.49
+"Democratic People's Republic of Korea","2013",67.31
+"Democratic People's Republic of Korea","2014",67.13
+"Democratic People's Republic of Korea","2015",66.96
+"Democratic People's Republic of Korea","2016",66.79
+"Democratic People's Republic of Korea","2017",66.63
+"Democratic People's Republic of Korea","2018",66.47
+"Democratic People's Republic of Korea","2019",66.31
+"Democratic People's Republic of Korea","2020",66.38
+"Democratic People's Republic of Korea","2021",66.45
+"Democratic People's Republic of Korea","2022",66.53
+"Democratic People's Republic of Korea","2023",66.61
+"Democratic Republic of the Congo","2000",12.21
+"Democratic Republic of the Congo","2001",12.21
+"Democratic Republic of the Congo","2002",12.21
+"Democratic Republic of the Congo","2003",12.2
+"Democratic Republic of the Congo","2004",12.18
+"Democratic Republic of the Congo","2005",12.16
+"Democratic Republic of the Congo","2006",12.14
+"Democratic Republic of the Congo","2007",12.11
+"Democratic Republic of the Congo","2008",12.07
+"Democratic Republic of the Congo","2009",12.03
+"Democratic Republic of the Congo","2010",11.99
+"Democratic Republic of the Congo","2011",11.94
+"Democratic Republic of the Congo","2012",11.88
+"Democratic Republic of the Congo","2013",11.82
+"Democratic Republic of the Congo","2014",11.75
+"Democratic Republic of the Congo","2015",11.67
+"Democratic Republic of the Congo","2016",11.59
+"Democratic Republic of the Congo","2017",11.5
+"Democratic Republic of the Congo","2018",11.4
+"Democratic Republic of the Congo","2019",11.3
+"Democratic Republic of the Congo","2020",11.19
+"Democratic Republic of the Congo","2021",11.38
+"Democratic Republic of the Congo","2022",11.58
+"Democratic Republic of the Congo","2023",11.73
+"Denmark","2000",94.6
+"Denmark","2001",94.6
+"Denmark","2002",94.6
+"Denmark","2003",94.6
+"Denmark","2004",94.93
+"Denmark","2005",95.25
+"Denmark","2006",95.57
+"Denmark","2007",95.9
+"Denmark","2008",96.22
+"Denmark","2009",96.54
+"Denmark","2010",96.87
+"Denmark","2011",97.19
+"Denmark","2012",97.51
+"Denmark","2013",97.84
+"Denmark","2014",98.16
+"Denmark","2015",98.48
+"Denmark","2016",98.81
+"Denmark","2017",99.13
+"Denmark","2018",99.45
+"Denmark","2019",99.77
+"Denmark","2020",99.92
+"Denmark","2021",99.92
+"Denmark","2022",99.92
+"Denmark","2023",99.92
+"Dominican Republic","2000",42.06
+"Dominican Republic","2001",42.19
+"Dominican Republic","2002",42.33
+"Dominican Republic","2003",42.52
+"Dominican Republic","2004",42.72
+"Dominican Republic","2005",42.92
+"Dominican Republic","2006",43.12
+"Dominican Republic","2007",43.31
+"Dominican Republic","2008",43.49
+"Dominican Republic","2009",43.66
+"Dominican Republic","2010",43.83
+"Dominican Republic","2011",43.98
+"Dominican Republic","2012",44.12
+"Dominican Republic","2013",44.25
+"Dominican Republic","2014",44.37
+"Dominican Republic","2015",44.5
+"Dominican Republic","2016",44.61
+"Dominican Republic","2017",44.72
+"Dominican Republic","2018",44.83
+"Dominican Republic","2019",44.93
+"Dominican Republic","2020",45.02
+"Dominican Republic","2021",45.1
+"Dominican Republic","2022",45.19
+"Dominican Republic","2023",45.26
+"Eastern Africa","2000",10.34
+"Eastern Africa","2001",10.66
+"Eastern Africa","2002",11.03
+"Eastern Africa","2003",11.4
+"Eastern Africa","2004",11.88
+"Eastern Africa","2005",12.37
+"Eastern Africa","2006",12.93
+"Eastern Africa","2007",13.53
+"Eastern Africa","2008",14.26
+"Eastern Africa","2009",15.02
+"Eastern Africa","2010",15.82
+"Eastern Africa","2011",16.21
+"Eastern Africa","2012",17.03
+"Eastern Africa","2013",17.89
+"Eastern Africa","2014",18.7
+"Eastern Africa","2015",19.41
+"Eastern Africa","2016",20.1
+"Eastern Africa","2017",20.81
+"Eastern Africa","2018",21.53
+"Eastern Africa","2019",22.25
+"Eastern Africa","2020",22.99
+"Eastern Africa","2021",23.75
+"Eastern Africa","2022",24.48
+"Eastern Africa","2023",25.19
+"Eastern and South-Eastern Asia","2000",68.21
+"Eastern and South-Eastern Asia","2001",68.77
+"Eastern and South-Eastern Asia","2002",70.01
+"Eastern and South-Eastern Asia","2003",70.66
+"Eastern and South-Eastern Asia","2004",71.29
+"Eastern and South-Eastern Asia","2005",71.91
+"Eastern and South-Eastern Asia","2006",72.5
+"Eastern and South-Eastern Asia","2007",73.06
+"Eastern and South-Eastern Asia","2008",73.6
+"Eastern and South-Eastern Asia","2009",74.13
+"Eastern and South-Eastern Asia","2010",74.65
+"Eastern and South-Eastern Asia","2011",75.13
+"Eastern and South-Eastern Asia","2012",75.58
+"Eastern and South-Eastern Asia","2013",76.03
+"Eastern and South-Eastern Asia","2014",76.46
+"Eastern and South-Eastern Asia","2015",65.04
+"Eastern and South-Eastern Asia","2016",65.79
+"Eastern and South-Eastern Asia","2017",66.53
+"Eastern and South-Eastern Asia","2018",67.26
+"Eastern and South-Eastern Asia","2019",67.97
+"Eastern and South-Eastern Asia","2020",68.66
+"Eastern and South-Eastern Asia","2021",69.33
+"Eastern and South-Eastern Asia","2022",69.96
+"Eastern and South-Eastern Asia","2023",70.55
+"Eastern Europe","2000",75.89
+"Eastern Europe","2001",75.96
+"Eastern Europe","2002",76.08
+"Eastern Europe","2003",76.2
+"Eastern Europe","2004",76.83
+"Eastern Europe","2005",79.5
+"Eastern Europe","2006",80.09
+"Eastern Europe","2007",80.68
+"Eastern Europe","2008",81.26
+"Eastern Europe","2009",81.83
+"Eastern Europe","2010",82.33
+"Eastern Europe","2011",82.82
+"Eastern Europe","2012",83.3
+"Eastern Europe","2013",83.75
+"Eastern Europe","2014",83.78
+"Eastern Europe","2015",83.82
+"Eastern Europe","2016",83.86
+"Eastern Europe","2017",83.89
+"Eastern Europe","2018",83.93
+"Eastern Europe","2019",83.97
+"Eastern Europe","2020",83.96
+"Eastern Europe","2021",83.96
+"Eastern Europe","2022",83.88
+"Eastern Europe","2023",83.78
+"Ecuador","2000",61.56
+"Ecuador","2001",62
+"Ecuador","2002",62.4
+"Ecuador","2003",62.77
+"Ecuador","2004",63.15
+"Ecuador","2005",63.52
+"Ecuador","2006",63.89
+"Ecuador","2007",64.26
+"Ecuador","2008",64.63
+"Ecuador","2009",65
+"Ecuador","2010",65.36
+"Ecuador","2011",65.72
+"Ecuador","2012",66.08
+"Ecuador","2013",66.43
+"Ecuador","2014",66.79
+"Ecuador","2015",67.14
+"Ecuador","2016",67.49
+"Ecuador","2017",67.85
+"Ecuador","2018",68.2
+"Ecuador","2019",68.57
+"Ecuador","2020",68.93
+"Ecuador","2021",69.25
+"Ecuador","2022",69.46
+"Ecuador","2023",69.67
+"Egypt","2000",65.3
+"Egypt","2001",65.27
+"Egypt","2002",65.87
+"Egypt","2003",66.47
+"Egypt","2004",67.07
+"Egypt","2005",67.68
+"Egypt","2006",68.28
+"Egypt","2007",68.87
+"Egypt","2008",69.47
+"Egypt","2009",70.07
+"Egypt","2010",70.66
+"Egypt","2011",71.25
+"Egypt","2012",71.85
+"Egypt","2013",72.44
+"Egypt","2014",73.03
+"Egypt","2015",73.61
+"Egypt","2016",74.2
+"Egypt","2017",74.79
+"Egypt","2018",75.38
+"Egypt","2019",75.97
+"Egypt","2020",76.56
+"Egypt","2021",77.15
+"Egypt","2022",77.75
+"Egypt","2023",78.34
+"Estonia","2000",91.73
+"Estonia","2001",92.05
+"Estonia","2002",92.37
+"Estonia","2003",92.7
+"Estonia","2004",93.04
+"Estonia","2005",93.37
+"Estonia","2006",93.71
+"Estonia","2007",94.06
+"Estonia","2008",94.4
+"Estonia","2009",94.75
+"Estonia","2010",95.11
+"Estonia","2011",95.47
+"Estonia","2012",95.84
+"Estonia","2013",96.23
+"Estonia","2014",96.61
+"Estonia","2015",97
+"Estonia","2016",97.38
+"Estonia","2017",97.69
+"Estonia","2018",97.89
+"Estonia","2019",98.08
+"Estonia","2020",98.27
+"Estonia","2021",98.44
+"Estonia","2022",98.61
+"Estonia","2023",98.78
+"Eswatini","2000",27.41
+"Eswatini","2001",27.9
+"Eswatini","2002",28.39
+"Eswatini","2003",28.89
+"Eswatini","2004",29.38
+"Eswatini","2005",29.87
+"Eswatini","2006",30.37
+"Eswatini","2007",30.89
+"Eswatini","2008",31.59
+"Eswatini","2009",32.23
+"Eswatini","2010",32.77
+"Eswatini","2011",33.31
+"Eswatini","2012",33.69
+"Eswatini","2013",34.07
+"Eswatini","2014",34.44
+"Eswatini","2015",34.82
+"Eswatini","2016",35.19
+"Eswatini","2017",35.57
+"Eswatini","2018",35.94
+"Eswatini","2019",36.32
+"Eswatini","2020",36.7
+"Eswatini","2021",37.08
+"Eswatini","2022",37.46
+"Eswatini","2023",37.84
+"Ethiopia","2000",5.36
+"Ethiopia","2001",5.5
+"Ethiopia","2002",5.66
+"Ethiopia","2003",5.84
+"Ethiopia","2004",6.03
+"Ethiopia","2005",6.24
+"Ethiopia","2006",6.46
+"Ethiopia","2007",6.7
+"Ethiopia","2008",7.02
+"Ethiopia","2009",7.36
+"Ethiopia","2010",7.71
+"Ethiopia","2011",8.08
+"Ethiopia","2012",8.46
+"Ethiopia","2013",8.86
+"Ethiopia","2014",9.27
+"Ethiopia","2015",9.69
+"Ethiopia","2016",10.13
+"Ethiopia","2017",10.58
+"Ethiopia","2018",11.05
+"Ethiopia","2019",11.53
+"Ethiopia","2020",12.02
+"Ethiopia","2021",12.53
+"Ethiopia","2022",12.87
+"Ethiopia","2023",13.21
+"Europe","2000",88.84
+"Europe","2001",88.92
+"Europe","2002",89.03
+"Europe","2003",89.14
+"Europe","2004",89.47
+"Europe","2005",90.65
+"Europe","2006",90.95
+"Europe","2007",91.25
+"Europe","2008",91.55
+"Europe","2009",91.84
+"Europe","2010",92.09
+"Europe","2011",92.34
+"Europe","2012",92.57
+"Europe","2013",92.78
+"Europe","2014",92.83
+"Europe","2015",92.89
+"Europe","2016",92.94
+"Europe","2017",92.99
+"Europe","2018",93.05
+"Europe","2019",93.1
+"Europe","2020",93.13
+"Europe","2021",93.16
+"Europe","2022",93.19
+"Europe","2023",93.21
+"Europe and Northern America","2000",91.91
+"Europe and Northern America","2001",91.99
+"Europe and Northern America","2002",92.09
+"Europe and Northern America","2003",92.15
+"Europe and Northern America","2004",92.41
+"Europe and Northern America","2005",92.66
+"Europe and Northern America","2006",92.68
+"Europe and Northern America","2007",92.73
+"Europe and Northern America","2008",92.77
+"Europe and Northern America","2009",92.87
+"Europe and Northern America","2010",92.99
+"Europe and Northern America","2011",93.1
+"Europe and Northern America","2012",93.21
+"Europe and Northern America","2013",93.34
+"Europe and Northern America","2014",93.43
+"Europe and Northern America","2015",93.51
+"Europe and Northern America","2016",93.59
+"Europe and Northern America","2017",93.67
+"Europe and Northern America","2018",93.76
+"Europe and Northern America","2019",93.84
+"Europe and Northern America","2020",93.92
+"Europe and Northern America","2021",94
+"Europe and Northern America","2022",94.1
+"Europe and Northern America","2023",94.18
+"Fiji","2000",39.23
+"Fiji","2001",39.33
+"Fiji","2002",39.43
+"Fiji","2003",39.53
+"Fiji","2004",39.63
+"Fiji","2005",39.73
+"Fiji","2006",39.83
+"Fiji","2007",39.93
+"Fiji","2008",40.05
+"Fiji","2009",40.18
+"Fiji","2010",40.31
+"Fiji","2011",40.44
+"Fiji","2012",40.57
+"Fiji","2013",40.7
+"Fiji","2014",40.83
+"Fiji","2015",40.96
+"Fiji","2016",41.09
+"Fiji","2017",41.22
+"Fiji","2018",41.35
+"Fiji","2019",41.48
+"Fiji","2020",41.61
+"Fiji","2021",41.74
+"Fiji","2022",41.86
+"Fiji","2023",41.99
+"Finland","2000",94.38
+"Finland","2001",94.71
+"Finland","2002",95.04
+"Finland","2003",95.38
+"Finland","2004",95.71
+"Finland","2005",96.05
+"Finland","2006",96.38
+"Finland","2007",96.72
+"Finland","2008",97.05
+"Finland","2009",97.38
+"Finland","2010",97.72
+"Finland","2011",98.05
+"Finland","2012",98.39
+"Finland","2013",98.72
+"Finland","2014",99.06
+"Finland","2015",99.39
+"Finland","2016",99.63
+"Finland","2017",99.63
+"Finland","2018",99.63
+"Finland","2019",99.64
+"Finland","2020",99.64
+"Finland","2021",99.64
+"Finland","2022",99.64
+"Finland","2023",99.64
+"France","2000",97.36
+"France","2001",97.35
+"France","2002",97.35
+"France","2003",97.35
+"France","2004",97.47
+"France","2005",97.59
+"France","2006",97.71
+"France","2007",97.83
+"France","2008",97.96
+"France","2009",98.08
+"France","2010",98.21
+"France","2011",98.33
+"France","2012",98.46
+"France","2013",98.59
+"France","2014",98.72
+"France","2015",98.85
+"France","2016",98.98
+"France","2017",99.11
+"France","2018",99.24
+"France","2019",99.38
+"France","2020",99.51
+"France","2021",99.64
+"France","2022",99.7
+"France","2023",99.71
+"French Guiana","2001",88.87
+"French Guiana","2002",88.87
+"French Guiana","2003",88.87
+"French Guiana","2004",88.87
+"French Guiana","2005",88.87
+"French Guiana","2006",89.06
+"French Guiana","2007",89.24
+"French Guiana","2008",89.43
+"French Guiana","2009",89.62
+"French Guiana","2010",89.8
+"French Guiana","2011",89.99
+"French Guiana","2012",90.17
+"French Guiana","2013",90.36
+"French Guiana","2014",90.55
+"French Guiana","2015",90.73
+"French Guiana","2016",90.92
+"French Guiana","2017",91.11
+"French Guiana","2018",91.3
+"French Guiana","2019",91.48
+"French Guiana","2020",91.67
+"French Guiana","2021",91.86
+"French Guiana","2022",92.05
+"French Guiana","2023",92.24
+"French Polynesia","2000",90.45
+"French Polynesia","2001",90.45
+"French Polynesia","2002",90.45
+"French Polynesia","2003",90.45
+"French Polynesia","2004",90.45
+"French Polynesia","2005",90.45
+"French Polynesia","2006",90.45
+"French Polynesia","2007",90.45
+"French Polynesia","2008",90.45
+"French Polynesia","2009",90.45
+"French Polynesia","2010",90.45
+"French Polynesia","2011",90.45
+"French Polynesia","2012",90.45
+"French Polynesia","2013",90.45
+"French Polynesia","2014",90.45
+"French Polynesia","2015",90.45
+"French Polynesia","2016",90.45
+"French Polynesia","2017",90.45
+"French Polynesia","2018",90.45
+"French Polynesia","2019",90.45
+"French Polynesia","2020",90.45
+"French Polynesia","2021",90.45
+"French Polynesia","2022",90.45
+"French Polynesia","2023",90.45
+"Gambia","2000",23.3
+"Gambia","2001",24.33
+"Gambia","2002",25.38
+"Gambia","2003",26.43
+"Gambia","2004",27.44
+"Gambia","2005",28.47
+"Gambia","2006",29.51
+"Gambia","2007",30.56
+"Gambia","2008",31.63
+"Gambia","2009",32.72
+"Gambia","2010",33.82
+"Gambia","2011",34.93
+"Gambia","2012",36.06
+"Gambia","2013",37.2
+"Gambia","2014",38.36
+"Gambia","2015",39.52
+"Gambia","2016",40.7
+"Gambia","2017",41.88
+"Gambia","2018",43.07
+"Gambia","2019",44.28
+"Gambia","2020",45.49
+"Gambia","2021",46.68
+"Gambia","2022",47.25
+"Gambia","2023",47.72
+"Georgia","2000",59.44
+"Georgia","2001",59.41
+"Georgia","2002",59.48
+"Georgia","2003",59.7
+"Georgia","2004",59.91
+"Georgia","2005",60.13
+"Georgia","2006",60.34
+"Georgia","2007",60.55
+"Georgia","2008",60.76
+"Georgia","2009",60.98
+"Georgia","2010",61.19
+"Georgia","2011",61.4
+"Georgia","2012",61.6
+"Georgia","2013",62.63
+"Georgia","2014",63.68
+"Georgia","2015",64.73
+"Georgia","2016",65.79
+"Georgia","2017",66.88
+"Georgia","2018",67.97
+"Georgia","2019",69.08
+"Georgia","2020",69.46
+"Georgia","2021",69.72
+"Georgia","2022",69.99
+"Georgia","2023",70.26
+"Germany","2000",99.84
+"Germany","2001",99.84
+"Germany","2002",99.84
+"Germany","2003",99.84
+"Germany","2004",99.85
+"Germany","2005",99.86
+"Germany","2006",99.86
+"Germany","2007",99.87
+"Germany","2008",99.88
+"Germany","2009",99.88
+"Germany","2010",99.88
+"Germany","2011",99.88
+"Germany","2012",99.89
+"Germany","2013",99.89
+"Germany","2014",99.89
+"Germany","2015",99.9
+"Germany","2016",99.9
+"Germany","2017",99.9
+"Germany","2018",99.91
+"Germany","2019",99.91
+"Germany","2020",99.91
+"Germany","2021",99.92
+"Germany","2022",99.92
+"Germany","2023",99.92
+"Ghana","2000",14.36
+"Ghana","2001",14.64
+"Ghana","2002",15.67
+"Ghana","2003",16.72
+"Ghana","2004",17.79
+"Ghana","2005",18.88
+"Ghana","2006",19.99
+"Ghana","2007",21.12
+"Ghana","2008",22.27
+"Ghana","2009",23.44
+"Ghana","2010",24.63
+"Ghana","2011",25.83
+"Ghana","2012",27.06
+"Ghana","2013",28.3
+"Ghana","2014",29.55
+"Ghana","2015",30.83
+"Ghana","2016",32.11
+"Ghana","2017",33.42
+"Ghana","2018",34.74
+"Ghana","2019",36.07
+"Ghana","2020",37.42
+"Ghana","2021",38.79
+"Ghana","2022",40.16
+"Ghana","2023",41.54
+"Gibraltar","2000",100
+"Gibraltar","2001",100
+"Gibraltar","2002",100
+"Gibraltar","2003",100
+"Gibraltar","2004",100
+"Gibraltar","2005",100
+"Gibraltar","2006",100
+"Gibraltar","2007",100
+"Gibraltar","2008",100
+"Gibraltar","2009",100
+"Gibraltar","2010",100
+"Gibraltar","2011",100
+"Gibraltar","2012",100
+"Gibraltar","2013",100
+"Gibraltar","2014",100
+"Gibraltar","2015",100
+"Gibraltar","2016",100
+"Gibraltar","2017",100
+"Gibraltar","2018",100
+"Gibraltar","2019",100
+"Gibraltar","2020",100
+"Gibraltar","2021",100
+"Gibraltar","2022",100
+"Gibraltar","2023",100
+"Greece","2000",99.37
+"Greece","2001",99.42
+"Greece","2002",99.46
+"Greece","2003",99.51
+"Greece","2004",99.55
+"Greece","2005",99.59
+"Greece","2006",99.63
+"Greece","2007",99.67
+"Greece","2008",99.71
+"Greece","2009",99.53
+"Greece","2010",99.35
+"Greece","2011",99.16
+"Greece","2012",98.98
+"Greece","2013",98.8
+"Greece","2014",98.62
+"Greece","2015",98.44
+"Greece","2016",98.25
+"Greece","2017",98.06
+"Greece","2018",97.86
+"Greece","2019",97.66
+"Greece","2020",97.47
+"Greece","2021",97.27
+"Greece","2022",97.08
+"Greece","2023",96.88
+"Grenada","2000",78.72
+"Grenada","2001",79.61
+"Grenada","2002",80.5
+"Grenada","2003",81.4
+"Grenada","2004",82.3
+"Grenada","2005",83.21
+"Grenada","2006",84.12
+"Grenada","2007",85.03
+"Grenada","2008",85.95
+"Grenada","2009",86.86
+"Grenada","2010",87.79
+"Grenada","2011",88.71
+"Grenada","2012",89.48
+"Grenada","2013",89.78
+"Grenada","2014",89.92
+"Grenada","2015",89.92
+"Grenada","2016",89.92
+"Grenada","2017",89.92
+"Guadeloupe","2001",97.5
+"Guadeloupe","2002",97.5
+"Guadeloupe","2003",97.5
+"Guadeloupe","2004",97.5
+"Guadeloupe","2005",97.5
+"Guadeloupe","2006",97.54
+"Guadeloupe","2007",97.58
+"Guadeloupe","2008",97.63
+"Guadeloupe","2009",97.67
+"Guadeloupe","2010",97.71
+"Guadeloupe","2011",97.75
+"Guadeloupe","2012",97.79
+"Guadeloupe","2013",97.69
+"Guadeloupe","2014",97.59
+"Guadeloupe","2015",97.48
+"Guadeloupe","2016",97.38
+"Guadeloupe","2017",97.28
+"Guadeloupe","2018",97.17
+"Guadeloupe","2019",97.07
+"Guadeloupe","2020",96.96
+"Guadeloupe","2021",96.86
+"Guadeloupe","2022",96.76
+"Guadeloupe","2023",96.65
+"Guam","2000",99.47
+"Guam","2001",99.48
+"Guam","2002",99.44
+"Guam","2003",99.39
+"Guam","2004",99.33
+"Guam","2005",99.27
+"Guam","2006",99.21
+"Guam","2007",99.15
+"Guam","2008",99.1
+"Guam","2009",99.04
+"Guam","2010",98.98
+"Guam","2011",98.92
+"Guam","2012",98.86
+"Guam","2013",98.8
+"Guam","2014",98.75
+"Guam","2015",98.69
+"Guam","2016",98.63
+"Guam","2017",98.57
+"Guam","2018",98.51
+"Guam","2019",98.46
+"Guam","2020",98.3
+"Guam","2021",97.23
+"Guam","2022",96.15
+"Guam","2023",95.07
+"Guatemala","2000",49.84
+"Guatemala","2001",49.85
+"Guatemala","2002",49.85
+"Guatemala","2003",49.85
+"Guatemala","2004",49.83
+"Guatemala","2005",49.82
+"Guatemala","2006",49.8
+"Guatemala","2007",49.77
+"Guatemala","2008",49.74
+"Guatemala","2009",49.71
+"Guatemala","2010",49.67
+"Guatemala","2011",49.63
+"Guatemala","2012",49.58
+"Guatemala","2013",49.54
+"Guatemala","2014",49.49
+"Guatemala","2015",49.43
+"Guatemala","2016",49.38
+"Guatemala","2017",49.32
+"Guatemala","2018",49.25
+"Guatemala","2019",49.19
+"Guatemala","2020",49.12
+"Guatemala","2021",49.04
+"Guatemala","2022",48.96
+"Guatemala","2023",48.88
+"Guinea-Bissau","2000",17.69
+"Guinea-Bissau","2001",17.99
+"Guinea-Bissau","2002",18.29
+"Guinea-Bissau","2003",18.59
+"Guinea-Bissau","2004",18.88
+"Guinea-Bissau","2005",19.18
+"Guinea-Bissau","2006",19.48
+"Guinea-Bissau","2007",19.77
+"Guinea-Bissau","2008",20.07
+"Guinea-Bissau","2009",20.36
+"Guinea-Bissau","2010",20.65
+"Guinea-Bissau","2011",20.94
+"Guinea-Bissau","2012",21.23
+"Guinea-Bissau","2013",21.52
+"Guinea-Bissau","2014",21.8
+"Guinea-Bissau","2015",22.08
+"Guinea-Bissau","2016",22.36
+"Guinea-Bissau","2017",22.64
+"Guinea-Bissau","2018",22.91
+"Guinea-Bissau","2019",23.18
+"Guinea-Bissau","2020",23.44
+"Guinea-Bissau","2021",23.7
+"Guinea-Bissau","2022",23.79
+"Guinea-Bissau","2023",23.89
+"Guyana","2000",62.74
+"Guyana","2001",62.93
+"Guyana","2002",63.13
+"Guyana","2003",63.3
+"Guyana","2004",63.47
+"Guyana","2005",63.64
+"Guyana","2006",63.82
+"Guyana","2007",63.99
+"Guyana","2008",64.17
+"Guyana","2009",64.34
+"Guyana","2010",64.52
+"Guyana","2011",64.7
+"Guyana","2012",64.92
+"Guyana","2013",65.13
+"Guyana","2014",65.35
+"Guyana","2015",65.57
+"Guyana","2016",65.79
+"Guyana","2017",66.01
+"Guyana","2018",66.23
+"Guyana","2019",66.46
+"Guyana","2020",66.68
+"Guyana","2021",66.91
+"Guyana","2022",67.14
+"Guyana","2023",67.16
+"Honduras","2000",41.77
+"Honduras","2001",42.01
+"Honduras","2002",42.26
+"Honduras","2003",43.61
+"Honduras","2004",44.99
+"Honduras","2005",46.4
+"Honduras","2006",47.84
+"Honduras","2007",49.32
+"Honduras","2008",50.82
+"Honduras","2009",52.36
+"Honduras","2010",53.93
+"Honduras","2011",55.54
+"Honduras","2012",57.17
+"Honduras","2013",58.84
+"Honduras","2014",60.54
+"Honduras","2015",61.91
+"Honduras","2016",62.34
+"Honduras","2017",62.77
+"Honduras","2018",63.19
+"Honduras","2019",63.61
+"Honduras","2020",64.02
+"Honduras","2021",64.43
+"Honduras","2022",64.84
+"Honduras","2023",65.2
+"Hungary","2000",82.85
+"Hungary","2001",83.11
+"Hungary","2002",83.41
+"Hungary","2003",83.72
+"Hungary","2004",84.01
+"Hungary","2005",84.32
+"Hungary","2006",84.62
+"Hungary","2007",84.93
+"Hungary","2008",85.23
+"Hungary","2009",85.53
+"Hungary","2010",85.81
+"Hungary","2011",86.1
+"Hungary","2012",86.37
+"Hungary","2013",87.71
+"Hungary","2014",89.07
+"Hungary","2015",90.42
+"Hungary","2016",91.77
+"Hungary","2017",93.13
+"Hungary","2018",94.49
+"Hungary","2019",95.85
+"Hungary","2020",97.21
+"Hungary","2021",98.53
+"Hungary","2022",99.66
+"Hungary","2023",100
+"Iceland","2000",90.16
+"Iceland","2001",90.69
+"Iceland","2002",91.23
+"Iceland","2003",91.76
+"Iceland","2004",92.3
+"Iceland","2005",92.83
+"Iceland","2006",93.37
+"Iceland","2007",93.9
+"Iceland","2008",94.44
+"Iceland","2009",94.97
+"Iceland","2010",95.51
+"Iceland","2011",96.04
+"Iceland","2012",96.58
+"Iceland","2013",97.11
+"Iceland","2014",97.65
+"Iceland","2015",98.18
+"Iceland","2016",98.72
+"Iceland","2017",99.25
+"Iceland","2018",99.79
+"Iceland","2019",100
+"Iceland","2020",100
+"Iceland","2021",100
+"Iceland","2022",100
+"Iceland","2023",100
+"India","2000",37.64
+"India","2001",39.1
+"India","2002",40.61
+"India","2003",42.13
+"India","2004",43.66
+"India","2005",45.2
+"India","2006",46.75
+"India","2007",48.32
+"India","2008",49.9
+"India","2009",51.48
+"India","2010",53.08
+"India","2011",54.69
+"India","2012",56.31
+"India","2013",57.94
+"India","2014",59.58
+"India","2015",61.23
+"India","2016",62.9
+"India","2017",64.57
+"India","2018",66.25
+"India","2019",67.93
+"India","2020",69.63
+"India","2021",71.32
+"India","2022",73.03
+"India","2023",74.73
+"Indonesia","2000",23.51
+"Indonesia","2001",23.85
+"Indonesia","2002",24.19
+"Indonesia","2003",24.53
+"Indonesia","2004",24.86
+"Indonesia","2005",25.2
+"Indonesia","2006",25.53
+"Indonesia","2007",25.86
+"Indonesia","2008",26.18
+"Indonesia","2009",26.51
+"Indonesia","2010",26.82
+"Indonesia","2011",27.13
+"Indonesia","2012",27.43
+"Indonesia","2013",27.73
+"Indonesia","2014",28.03
+"Indonesia","2015",28.33
+"Indonesia","2016",28.62
+"Indonesia","2017",28.91
+"Indonesia","2018",29.2
+"Indonesia","2019",29.49
+"Indonesia","2020",29.77
+"Indonesia","2021",30.05
+"Indonesia","2022",30.33
+"Indonesia","2023",30.4
+"Iran (Islamic Republic of)","2000",90.39
+"Iran (Islamic Republic of)","2001",90.62
+"Iran (Islamic Republic of)","2002",90.83
+"Iran (Islamic Republic of)","2003",91.05
+"Iran (Islamic Republic of)","2004",91.25
+"Iran (Islamic Republic of)","2005",91.46
+"Iran (Islamic Republic of)","2006",91.66
+"Iran (Islamic Republic of)","2007",91.85
+"Iran (Islamic Republic of)","2008",92.03
+"Iran (Islamic Republic of)","2009",92.21
+"Iran (Islamic Republic of)","2010",92.38
+"Iran (Islamic Republic of)","2011",92.55
+"Iran (Islamic Republic of)","2012",92.72
+"Iran (Islamic Republic of)","2013",92.88
+"Iran (Islamic Republic of)","2014",93.03
+"Iran (Islamic Republic of)","2015",93.19
+"Iran (Islamic Republic of)","2016",93.34
+"Iran (Islamic Republic of)","2017",93.48
+"Iran (Islamic Republic of)","2018",93.63
+"Iran (Islamic Republic of)","2019",93.77
+"Iran (Islamic Republic of)","2020",93.9
+"Iran (Islamic Republic of)","2021",94.03
+"Iran (Islamic Republic of)","2022",94.16
+"Iran (Islamic Republic of)","2023",94.29
+"Iraq","2000",50.24
+"Iraq","2001",50.72
+"Iraq","2002",51.19
+"Iraq","2003",51.67
+"Iraq","2004",52.14
+"Iraq","2005",52.62
+"Iraq","2006",53.09
+"Iraq","2007",53.56
+"Iraq","2008",54.03
+"Iraq","2009",54.5
+"Iraq","2010",54.99
+"Iraq","2011",55.48
+"Iraq","2012",55.97
+"Iraq","2013",56.46
+"Iraq","2014",56.95
+"Iraq","2015",57.43
+"Iraq","2016",57.91
+"Iraq","2017",58.4
+"Iraq","2018",58.88
+"Iraq","2019",59.36
+"Iraq","2020",59.66
+"Iraq","2021",59.7
+"Iraq","2022",59.74
+"Iraq","2023",59.78
+"Ireland","2000",75.39
+"Ireland","2001",75.48
+"Ireland","2002",75.58
+"Ireland","2003",75.68
+"Ireland","2004",75.78
+"Ireland","2005",76.99
+"Ireland","2006",78.19
+"Ireland","2007",79.36
+"Ireland","2008",80.52
+"Ireland","2009",81.66
+"Ireland","2010",82.8
+"Ireland","2011",83.92
+"Ireland","2012",85.04
+"Ireland","2013",86.14
+"Ireland","2014",87.24
+"Ireland","2015",88.32
+"Ireland","2016",89.93
+"Ireland","2017",91.52
+"Ireland","2018",93.11
+"Ireland","2019",93.69
+"Ireland","2020",94.16
+"Ireland","2021",94.65
+"Ireland","2022",95.13
+"Ireland","2023",95.63
+"Isle of Man","2009",96.67
+"Isle of Man","2010",96.67
+"Isle of Man","2011",96.67
+"Isle of Man","2012",96.67
+"Isle of Man","2013",96.67
+"Isle of Man","2014",97
+"Isle of Man","2015",97.34
+"Isle of Man","2016",97.68
+"Isle of Man","2017",98.01
+"Isle of Man","2018",98.35
+"Isle of Man","2019",98.69
+"Isle of Man","2020",99.03
+"Isle of Man","2021",99.37
+"Isle of Man","2022",99.71
+"Isle of Man","2023",99.92
+"Israel","2000",99.76
+"Israel","2001",99.76
+"Israel","2002",99.75
+"Israel","2003",99.74
+"Israel","2004",99.72
+"Israel","2005",99.71
+"Israel","2006",99.7
+"Israel","2007",99.68
+"Israel","2008",99.67
+"Israel","2009",99.66
+"Israel","2010",99.64
+"Israel","2011",99.63
+"Israel","2012",99.62
+"Israel","2013",99.61
+"Israel","2014",99.59
+"Israel","2015",99.58
+"Israel","2016",99.57
+"Israel","2017",99.55
+"Israel","2018",99.54
+"Israel","2019",99.53
+"Israel","2020",99.51
+"Israel","2021",99.5
+"Israel","2022",99.49
+"Israel","2023",99.48
+"Italy","2000",94.77
+"Italy","2001",94.99
+"Italy","2002",95.21
+"Italy","2003",95.42
+"Italy","2004",95.54
+"Italy","2005",95.61
+"Italy","2006",95.69
+"Italy","2007",95.76
+"Italy","2008",95.83
+"Italy","2009",95.91
+"Italy","2010",95.98
+"Italy","2011",96.05
+"Italy","2012",96.13
+"Italy","2013",96.2
+"Italy","2014",96.27
+"Italy","2015",96.32
+"Italy","2016",96.37
+"Italy","2017",96.42
+"Italy","2018",96.47
+"Italy","2019",96.52
+"Italy","2020",96.56
+"Italy","2021",96.61
+"Italy","2022",96.66
+"Italy","2023",96.71
+"Japan","2000",97.87
+"Japan","2001",97.87
+"Japan","2002",97.87
+"Japan","2003",97.87
+"Japan","2004",97.87
+"Japan","2005",97.91
+"Japan","2006",97.96
+"Japan","2007",98
+"Japan","2008",98.05
+"Japan","2009",98.09
+"Japan","2010",98.14
+"Japan","2011",98.18
+"Japan","2012",98.23
+"Japan","2013",98.27
+"Japan","2014",98.32
+"Japan","2015",98.37
+"Japan","2016",98.41
+"Japan","2017",98.46
+"Japan","2018",98.5
+"Japan","2019",98.55
+"Japan","2020",98.59
+"Japan","2021",98.64
+"Japan","2022",98.68
+"Japan","2023",98.73
+"Jersey","2007",91.49
+"Jersey","2008",91.49
+"Jersey","2009",91.49
+"Jersey","2010",91.49
+"Jersey","2011",91.49
+"Jersey","2012",91.63
+"Jersey","2013",91.76
+"Jersey","2014",91.9
+"Jersey","2015",92.03
+"Jersey","2016",92.17
+"Jersey","2017",92.3
+"Jersey","2018",92.44
+"Jersey","2019",92.57
+"Jersey","2020",92.71
+"Jersey","2021",92.85
+"Jersey","2022",92.85
+"Jersey","2023",92.85
+"Jordan","2000",55.52
+"Jordan","2001",55.54
+"Jordan","2002",55.55
+"Jordan","2003",55.57
+"Jordan","2004",55.59
+"Jordan","2005",55.52
+"Jordan","2006",57.11
+"Jordan","2007",58.74
+"Jordan","2008",60.4
+"Jordan","2009",62.08
+"Jordan","2010",63.79
+"Jordan","2011",65.52
+"Jordan","2012",67.27
+"Jordan","2013",69.03
+"Jordan","2014",70.82
+"Jordan","2015",72.61
+"Jordan","2016",74.41
+"Jordan","2017",76.21
+"Jordan","2018",78.02
+"Jordan","2019",79.83
+"Jordan","2020",81.65
+"Jordan","2021",83.47
+"Jordan","2022",85.29
+"Jordan","2023",87.12
+"Kazakhstan","2000",63.2
+"Kazakhstan","2001",63.45
+"Kazakhstan","2002",64.99
+"Kazakhstan","2003",66.54
+"Kazakhstan","2004",68.11
+"Kazakhstan","2005",69.7
+"Kazakhstan","2006",71.31
+"Kazakhstan","2007",72.93
+"Kazakhstan","2008",74.56
+"Kazakhstan","2009",76.22
+"Kazakhstan","2010",77.88
+"Kazakhstan","2011",79.57
+"Kazakhstan","2012",81.27
+"Kazakhstan","2013",82.98
+"Kazakhstan","2014",84.72
+"Kazakhstan","2015",86.46
+"Kazakhstan","2016",88.15
+"Kazakhstan","2017",89.83
+"Kazakhstan","2018",90.11
+"Kazakhstan","2019",90.4
+"Kazakhstan","2020",90.68
+"Kazakhstan","2021",90.97
+"Kazakhstan","2022",91.25
+"Kazakhstan","2023",91.53
+"Kiribati","2000",9.5
+"Kiribati","2001",9.72
+"Kiribati","2002",9.88
+"Kiribati","2003",10.04
+"Kiribati","2004",10.2
+"Kiribati","2005",10.35
+"Kiribati","2006",10.57
+"Kiribati","2007",10.83
+"Kiribati","2008",11.09
+"Kiribati","2009",11.35
+"Kiribati","2010",11.62
+"Kiribati","2011",11.88
+"Kiribati","2012",12.15
+"Kiribati","2013",12.43
+"Kiribati","2014",12.7
+"Kiribati","2015",12.98
+"Kiribati","2016",13.25
+"Kiribati","2017",13.53
+"Kiribati","2018",13.8
+"Kiribati","2019",14.08
+"Kiribati","2020",14.35
+"Kiribati","2021",14.62
+"Kiribati","2022",14.89
+"Kiribati","2023",14.99
+"Kuwait","2000",100
+"Kuwait","2001",100
+"Kuwait","2002",100
+"Kuwait","2003",100
+"Kuwait","2004",100
+"Kuwait","2005",100
+"Kuwait","2006",100
+"Kuwait","2007",100
+"Kuwait","2008",100
+"Kuwait","2009",100
+"Kuwait","2010",100
+"Kuwait","2011",100
+"Kuwait","2012",100
+"Kuwait","2013",100
+"Kuwait","2014",100
+"Kuwait","2015",100
+"Kuwait","2016",100
+"Kuwait","2017",100
+"Kuwait","2018",100
+"Kuwait","2019",100
+"Kuwait","2020",100
+"Kuwait","2021",100
+"Kuwait","2022",100
+"Kuwait","2023",100
+"Kyrgyzstan","2000",46.42
+"Kyrgyzstan","2001",46.41
+"Kyrgyzstan","2002",46.69
+"Kyrgyzstan","2003",46.97
+"Kyrgyzstan","2004",47.24
+"Kyrgyzstan","2005",49
+"Kyrgyzstan","2006",50.8
+"Kyrgyzstan","2007",52.62
+"Kyrgyzstan","2008",54.47
+"Kyrgyzstan","2009",56.36
+"Kyrgyzstan","2010",58.28
+"Kyrgyzstan","2011",60.24
+"Kyrgyzstan","2012",62.24
+"Kyrgyzstan","2013",64.28
+"Kyrgyzstan","2014",66.35
+"Kyrgyzstan","2015",68.46
+"Kyrgyzstan","2016",70.6
+"Kyrgyzstan","2017",72.36
+"Kyrgyzstan","2018",73.66
+"Kyrgyzstan","2019",74.98
+"Kyrgyzstan","2020",76.24
+"Kyrgyzstan","2021",77.61
+"Kyrgyzstan","2022",76.9
+"Kyrgyzstan","2023",75.4
+"Lao People's Democratic Republic","2000",5.14
+"Lao People's Democratic Republic","2001",6.73
+"Lao People's Democratic Republic","2002",7.96
+"Lao People's Democratic Republic","2003",8.33
+"Lao People's Democratic Republic","2004",8.7
+"Lao People's Democratic Republic","2005",9.04
+"Lao People's Democratic Republic","2006",9.34
+"Lao People's Democratic Republic","2007",9.64
+"Lao People's Democratic Republic","2008",9.94
+"Lao People's Democratic Republic","2009",10.24
+"Lao People's Democratic Republic","2010",10.54
+"Lao People's Democratic Republic","2011",10.84
+"Lao People's Democratic Republic","2012",11.14
+"Lao People's Democratic Republic","2013",11.44
+"Lao People's Democratic Republic","2014",11.74
+"Lao People's Democratic Republic","2015",12.04
+"Lao People's Democratic Republic","2016",14.27
+"Lao People's Democratic Republic","2017",16.59
+"Lao People's Democratic Republic","2018",19
+"Lao People's Democratic Republic","2019",21.51
+"Lao People's Democratic Republic","2020",24.11
+"Lao People's Democratic Republic","2021",26.8
+"Lao People's Democratic Republic","2022",29.58
+"Lao People's Democratic Republic","2023",32.4
+"Latin America and the Caribbean","2000",70.13
+"Latin America and the Caribbean","2001",70.41
+"Latin America and the Caribbean","2002",70.68
+"Latin America and the Caribbean","2003",70.95
+"Latin America and the Caribbean","2004",71.21
+"Latin America and the Caribbean","2005",71.85
+"Latin America and the Caribbean","2006",72.1
+"Latin America and the Caribbean","2007",72.36
+"Latin America and the Caribbean","2008",72.64
+"Latin America and the Caribbean","2009",72.93
+"Latin America and the Caribbean","2010",73.21
+"Latin America and the Caribbean","2011",73.49
+"Latin America and the Caribbean","2012",73.75
+"Latin America and the Caribbean","2013",74.22
+"Latin America and the Caribbean","2014",74.7
+"Latin America and the Caribbean","2015",75.17
+"Latin America and the Caribbean","2016",75.62
+"Latin America and the Caribbean","2017",76.07
+"Latin America and the Caribbean","2018",76.53
+"Latin America and the Caribbean","2019",76.97
+"Latin America and the Caribbean","2020",77.42
+"Latin America and the Caribbean","2021",77.83
+"Latin America and the Caribbean","2022",78.2
+"Latin America and the Caribbean","2023",78.59
+"Latvia","2000",92.52
+"Latvia","2001",92.5
+"Latvia","2002",92.51
+"Latvia","2003",92.54
+"Latvia","2004",92.58
+"Latvia","2005",92.63
+"Latvia","2006",92.7
+"Latvia","2007",92.95
+"Latvia","2008",93.2
+"Latvia","2009",93.46
+"Latvia","2010",93.72
+"Latvia","2011",93.99
+"Latvia","2012",94.25
+"Latvia","2013",94.52
+"Latvia","2014",94.78
+"Latvia","2015",95.05
+"Latvia","2016",95.31
+"Latvia","2017",95.58
+"Latvia","2018",95.85
+"Latvia","2019",96.12
+"Latvia","2020",96.39
+"Latvia","2021",96.66
+"Latvia","2022",96.93
+"Latvia","2023",96.97
+"Lebanon","2000",43.43
+"Lebanon","2001",43.67
+"Lebanon","2002",43.91
+"Lebanon","2003",44.14
+"Lebanon","2004",44.38
+"Lebanon","2005",44.61
+"Lebanon","2006",44.85
+"Lebanon","2007",45.09
+"Lebanon","2008",45.32
+"Lebanon","2009",45.56
+"Lebanon","2010",45.79
+"Lebanon","2011",46.03
+"Lebanon","2012",46.26
+"Lebanon","2013",46.5
+"Lebanon","2014",46.74
+"Lebanon","2015",46.97
+"Lebanon","2016",47.21
+"Lebanon","2017",47.44
+"Lebanon","2018",47.63
+"Lebanon","2019",47.7
+"Lebanon","2020",47.7
+"Lebanon","2021",47.7
+"Lebanon","2022",47.7
+"Lebanon","2023",47.7
+"Lesotho","2000",8.69
+"Lesotho","2001",9.59
+"Lesotho","2002",10.51
+"Lesotho","2003",11.45
+"Lesotho","2004",12.41
+"Lesotho","2005",13.39
+"Lesotho","2006",14.39
+"Lesotho","2007",15.37
+"Lesotho","2008",16.36
+"Lesotho","2009",17.37
+"Lesotho","2010",18.39
+"Lesotho","2011",19.43
+"Lesotho","2012",20.43
+"Lesotho","2013",21.35
+"Lesotho","2014",22.2
+"Lesotho","2015",23.06
+"Lesotho","2016",23.94
+"Lesotho","2017",24.82
+"Lesotho","2018",25.71
+"Lesotho","2019",26.62
+"Lesotho","2020",27.53
+"Lesotho","2021",28.46
+"Lesotho","2022",29.4
+"Lesotho","2023",30.36
+"Liechtenstein","2000",100
+"Liechtenstein","2001",100
+"Liechtenstein","2002",100
+"Liechtenstein","2003",100
+"Liechtenstein","2004",100
+"Liechtenstein","2005",100
+"Liechtenstein","2006",100
+"Liechtenstein","2007",100
+"Liechtenstein","2008",100
+"Liechtenstein","2009",100
+"Liechtenstein","2010",100
+"Liechtenstein","2011",100
+"Liechtenstein","2012",100
+"Liechtenstein","2013",100
+"Liechtenstein","2014",100
+"Liechtenstein","2015",100
+"Liechtenstein","2016",100
+"Liechtenstein","2017",100
+"Liechtenstein","2018",100
+"Liechtenstein","2019",100
+"Liechtenstein","2020",100
+"Liechtenstein","2021",100
+"Liechtenstein","2022",100
+"Liechtenstein","2023",100
+"Lithuania","2000",69.83
+"Lithuania","2001",70.18
+"Lithuania","2002",70.53
+"Lithuania","2003",70.88
+"Lithuania","2004",72.48
+"Lithuania","2005",74.11
+"Lithuania","2006",75.76
+"Lithuania","2007",77.42
+"Lithuania","2008",79.09
+"Lithuania","2009",80.77
+"Lithuania","2010",82.45
+"Lithuania","2011",84.15
+"Lithuania","2012",85.88
+"Lithuania","2013",87.61
+"Lithuania","2014",89.36
+"Lithuania","2015",91.13
+"Lithuania","2016",92.9
+"Lithuania","2017",94.48
+"Lithuania","2018",94.94
+"Lithuania","2019",95.39
+"Lithuania","2020",95.73
+"Lithuania","2021",96.06
+"Lithuania","2022",96.39
+"Lithuania","2023",96.71
+"Luxembourg","2000",99.83
+"Luxembourg","2001",99.83
+"Luxembourg","2002",99.83
+"Luxembourg","2003",99.83
+"Luxembourg","2004",99.83
+"Luxembourg","2005",99.83
+"Luxembourg","2006",99.83
+"Luxembourg","2007",99.83
+"Luxembourg","2008",99.82
+"Luxembourg","2009",99.82
+"Luxembourg","2010",99.82
+"Luxembourg","2011",99.82
+"Luxembourg","2012",99.79
+"Luxembourg","2013",99.76
+"Luxembourg","2014",99.73
+"Luxembourg","2015",99.7
+"Luxembourg","2016",99.68
+"Luxembourg","2017",99.65
+"Luxembourg","2018",99.63
+"Luxembourg","2019",99.63
+"Luxembourg","2020",99.64
+"Luxembourg","2021",99.64
+"Luxembourg","2022",99.65
+"Luxembourg","2023",99.65
+"Madagascar","2000",7.33
+"Madagascar","2001",7.82
+"Madagascar","2002",8.33
+"Madagascar","2003",8.85
+"Madagascar","2004",9.38
+"Madagascar","2005",9.99
+"Madagascar","2006",10.62
+"Madagascar","2007",11.27
+"Madagascar","2008",11.94
+"Madagascar","2009",12.63
+"Madagascar","2010",13.33
+"Madagascar","2011",14.05
+"Madagascar","2012",14.79
+"Madagascar","2013",15.54
+"Madagascar","2014",16.31
+"Madagascar","2015",16.85
+"Madagascar","2016",17.41
+"Madagascar","2017",17.98
+"Madagascar","2018",18.57
+"Madagascar","2019",19.16
+"Madagascar","2020",19.77
+"Madagascar","2021",20.39
+"Madagascar","2022",21.02
+"Madagascar","2023",21.67
+"Malawi","2000",6.95
+"Malawi","2001",7.32
+"Malawi","2002",7.69
+"Malawi","2003",8.08
+"Malawi","2004",8.48
+"Malawi","2005",8.88
+"Malawi","2006",9.3
+"Malawi","2007",9.72
+"Malawi","2008",10.15
+"Malawi","2009",10.6
+"Malawi","2010",11.06
+"Malawi","2011",11.53
+"Malawi","2012",12.01
+"Malawi","2013",12.51
+"Malawi","2014",13.03
+"Malawi","2015",13.56
+"Malawi","2016",14.1
+"Malawi","2017",14.66
+"Malawi","2018",15.23
+"Malawi","2019",15.82
+"Malawi","2020",16.42
+"Malawi","2021",17.04
+"Malawi","2022",17.68
+"Malawi","2023",17.93
+"Malaysia","2000",91.83
+"Malaysia","2001",92
+"Malaysia","2002",92.16
+"Malaysia","2003",92.31
+"Malaysia","2004",92.47
+"Malaysia","2005",92.62
+"Malaysia","2006",92.77
+"Malaysia","2007",92.91
+"Malaysia","2008",93.05
+"Malaysia","2009",93.19
+"Malaysia","2010",93.33
+"Malaysia","2011",93.44
+"Malaysia","2012",93.56
+"Malaysia","2013",93.67
+"Malaysia","2014",93.77
+"Malaysia","2015",93.88
+"Malaysia","2016",93.98
+"Malaysia","2017",94.08
+"Malaysia","2018",94.18
+"Malaysia","2019",94.27
+"Malaysia","2020",94.36
+"Malaysia","2021",94.45
+"Malaysia","2022",94.54
+"Malaysia","2023",94.62
+"Malta","2000",100
+"Malta","2001",100
+"Malta","2002",100
+"Malta","2003",100
+"Malta","2004",100
+"Malta","2005",100
+"Malta","2006",100
+"Malta","2007",100
+"Malta","2008",100
+"Malta","2009",99.99
+"Malta","2010",99.98
+"Malta","2011",99.97
+"Malta","2012",99.96
+"Malta","2013",99.95
+"Malta","2014",99.94
+"Malta","2015",99.93
+"Malta","2016",99.92
+"Malta","2017",99.9
+"Malta","2018",99.89
+"Malta","2019",99.88
+"Malta","2020",99.87
+"Malta","2021",99.86
+"Malta","2022",99.85
+"Malta","2023",99.84
+"Martinique","2000",99.2
+"Martinique","2001",99.2
+"Martinique","2002",99.2
+"Martinique","2003",99.2
+"Martinique","2004",99.2
+"Martinique","2005",99.2
+"Martinique","2006",99.18
+"Martinique","2007",99.17
+"Martinique","2008",99.16
+"Martinique","2009",99.15
+"Martinique","2010",99.14
+"Martinique","2011",99.13
+"Martinique","2012",99.11
+"Martinique","2013",99.1
+"Martinique","2014",99.09
+"Martinique","2015",99.08
+"Martinique","2016",99.07
+"Martinique","2017",99.05
+"Martinique","2018",99.04
+"Martinique","2019",99.03
+"Martinique","2020",99.02
+"Martinique","2021",99.01
+"Martinique","2022",99
+"Martinique","2023",98.98
+"Mayotte","2006",79.37
+"Mayotte","2007",79.37
+"Mayotte","2008",79.37
+"Mayotte","2009",79.13
+"Mayotte","2010",79.13
+"Mayotte","2011",81.47
+"Mayotte","2012",83.81
+"Mayotte","2013",86.11
+"Mayotte","2014",88.35
+"Mayotte","2015",90.58
+"Mayotte","2016",92.81
+"Mayotte","2017",94.32
+"Mayotte","2018",93.88
+"Mayotte","2019",93.44
+"Mayotte","2020",93.11
+"Mayotte","2021",92.79
+"Mayotte","2022",92.46
+"Mayotte","2023",92.46
+"Mexico","2000",40.01
+"Mexico","2001",40.16
+"Mexico","2002",40.3
+"Mexico","2003",40.44
+"Mexico","2004",40.58
+"Mexico","2005",40.72
+"Mexico","2006",40.86
+"Mexico","2007",40.99
+"Mexico","2008",41.13
+"Mexico","2009",41.26
+"Mexico","2010",41.39
+"Mexico","2011",41.52
+"Mexico","2012",41.65
+"Mexico","2013",41.77
+"Mexico","2014",41.9
+"Mexico","2015",42.02
+"Mexico","2016",42.14
+"Mexico","2017",42.27
+"Mexico","2018",42.39
+"Mexico","2019",42.5
+"Mexico","2020",42.62
+"Mexico","2021",42.74
+"Mexico","2022",42.85
+"Mexico","2023",42.91
+"Micronesia","2000",63.09
+"Micronesia","2001",63.31
+"Micronesia","2002",63.52
+"Micronesia","2003",63.72
+"Micronesia","2004",63.91
+"Micronesia","2005",63.96
+"Micronesia","2006",63.84
+"Micronesia","2007",63.7
+"Micronesia","2008",63.55
+"Micronesia","2009",63.39
+"Micronesia","2010",63.25
+"Micronesia","2011",63.17
+"Micronesia","2012",63.1
+"Micronesia","2013",63.04
+"Micronesia","2014",63
+"Micronesia","2015",62.95
+"Micronesia","2016",62.87
+"Micronesia","2017",62.84
+"Micronesia","2018",62.81
+"Micronesia","2019",62.72
+"Micronesia","2020",62.33
+"Micronesia","2021",62.04
+"Micronesia","2022",61.74
+"Micronesia","2023",61.1
+"Middle Africa","2000",14.01
+"Middle Africa","2001",14.17
+"Middle Africa","2002",14.31
+"Middle Africa","2003",14.49
+"Middle Africa","2004",14.7
+"Middle Africa","2005",14.92
+"Middle Africa","2006",15.12
+"Middle Africa","2007",15.33
+"Middle Africa","2008",15.53
+"Middle Africa","2009",15.74
+"Middle Africa","2010",15.96
+"Middle Africa","2011",16.16
+"Middle Africa","2012",16.35
+"Middle Africa","2013",16.54
+"Middle Africa","2014",16.72
+"Middle Africa","2015",16.91
+"Middle Africa","2016",17.07
+"Middle Africa","2017",17.23
+"Middle Africa","2018",17.4
+"Middle Africa","2019",17.5
+"Middle Africa","2020",17.6
+"Middle Africa","2021",17.85
+"Middle Africa","2022",17.19
+"Middle Africa","2023",17.45
+"Monaco","2000",100
+"Monaco","2001",100
+"Monaco","2002",100
+"Monaco","2003",100
+"Monaco","2004",100
+"Monaco","2005",100
+"Monaco","2006",100
+"Monaco","2007",100
+"Monaco","2008",100
+"Monaco","2009",100
+"Monaco","2010",100
+"Monaco","2011",100
+"Monaco","2012",100
+"Monaco","2013",100
+"Monaco","2014",100
+"Monaco","2015",100
+"Monaco","2016",100
+"Monaco","2017",100
+"Monaco","2018",100
+"Monaco","2019",100
+"Monaco","2020",100
+"Monaco","2021",100
+"Monaco","2022",100
+"Monaco","2023",100
+"Mongolia","2000",17.72
+"Mongolia","2001",18.76
+"Mongolia","2002",19.83
+"Mongolia","2003",20.92
+"Mongolia","2004",22.04
+"Mongolia","2005",23.17
+"Mongolia","2006",24.33
+"Mongolia","2007",25.5
+"Mongolia","2008",26.7
+"Mongolia","2009",27.9
+"Mongolia","2010",29.13
+"Mongolia","2011",30.17
+"Mongolia","2012",31.1
+"Mongolia","2013",32.04
+"Mongolia","2014",33
+"Mongolia","2015",33.97
+"Mongolia","2016",34.94
+"Mongolia","2017",35.94
+"Mongolia","2018",36.94
+"Mongolia","2019",37.97
+"Mongolia","2020",39.01
+"Mongolia","2021",40.07
+"Mongolia","2022",41.15
+"Mongolia","2023",42.25
+"Montenegro","2006",83.86
+"Montenegro","2007",84.01
+"Montenegro","2008",84.14
+"Montenegro","2009",84.26
+"Montenegro","2010",84.38
+"Montenegro","2011",84.51
+"Montenegro","2012",84.63
+"Montenegro","2013",84.75
+"Montenegro","2014",84.87
+"Montenegro","2015",84.98
+"Montenegro","2016",85.09
+"Montenegro","2017",85.18
+"Montenegro","2018",85.26
+"Montenegro","2019",85.34
+"Montenegro","2020",85.42
+"Montenegro","2021",85.44
+"Montenegro","2022",85.46
+"Montenegro","2023",85.48
+"Morocco","2000",40.69
+"Morocco","2001",41.27
+"Morocco","2002",41.84
+"Morocco","2003",42.41
+"Morocco","2004",42.98
+"Morocco","2005",43.66
+"Morocco","2006",45.39
+"Morocco","2007",47.17
+"Morocco","2008",48.98
+"Morocco","2009",50.83
+"Morocco","2010",52.72
+"Morocco","2011",54.65
+"Morocco","2012",56.6
+"Morocco","2013",58.59
+"Morocco","2014",60.61
+"Morocco","2015",62.66
+"Morocco","2016",64.73
+"Morocco","2017",66.83
+"Morocco","2018",68.96
+"Morocco","2019",71.1
+"Morocco","2020",73.27
+"Morocco","2021",75.45
+"Morocco","2022",77.64
+"Morocco","2023",79.14
+"Mozambique","2000",8.95
+"Mozambique","2001",9
+"Mozambique","2002",9.37
+"Mozambique","2003",9.74
+"Mozambique","2004",10.21
+"Mozambique","2005",10.8
+"Mozambique","2006",11.42
+"Mozambique","2007",12.09
+"Mozambique","2008",12.9
+"Mozambique","2009",13.77
+"Mozambique","2010",14.52
+"Mozambique","2011",15.25
+"Mozambique","2012",16.02
+"Mozambique","2013",16.82
+"Mozambique","2014",17.65
+"Mozambique","2015",18.51
+"Mozambique","2016",19.41
+"Mozambique","2017",20.33
+"Mozambique","2018",21.28
+"Mozambique","2019",22.26
+"Mozambique","2020",23.26
+"Mozambique","2021",24.29
+"Mozambique","2022",25.35
+"Mozambique","2023",26.44
+"Myanmar","2000",27.13
+"Myanmar","2001",28.64
+"Myanmar","2002",30.18
+"Myanmar","2003",31.76
+"Myanmar","2004",33.37
+"Myanmar","2005",35.01
+"Myanmar","2006",36.68
+"Myanmar","2007",38.39
+"Myanmar","2008",40.13
+"Myanmar","2009",41.9
+"Myanmar","2010",43.71
+"Myanmar","2011",45.35
+"Myanmar","2012",46.8
+"Myanmar","2013",48.27
+"Myanmar","2014",49.76
+"Myanmar","2015",51.27
+"Myanmar","2016",52.81
+"Myanmar","2017",54.38
+"Myanmar","2018",55.96
+"Myanmar","2019",57.57
+"Myanmar","2020",58.82
+"Myanmar","2021",59.5
+"Myanmar","2022",59.57
+"Myanmar","2023",59.65
+"Nauru","2000",18.65
+"Nauru","2001",18.65
+"Nauru","2002",18.65
+"Nauru","2003",18.65
+"Nauru","2004",18.65
+"Nauru","2005",18.65
+"Nauru","2006",18.65
+"Nauru","2007",18.65
+"Nauru","2008",18.65
+"Nauru","2009",18.65
+"Nauru","2010",18.65
+"Nauru","2011",18.65
+"Nauru","2012",18.66
+"Nauru","2013",18.66
+"Nauru","2014",18.66
+"Nauru","2015",18.66
+"Nauru","2016",18.66
+"Nauru","2017",18.66
+"Nauru","2018",18.66
+"Nauru","2019",18.66
+"Nauru","2020",18.66
+"Nauru","2021",18.66
+"Nauru","2022",18.66
+"Nauru","2023",18.66
+"Nepal","2000",26.81
+"Nepal","2001",27.09
+"Nepal","2002",27.34
+"Nepal","2003",27.6
+"Nepal","2004",27.85
+"Nepal","2005",28.1
+"Nepal","2006",28.35
+"Nepal","2007",28.6
+"Nepal","2008",28.85
+"Nepal","2009",29.1
+"Nepal","2010",29.35
+"Nepal","2011",29.59
+"Nepal","2012",29.84
+"Nepal","2013",28.41
+"Nepal","2014",26.95
+"Nepal","2015",25.47
+"Nepal","2016",23.96
+"Nepal","2017",22.43
+"Nepal","2018",20.88
+"Nepal","2019",19.3
+"Nepal","2020",17.7
+"Nepal","2021",16.07
+"Nepal","2022",16.21
+"Nepal","2023",16.35
+"Netherlands (Kingdom of the)","2000",100
+"Netherlands (Kingdom of the)","2001",100
+"Netherlands (Kingdom of the)","2002",99.99
+"Netherlands (Kingdom of the)","2003",99.99
+"Netherlands (Kingdom of the)","2004",99.99
+"Netherlands (Kingdom of the)","2005",99.99
+"Netherlands (Kingdom of the)","2006",99.99
+"Netherlands (Kingdom of the)","2007",99.99
+"Netherlands (Kingdom of the)","2008",99.98
+"Netherlands (Kingdom of the)","2009",99.98
+"Netherlands (Kingdom of the)","2010",99.98
+"Netherlands (Kingdom of the)","2011",99.98
+"Netherlands (Kingdom of the)","2012",99.98
+"Netherlands (Kingdom of the)","2013",99.98
+"Netherlands (Kingdom of the)","2014",99.98
+"Netherlands (Kingdom of the)","2015",99.97
+"Netherlands (Kingdom of the)","2016",99.97
+"Netherlands (Kingdom of the)","2017",99.97
+"Netherlands (Kingdom of the)","2018",99.97
+"Netherlands (Kingdom of the)","2019",99.97
+"Netherlands (Kingdom of the)","2020",99.97
+"Netherlands (Kingdom of the)","2021",99.96
+"Netherlands (Kingdom of the)","2022",99.96
+"Netherlands (Kingdom of the)","2023",99.96
+"New Caledonia","2000",87.04
+"New Caledonia","2001",87.04
+"New Caledonia","2002",87.04
+"New Caledonia","2003",87.71
+"New Caledonia","2004",88.37
+"New Caledonia","2005",89.04
+"New Caledonia","2006",89.71
+"New Caledonia","2007",90.38
+"New Caledonia","2008",91.05
+"New Caledonia","2009",91.73
+"New Caledonia","2010",92.4
+"New Caledonia","2011",93.08
+"New Caledonia","2012",93.76
+"New Caledonia","2013",94.45
+"New Caledonia","2014",95.13
+"New Caledonia","2015",95.5
+"New Caledonia","2016",95.73
+"New Caledonia","2017",95.96
+"New Caledonia","2018",96.18
+"New Caledonia","2019",96.41
+"New Caledonia","2020",96.64
+"New Caledonia","2021",96.87
+"New Caledonia","2022",96.87
+"New Caledonia","2023",96.87
+"New Zealand","2000",84.39
+"New Zealand","2001",84.39
+"New Zealand","2002",84.39
+"New Zealand","2003",84.39
+"New Zealand","2004",84.39
+"New Zealand","2005",84.39
+"New Zealand","2006",85.37
+"New Zealand","2007",86.35
+"New Zealand","2008",87.34
+"New Zealand","2009",88.32
+"New Zealand","2010",89.3
+"New Zealand","2011",90.28
+"New Zealand","2012",91.26
+"New Zealand","2013",92.24
+"New Zealand","2014",93.22
+"New Zealand","2015",94.2
+"New Zealand","2016",95.18
+"New Zealand","2017",96.16
+"New Zealand","2018",97.14
+"New Zealand","2019",98.12
+"New Zealand","2020",99.1
+"New Zealand","2021",100
+"New Zealand","2022",100
+"New Zealand","2023",100
+"Nigeria","2000",12.61
+"Nigeria","2001",12.98
+"Nigeria","2002",13.79
+"Nigeria","2003",14.63
+"Nigeria","2004",15.49
+"Nigeria","2005",16.37
+"Nigeria","2006",17.28
+"Nigeria","2007",18.22
+"Nigeria","2008",19.18
+"Nigeria","2009",20.17
+"Nigeria","2010",21.18
+"Nigeria","2011",22.22
+"Nigeria","2012",23.19
+"Nigeria","2013",23.77
+"Nigeria","2014",24.36
+"Nigeria","2015",24.94
+"Nigeria","2016",25.52
+"Nigeria","2017",26.09
+"Nigeria","2018",26.66
+"Nigeria","2019",27.23
+"Nigeria","2020",27.79
+"Nigeria","2021",28.36
+"Nigeria","2022",28.91
+"Nigeria","2023",29.47
+"Niue","2000",98.36
+"Niue","2001",98.36
+"Niue","2002",98.36
+"Niue","2003",98.36
+"Niue","2004",98.36
+"Niue","2005",98.3
+"Niue","2006",98.24
+"Niue","2007",98.18
+"Niue","2008",98.12
+"Niue","2009",98.06
+"Niue","2010",97.99
+"Niue","2011",97.82
+"Niue","2012",97.44
+"Niue","2013",97.07
+"Niue","2014",96.69
+"Niue","2015",96.32
+"Niue","2016",95.94
+"Niue","2017",95.57
+"Niue","2018",95.19
+"Niue","2019",94.82
+"Niue","2020",94.45
+"Niue","2021",94.07
+"Niue","2022",93.7
+"Niue","2023",93.33
+"North Macedonia","2000",80.38
+"North Macedonia","2001",80.35
+"North Macedonia","2002",80.33
+"North Macedonia","2003",80.31
+"North Macedonia","2004",80.29
+"North Macedonia","2005",80.29
+"North Macedonia","2006",80.3
+"North Macedonia","2007",80.31
+"North Macedonia","2008",80.32
+"North Macedonia","2009",80.33
+"North Macedonia","2010",80.35
+"North Macedonia","2011",80.38
+"North Macedonia","2012",80.4
+"North Macedonia","2013",80.43
+"North Macedonia","2014",80.46
+"North Macedonia","2015",80.49
+"North Macedonia","2016",80.53
+"North Macedonia","2017",80.57
+"North Macedonia","2018",80.5
+"North Macedonia","2019",80.54
+"North Macedonia","2020",80.59
+"North Macedonia","2021",80.64
+"North Macedonia","2022",80.7
+"North Macedonia","2023",80.75
+"Northern Africa","2000",65.02
+"Northern Africa","2001",65.16
+"Northern Africa","2002",65.58
+"Northern Africa","2003",65.99
+"Northern Africa","2004",66.4
+"Northern Africa","2005",66.86
+"Northern Africa","2006",67.41
+"Northern Africa","2007",67.95
+"Northern Africa","2008",68.57
+"Northern Africa","2009",69.08
+"Northern Africa","2010",69.61
+"Northern Africa","2011",69.97
+"Northern Africa","2012",70.16
+"Northern Africa","2013",70.36
+"Northern Africa","2014",70.53
+"Northern Africa","2015",70.7
+"Northern Africa","2016",70.86
+"Northern Africa","2017",71.01
+"Northern Africa","2018",71.16
+"Northern Africa","2019",71.33
+"Northern Africa","2020",71.52
+"Northern Africa","2021",71.7
+"Northern Africa","2022",72.2
+"Northern Africa","2023",72.7
+"Northern Africa and Western Asia","2000",66.48
+"Northern Africa and Western Asia","2001",66.59
+"Northern Africa and Western Asia","2002",66.84
+"Northern Africa and Western Asia","2003",67.14
+"Northern Africa and Western Asia","2004",67.44
+"Northern Africa and Western Asia","2005",67.91
+"Northern Africa and Western Asia","2006",68.51
+"Northern Africa and Western Asia","2007",69.19
+"Northern Africa and Western Asia","2008",69.77
+"Northern Africa and Western Asia","2009",70.28
+"Northern Africa and Western Asia","2010",70.82
+"Northern Africa and Western Asia","2011",71.29
+"Northern Africa and Western Asia","2012",71.66
+"Northern Africa and Western Asia","2013",71.95
+"Northern Africa and Western Asia","2014",72.22
+"Northern Africa and Western Asia","2015",72.56
+"Northern Africa and Western Asia","2016",72.96
+"Northern Africa and Western Asia","2017",73.36
+"Northern Africa and Western Asia","2018",73.77
+"Northern Africa and Western Asia","2019",74.2
+"Northern Africa and Western Asia","2020",74.61
+"Northern Africa and Western Asia","2021",74.84
+"Northern Africa and Western Asia","2022",75.28
+"Northern Africa and Western Asia","2023",75.76
+"Northern America","2005",95.41
+"Northern America","2006",95.41
+"Northern America","2007",95.42
+"Northern America","2008",95.42
+"Northern America","2009",95.42
+"Northern America","2010",95.57
+"Northern America","2011",95.72
+"Northern America","2012",95.87
+"Northern America","2013",96.02
+"Northern America","2014",96.17
+"Northern America","2015",96.32
+"Northern America","2016",96.46
+"Northern America","2017",96.61
+"Northern America","2018",96.75
+"Northern America","2019",96.89
+"Northern America","2020",97.03
+"Northern America","2021",97.17
+"Northern America","2022",97.31
+"Northern America","2023",97.4
+"Northern Europe","2000",97.51
+"Northern Europe","2001",97.56
+"Northern Europe","2002",97.61
+"Northern Europe","2003",97.65
+"Northern Europe","2004",97.77
+"Northern Europe","2005",97.88
+"Northern Europe","2006",97.99
+"Northern Europe","2007",98.09
+"Northern Europe","2008",98.2
+"Northern Europe","2009",98.3
+"Northern Europe","2010",98.41
+"Northern Europe","2011",98.52
+"Northern Europe","2012",98.62
+"Northern Europe","2013",98.72
+"Northern Europe","2014",98.81
+"Northern Europe","2015",98.9
+"Northern Europe","2016",99.02
+"Northern Europe","2017",99.12
+"Northern Europe","2018",99.21
+"Northern Europe","2019",99.3
+"Northern Europe","2020",99.35
+"Northern Europe","2021",99.38
+"Northern Europe","2022",99.4
+"Northern Europe","2023",99.43
+"Northern Mariana Islands","2000",79.64
+"Northern Mariana Islands","2001",79.8
+"Northern Mariana Islands","2002",79.96
+"Northern Mariana Islands","2003",80.11
+"Northern Mariana Islands","2004",80.2
+"Northern Mariana Islands","2005",80.28
+"Northern Mariana Islands","2006",80.37
+"Northern Mariana Islands","2007",80.45
+"Northern Mariana Islands","2008",80.54
+"Northern Mariana Islands","2009",80.62
+"Northern Mariana Islands","2010",80.7
+"Northern Mariana Islands","2011",80.79
+"Northern Mariana Islands","2012",80.87
+"Northern Mariana Islands","2013",80.95
+"Northern Mariana Islands","2014",81.04
+"Northern Mariana Islands","2015",81.12
+"Northern Mariana Islands","2016",81.2
+"Northern Mariana Islands","2017",81.28
+"Northern Mariana Islands","2018",81.36
+"Northern Mariana Islands","2019",81.45
+"Northern Mariana Islands","2020",81.45
+"Northern Mariana Islands","2021",81.45
+"Northern Mariana Islands","2022",81.45
+"Northern Mariana Islands","2023",81.45
+"Norway","2000",99.68
+"Norway","2001",99.68
+"Norway","2002",99.68
+"Norway","2003",99.65
+"Norway","2004",99.62
+"Norway","2005",99.59
+"Norway","2006",99.57
+"Norway","2007",99.54
+"Norway","2008",99.51
+"Norway","2009",99.48
+"Norway","2010",99.45
+"Norway","2011",99.43
+"Norway","2012",99.4
+"Norway","2013",99.37
+"Norway","2014",99.34
+"Norway","2015",99.31
+"Norway","2016",99.29
+"Norway","2017",99.26
+"Norway","2018",99.23
+"Norway","2019",99.2
+"Norway","2020",99.17
+"Norway","2021",99.15
+"Norway","2022",99.12
+"Norway","2023",99.09
+"Oman","2000",83.9
+"Oman","2001",83.89
+"Oman","2002",83.89
+"Oman","2003",83.88
+"Oman","2004",83.96
+"Oman","2005",84.33
+"Oman","2006",84.69
+"Oman","2007",85.05
+"Oman","2008",85.41
+"Oman","2009",85.76
+"Oman","2010",86.11
+"Oman","2011",86.57
+"Oman","2012",87.1
+"Oman","2013",87.61
+"Oman","2014",88.1
+"Oman","2015",88.58
+"Oman","2016",89.04
+"Oman","2017",89.47
+"Oman","2018",89.89
+"Oman","2019",90.27
+"Oman","2020",90.56
+"Oman","2021",90.71
+"Oman","2022",90.85
+"Oman","2023",90.98
+"Pakistan","2000",42.58
+"Pakistan","2001",42.69
+"Pakistan","2002",42.81
+"Pakistan","2003",42.92
+"Pakistan","2004",43.03
+"Pakistan","2005",43.14
+"Pakistan","2006",43.25
+"Pakistan","2007",43.37
+"Pakistan","2008",43.48
+"Pakistan","2009",43.59
+"Pakistan","2010",43.7
+"Pakistan","2011",43.8
+"Pakistan","2012",43.91
+"Pakistan","2013",44.02
+"Pakistan","2014",44.13
+"Pakistan","2015",44.23
+"Pakistan","2016",44.34
+"Pakistan","2017",44.45
+"Pakistan","2018",44.55
+"Pakistan","2019",44.66
+"Pakistan","2020",44.76
+"Pakistan","2021",44.87
+"Pakistan","2022",44.97
+"Pakistan","2023",44.97
+"Palau","2000",65.42
+"Palau","2001",66.3
+"Palau","2002",67.18
+"Palau","2003",68.05
+"Palau","2004",69.12
+"Palau","2005",70.21
+"Palau","2006",71.31
+"Palau","2007",72.43
+"Palau","2008",73.56
+"Palau","2009",74.7
+"Palau","2010",75.86
+"Palau","2011",77.02
+"Palau","2012",78.2
+"Palau","2013",79.39
+"Palau","2014",80.6
+"Palau","2015",81.81
+"Palau","2016",83.03
+"Palau","2017",84.25
+"Palau","2018",85.48
+"Palau","2019",86.71
+"Palau","2020",87.94
+"Palau","2021",89.18
+"Palau","2022",90.42
+"Palau","2023",90.6
+"Paraguay","2000",49.85
+"Paraguay","2001",50.72
+"Paraguay","2002",51.57
+"Paraguay","2003",52.31
+"Paraguay","2004",53.04
+"Paraguay","2005",53.75
+"Paraguay","2006",54.46
+"Paraguay","2007",55.17
+"Paraguay","2008",55.87
+"Paraguay","2009",56.56
+"Paraguay","2010",57.24
+"Paraguay","2011",57.92
+"Paraguay","2012",58.6
+"Paraguay","2013",59.26
+"Paraguay","2014",59.91
+"Paraguay","2015",60.55
+"Paraguay","2016",61.19
+"Paraguay","2017",61.82
+"Paraguay","2018",62.46
+"Paraguay","2019",63.08
+"Paraguay","2020",63.71
+"Paraguay","2021",63.96
+"Paraguay","2022",64.16
+"Paraguay","2023",64.29
+"Peru","2000",45
+"Peru","2001",45.39
+"Peru","2002",45.77
+"Peru","2003",46.15
+"Peru","2004",46.53
+"Peru","2005",46.9
+"Peru","2006",47.27
+"Peru","2007",47.64
+"Peru","2008",47.95
+"Peru","2009",48.23
+"Peru","2010",48.52
+"Peru","2011",48.8
+"Peru","2012",49.08
+"Peru","2013",49.36
+"Peru","2014",49.64
+"Peru","2015",49.92
+"Peru","2016",50.19
+"Peru","2017",50.47
+"Peru","2018",50.75
+"Peru","2019",51.02
+"Peru","2020",51.3
+"Peru","2021",51.58
+"Peru","2022",50.93
+"Peru","2023",50.19
+"Philippines","2000",41.73
+"Philippines","2001",41.84
+"Philippines","2002",42.95
+"Philippines","2003",44.07
+"Philippines","2004",44.62
+"Philippines","2005",44.75
+"Philippines","2006",44.88
+"Philippines","2007",45.01
+"Philippines","2008",45.15
+"Philippines","2009",45.28
+"Philippines","2010",45.42
+"Philippines","2011",45.63
+"Philippines","2012",45.84
+"Philippines","2013",46.05
+"Philippines","2014",46.26
+"Philippines","2015",46.47
+"Philippines","2016",46.68
+"Philippines","2017",46.89
+"Philippines","2018",47.1
+"Philippines","2019",47.32
+"Philippines","2020",47.55
+"Philippines","2021",47.78
+"Philippines","2022",48.01
+"Philippines","2023",48.24
+"Poland","2005",91.14
+"Poland","2006",91.52
+"Poland","2007",91.9
+"Poland","2008",92.28
+"Poland","2009",92.66
+"Poland","2010",92.56
+"Poland","2011",92.44
+"Poland","2012",92.32
+"Poland","2013",92.19
+"Poland","2014",92.05
+"Poland","2015",91.91
+"Poland","2016",91.76
+"Poland","2017",91.61
+"Poland","2018",91.45
+"Poland","2019",91.29
+"Poland","2020",90.76
+"Poland","2021",90.23
+"Poland","2022",89.71
+"Poland","2023",89.19
+"Polynesia","2000",68.66
+"Polynesia","2001",68.72
+"Polynesia","2002",68.76
+"Polynesia","2003",68.8
+"Polynesia","2004",68.83
+"Polynesia","2005",69
+"Polynesia","2006",69.15
+"Polynesia","2007",69.3
+"Polynesia","2008",69.42
+"Polynesia","2009",69.52
+"Polynesia","2010",69.61
+"Polynesia","2011",69.71
+"Polynesia","2012",69.81
+"Polynesia","2013",69.93
+"Polynesia","2014",70.07
+"Polynesia","2015",70.2
+"Polynesia","2016",70.33
+"Polynesia","2017",70.43
+"Polynesia","2018",70.47
+"Polynesia","2019",70.51
+"Polynesia","2020",70.59
+"Polynesia","2021",70.71
+"Polynesia","2022",70.81
+"Polynesia","2023",70.87
+"Portugal","2000",93.7
+"Portugal","2001",93.73
+"Portugal","2002",93.76
+"Portugal","2003",93.8
+"Portugal","2004",93.84
+"Portugal","2005",93.87
+"Portugal","2006",93.91
+"Portugal","2007",93.95
+"Portugal","2008",94
+"Portugal","2009",94.04
+"Portugal","2010",94.16
+"Portugal","2011",94.27
+"Portugal","2012",94.39
+"Portugal","2013",94.47
+"Portugal","2014",94.55
+"Portugal","2015",94.63
+"Portugal","2016",94.7
+"Portugal","2017",94.77
+"Portugal","2018",94.84
+"Portugal","2019",94.91
+"Portugal","2020",94.98
+"Portugal","2021",95.04
+"Portugal","2022",95.1
+"Portugal","2023",95.17
+"Puerto Rico","2000",75.13
+"Puerto Rico","2001",75.25
+"Puerto Rico","2002",75.36
+"Puerto Rico","2003",75.47
+"Puerto Rico","2004",75.59
+"Puerto Rico","2005",75.7
+"Puerto Rico","2006",75.82
+"Puerto Rico","2007",75.93
+"Puerto Rico","2008",76.04
+"Puerto Rico","2009",78.83
+"Puerto Rico","2010",81.63
+"Puerto Rico","2011",84.43
+"Puerto Rico","2012",87.25
+"Puerto Rico","2013",90.07
+"Puerto Rico","2014",92.9
+"Puerto Rico","2015",95.73
+"Puerto Rico","2016",98.58
+"Puerto Rico","2017",99.45
+"Puerto Rico","2018",99.75
+"Puerto Rico","2019",99.85
+"Puerto Rico","2020",99.67
+"Puerto Rico","2021",99.49
+"Puerto Rico","2022",99.3
+"Puerto Rico","2023",99.12
+"Qatar","2000",96.34
+"Qatar","2001",96.34
+"Qatar","2002",96.34
+"Qatar","2003",96.34
+"Qatar","2004",96.34
+"Qatar","2005",96.34
+"Qatar","2006",96.34
+"Qatar","2007",96.34
+"Qatar","2008",96.34
+"Qatar","2009",96.69
+"Qatar","2010",97.03
+"Qatar","2011",97.14
+"Qatar","2012",97
+"Qatar","2013",96.85
+"Qatar","2014",96.7
+"Qatar","2015",96.55
+"Qatar","2016",96.4
+"Qatar","2017",96.25
+"Qatar","2018",96.1
+"Qatar","2019",95.95
+"Qatar","2020",95.8
+"Qatar","2021",95.65
+"Qatar","2022",95.5
+"Qatar","2023",95.35
+"Republic of Korea","2002",97.23
+"Republic of Korea","2003",97.23
+"Republic of Korea","2004",97.23
+"Republic of Korea","2005",97.23
+"Republic of Korea","2006",97.23
+"Republic of Korea","2007",97.38
+"Republic of Korea","2008",97.52
+"Republic of Korea","2009",97.67
+"Republic of Korea","2010",97.81
+"Republic of Korea","2011",97.96
+"Republic of Korea","2012",98.1
+"Republic of Korea","2013",98.25
+"Republic of Korea","2014",98.4
+"Republic of Korea","2015",98.52
+"Republic of Korea","2016",98.62
+"Republic of Korea","2017",98.71
+"Republic of Korea","2018",98.8
+"Republic of Korea","2019",98.89
+"Republic of Korea","2020",98.99
+"Republic of Korea","2021",99.08
+"Republic of Korea","2022",99.17
+"Republic of Korea","2023",99.26
+"Republic of Moldova","2000",40.37
+"Republic of Moldova","2001",42.28
+"Republic of Moldova","2002",44.23
+"Republic of Moldova","2003",46.23
+"Republic of Moldova","2004",48.28
+"Republic of Moldova","2005",50.47
+"Republic of Moldova","2006",52.78
+"Republic of Moldova","2007",55.12
+"Republic of Moldova","2008",57.49
+"Republic of Moldova","2009",59.89
+"Republic of Moldova","2010",62.33
+"Republic of Moldova","2011",64.8
+"Republic of Moldova","2012",67.29
+"Republic of Moldova","2013",69.82
+"Republic of Moldova","2014",72.38
+"Republic of Moldova","2015",72.7
+"Republic of Moldova","2016",73.02
+"Republic of Moldova","2017",73.35
+"Republic of Moldova","2018",73.69
+"Republic of Moldova","2019",74.03
+"Republic of Moldova","2020",74.38
+"Republic of Moldova","2021",74.73
+"Republic of Moldova","2022",75.09
+"Republic of Moldova","2023",75.45
+"Réunion","2000",97.32
+"Réunion","2001",97.32
+"Réunion","2002",97.32
+"Réunion","2003",97.32
+"Réunion","2004",97.32
+"Réunion","2005",97.32
+"Réunion","2006",97.32
+"Réunion","2007",97.33
+"Réunion","2008",97.34
+"Réunion","2009",97.34
+"Réunion","2010",97.35
+"Réunion","2011",97.21
+"Réunion","2012",97.07
+"Réunion","2013",96.94
+"Réunion","2014",96.8
+"Réunion","2015",96.66
+"Réunion","2016",96.52
+"Réunion","2017",96.38
+"Réunion","2018",96.24
+"Réunion","2019",96.11
+"Réunion","2020",95.97
+"Réunion","2021",95.83
+"Réunion","2022",95.69
+"Réunion","2023",95.7
+"Romania","2000",81.65
+"Romania","2001",81.61
+"Romania","2002",81.59
+"Romania","2003",81.63
+"Romania","2004",81.66
+"Romania","2005",81.7
+"Romania","2006",81.74
+"Romania","2007",81.77
+"Romania","2008",81.81
+"Romania","2009",81.85
+"Romania","2010",81.89
+"Romania","2011",81.92
+"Romania","2012",81.93
+"Romania","2013",81.92
+"Romania","2014",81.91
+"Romania","2015",81.9
+"Romania","2016",81.91
+"Romania","2017",81.92
+"Romania","2018",81.93
+"Romania","2019",81.96
+"Romania","2020",81.99
+"Romania","2021",82.03
+"Romania","2022",82.07
+"Romania","2023",82.12
+"Russian Federation","2000",75.35
+"Russian Federation","2001",75.35
+"Russian Federation","2002",75.36
+"Russian Federation","2003",75.38
+"Russian Federation","2004",75.41
+"Russian Federation","2005",75.43
+"Russian Federation","2006",75.46
+"Russian Federation","2007",75.48
+"Russian Federation","2008",75.51
+"Russian Federation","2009",75.53
+"Russian Federation","2010",75.56
+"Russian Federation","2011",75.58
+"Russian Federation","2012",75.61
+"Russian Federation","2013",75.65
+"Russian Federation","2014",75.68
+"Russian Federation","2015",75.72
+"Russian Federation","2016",75.77
+"Russian Federation","2017",75.82
+"Russian Federation","2018",75.87
+"Russian Federation","2019",75.93
+"Russian Federation","2020",75.99
+"Russian Federation","2021",76.05
+"Russian Federation","2022",76.12
+"Russian Federation","2023",76.19
+"Saint Barthélemy","2000",99.19
+"Saint Barthélemy","2001",99.19
+"Saint Barthélemy","2002",99.19
+"Saint Barthélemy","2003",99.19
+"Saint Barthélemy","2004",99.19
+"Saint Barthélemy","2005",99.25
+"Saint Barthélemy","2006",99.31
+"Saint Barthélemy","2007",99.36
+"Saint Barthélemy","2008",99.42
+"Saint Barthélemy","2009",99.48
+"Saint Barthélemy","2010",99.53
+"Saint Barthélemy","2011",99.59
+"Saint Barthélemy","2012",99.65
+"Saint Barthélemy","2013",99.7
+"Saint Barthélemy","2014",99.76
+"Saint Barthélemy","2015",99.82
+"Saint Barthélemy","2016",99.87
+"Saint Barthélemy","2017",99.93
+"Saint Barthélemy","2018",99.99
+"Saint Barthélemy","2019",100
+"Saint Barthélemy","2020",100
+"Saint Barthélemy","2021",100
+"Saint Barthélemy","2022",100
+"Saint Barthélemy","2023",100
+"Saint Helena","2002",80.87
+"Saint Helena","2003",80.87
+"Saint Helena","2004",80.87
+"Saint Helena","2005",80.87
+"Saint Helena","2006",80.87
+"Saint Helena","2007",80.86
+"Saint Helena","2008",80.86
+"Saint Helena","2009",80.85
+"Saint Helena","2010",80.85
+"Saint Helena","2011",80.85
+"Saint Helena","2012",82.79
+"Saint Helena","2013",84.74
+"Saint Helena","2014",86.69
+"Saint Helena","2015",88.64
+"Saint Helena","2016",90.59
+"Saint Helena","2017",92.53
+"Saint Helena","2018",94.48
+"Saint Helena","2019",96.43
+"Saint Helena","2020",98.38
+"Saint Helena","2021",98.49
+"Saint Helena","2022",98.44
+"Saint Helena","2023",98.39
+"Saint Martin (French Part)","2000",96.7
+"Saint Martin (French Part)","2001",96.7
+"Saint Martin (French Part)","2002",96.7
+"Saint Martin (French Part)","2003",96.7
+"Saint Martin (French Part)","2004",96.7
+"Saint Martin (French Part)","2005",96.7
+"Saint Martin (French Part)","2006",96.7
+"Saint Martin (French Part)","2007",96.7
+"Saint Martin (French Part)","2008",96.7
+"Saint Martin (French Part)","2009",96.7
+"Saint Martin (French Part)","2010",96.7
+"Saint Martin (French Part)","2011",96.69
+"Saint Martin (French Part)","2012",96.69
+"Saint Martin (French Part)","2013",96.68
+"Saint Martin (French Part)","2014",96.68
+"Saint Martin (French Part)","2015",96.67
+"Saint Martin (French Part)","2016",96.66
+"Saint Martin (French Part)","2017",96.66
+"Saint Martin (French Part)","2018",96.65
+"Saint Martin (French Part)","2019",96.65
+"Saint Martin (French Part)","2020",96.64
+"Saint Martin (French Part)","2021",96.64
+"Saint Martin (French Part)","2022",96.63
+"Saint Martin (French Part)","2023",96.63
+"Saint Pierre and Miquelon","2007",80.63
+"Saint Pierre and Miquelon","2008",80.63
+"Saint Pierre and Miquelon","2009",80.63
+"Saint Pierre and Miquelon","2010",80.63
+"Saint Pierre and Miquelon","2011",80.63
+"Saint Pierre and Miquelon","2012",82.27
+"Saint Pierre and Miquelon","2013",83.93
+"Saint Pierre and Miquelon","2014",85.61
+"Saint Pierre and Miquelon","2015",87.31
+"Saint Pierre and Miquelon","2016",89.02
+"Saint Pierre and Miquelon","2017",90.75
+"Saint Pierre and Miquelon","2018",92.5
+"Saint Pierre and Miquelon","2019",94.26
+"Saint Pierre and Miquelon","2020",96.04
+"Saint Pierre and Miquelon","2021",96.04
+"Saint Pierre and Miquelon","2022",96.04
+"Saint Pierre and Miquelon","2023",96.04
+"Samoa","2000",60.16
+"Samoa","2001",60.19
+"Samoa","2002",60.15
+"Samoa","2003",60.08
+"Samoa","2004",60.01
+"Samoa","2005",60.11
+"Samoa","2006",60.21
+"Samoa","2007",60.31
+"Samoa","2008",60.41
+"Samoa","2009",60.51
+"Samoa","2010",60.61
+"Samoa","2011",60.7
+"Samoa","2012",60.8
+"Samoa","2013",60.89
+"Samoa","2014",61.08
+"Samoa","2015",61.26
+"Samoa","2016",61.45
+"Samoa","2017",61.63
+"Samoa","2018",61.82
+"Samoa","2019",62.01
+"Samoa","2020",62.18
+"Samoa","2021",62.29
+"Samoa","2022",62.37
+"Samoa","2023",62.43
+"San Marino","2000",100
+"San Marino","2001",100
+"San Marino","2002",100
+"San Marino","2003",100
+"San Marino","2004",100
+"San Marino","2005",100
+"San Marino","2006",100
+"San Marino","2007",100
+"San Marino","2008",100
+"San Marino","2009",100
+"San Marino","2010",100
+"San Marino","2011",100
+"San Marino","2012",100
+"San Marino","2013",100
+"San Marino","2014",100
+"San Marino","2015",100
+"San Marino","2016",100
+"San Marino","2017",100
+"San Marino","2018",100
+"San Marino","2019",100
+"San Marino","2020",100
+"San Marino","2021",100
+"San Marino","2022",100
+"San Marino","2023",100
+"Sao Tome and Principe","2000",25.95
+"Sao Tome and Principe","2001",26.38
+"Sao Tome and Principe","2002",26.85
+"Sao Tome and Principe","2003",27.33
+"Sao Tome and Principe","2004",27.81
+"Sao Tome and Principe","2005",28.29
+"Sao Tome and Principe","2006",28.78
+"Sao Tome and Principe","2007",29.27
+"Sao Tome and Principe","2008",29.76
+"Sao Tome and Principe","2009",30.25
+"Sao Tome and Principe","2010",30.75
+"Sao Tome and Principe","2011",31.24
+"Sao Tome and Principe","2012",31.74
+"Sao Tome and Principe","2013",32.24
+"Sao Tome and Principe","2014",32.73
+"Sao Tome and Principe","2015",33.22
+"Sao Tome and Principe","2016",33.7
+"Sao Tome and Principe","2017",34.18
+"Sao Tome and Principe","2018",34.67
+"Sao Tome and Principe","2019",35.14
+"Sao Tome and Principe","2020",35.62
+"Sao Tome and Principe","2021",36.09
+"Sao Tome and Principe","2022",36.37
+"Sao Tome and Principe","2023",36.53
+"Senegal","2000",20.03
+"Senegal","2001",20.26
+"Senegal","2002",20.49
+"Senegal","2003",20.77
+"Senegal","2004",21.08
+"Senegal","2005",21.39
+"Senegal","2006",21.7
+"Senegal","2007",22
+"Senegal","2008",22.31
+"Senegal","2009",22.62
+"Senegal","2010",22.92
+"Senegal","2011",23.23
+"Senegal","2012",23.53
+"Senegal","2013",23.83
+"Senegal","2014",24.13
+"Senegal","2015",24.43
+"Senegal","2016",24.73
+"Senegal","2017",25.04
+"Senegal","2018",25.34
+"Senegal","2019",25.65
+"Senegal","2020",25.96
+"Senegal","2021",26.26
+"Senegal","2022",26.57
+"Senegal","2023",26.88
+"Serbia","2000",74.42
+"Serbia","2001",74.45
+"Serbia","2002",74.47
+"Serbia","2003",74.5
+"Serbia","2004",74.52
+"Serbia","2005",74.55
+"Serbia","2006",74.58
+"Serbia","2007",74.6
+"Serbia","2008",74.63
+"Serbia","2009",74.66
+"Serbia","2010",74.69
+"Serbia","2011",74.71
+"Serbia","2012",74.73
+"Serbia","2013",74.74
+"Serbia","2014",74.75
+"Serbia","2015",74.76
+"Serbia","2016",74.77
+"Serbia","2017",74.79
+"Serbia","2018",74.8
+"Serbia","2019",74.82
+"Serbia","2020",74.85
+"Serbia","2021",74.87
+"Serbia","2022",74.9
+"Serbia","2023",74.93
+"Seychelles","2000",61.95
+"Seychelles","2001",62.06
+"Seychelles","2002",62.18
+"Seychelles","2003",62.29
+"Seychelles","2004",62.41
+"Seychelles","2005",62.52
+"Seychelles","2006",62.64
+"Seychelles","2007",62.75
+"Seychelles","2008",62.87
+"Seychelles","2009",62.98
+"Seychelles","2010",63.1
+"Seychelles","2011",63.21
+"Seychelles","2012",63.32
+"Seychelles","2013",63.44
+"Seychelles","2014",63.55
+"Seychelles","2015",63.67
+"Seychelles","2016",63.71
+"Seychelles","2017",63.72
+"Seychelles","2018",63.72
+"Seychelles","2019",64.13
+"Seychelles","2020",64.24
+"Seychelles","2021",64.36
+"Seychelles","2022",64.47
+"Seychelles","2023",64.59
+"Sierra Leone","2000",5.17
+"Sierra Leone","2001",5.28
+"Sierra Leone","2002",5.47
+"Sierra Leone","2003",5.66
+"Sierra Leone","2004",5.85
+"Sierra Leone","2005",6.06
+"Sierra Leone","2006",6.28
+"Sierra Leone","2007",6.5
+"Sierra Leone","2008",6.72
+"Sierra Leone","2009",6.95
+"Sierra Leone","2010",7.19
+"Sierra Leone","2011",7.43
+"Sierra Leone","2012",7.67
+"Sierra Leone","2013",7.92
+"Sierra Leone","2014",8.17
+"Sierra Leone","2015",8.43
+"Sierra Leone","2016",8.69
+"Sierra Leone","2017",8.95
+"Sierra Leone","2018",9.22
+"Sierra Leone","2019",9.49
+"Sierra Leone","2020",9.77
+"Sierra Leone","2021",10.05
+"Sierra Leone","2022",10.33
+"Sierra Leone","2023",10.61
+"Singapore","2000",100
+"Singapore","2001",100
+"Singapore","2002",100
+"Singapore","2003",100
+"Singapore","2004",100
+"Singapore","2005",100
+"Singapore","2006",100
+"Singapore","2007",100
+"Singapore","2008",100
+"Singapore","2009",100
+"Singapore","2010",100
+"Singapore","2011",100
+"Singapore","2012",100
+"Singapore","2013",100
+"Singapore","2014",100
+"Singapore","2015",100
+"Singapore","2016",100
+"Singapore","2017",100
+"Singapore","2018",100
+"Singapore","2019",100
+"Singapore","2020",100
+"Singapore","2021",100
+"Singapore","2022",100
+"Singapore","2023",100
+"Slovakia","2000",92.18
+"Slovakia","2001",92.18
+"Slovakia","2002",92.81
+"Slovakia","2003",93.45
+"Slovakia","2004",94.09
+"Slovakia","2005",94.73
+"Slovakia","2006",95.36
+"Slovakia","2007",96.01
+"Slovakia","2008",96.65
+"Slovakia","2009",97.29
+"Slovakia","2010",97.93
+"Slovakia","2011",98.58
+"Slovakia","2012",98.88
+"Slovakia","2013",98.94
+"Slovakia","2014",98.99
+"Slovakia","2015",99.05
+"Slovakia","2016",99.11
+"Slovakia","2017",99.17
+"Slovakia","2018",99.22
+"Slovakia","2019",99.28
+"Slovakia","2020",99.34
+"Slovakia","2021",99.4
+"Slovakia","2022",99.46
+"Slovakia","2023",99.51
+"Slovenia","2000",91.84
+"Slovenia","2001",91.83
+"Slovenia","2002",91.83
+"Slovenia","2003",91.82
+"Slovenia","2004",91.82
+"Slovenia","2005",91.81
+"Slovenia","2006",91.81
+"Slovenia","2007",91.8
+"Slovenia","2008",91.8
+"Slovenia","2009",91.79
+"Slovenia","2010",92.36
+"Slovenia","2011",92.93
+"Slovenia","2012",93.5
+"Slovenia","2013",94.07
+"Slovenia","2014",94.64
+"Slovenia","2015",95.2
+"Slovenia","2016",95.77
+"Slovenia","2017",96.34
+"Slovenia","2018",96.91
+"Slovenia","2019",97.48
+"Slovenia","2020",98.04
+"Slovenia","2021",98.61
+"Slovenia","2022",99.18
+"Slovenia","2023",99.57
+"South Africa","2000",63.25
+"South Africa","2001",63.7
+"South Africa","2002",64.51
+"South Africa","2003",65.33
+"South Africa","2004",66.14
+"South Africa","2005",66.94
+"South Africa","2006",67.39
+"South Africa","2007",67.66
+"South Africa","2008",67.93
+"South Africa","2009",68.17
+"South Africa","2010",68.4
+"South Africa","2011",68.62
+"South Africa","2012",68.82
+"South Africa","2013",69
+"South Africa","2014",69.16
+"South Africa","2015",69.31
+"South Africa","2016",69.44
+"South Africa","2017",69.55
+"South Africa","2018",69.65
+"South Africa","2019",69.73
+"South Africa","2020",69.79
+"South Africa","2021",69.61
+"South Africa","2022",69.09
+"South Africa","2023",68.55
+"South America","2000",73.7
+"South America","2001",73.99
+"South America","2002",74.27
+"South America","2003",74.55
+"South America","2004",74.81
+"South America","2005",75.08
+"South America","2006",75.35
+"South America","2007",75.61
+"South America","2008",75.86
+"South America","2009",76.11
+"South America","2010",76.36
+"South America","2011",76.59
+"South America","2012",76.82
+"South America","2013",77.38
+"South America","2014",77.93
+"South America","2015",78.48
+"South America","2016",79.02
+"South America","2017",79.53
+"South America","2018",80.05
+"South America","2019",80.58
+"South America","2020",81.1
+"South America","2021",81.59
+"South America","2022",82.07
+"South America","2023",82.62
+"South-Eastern Asia","2000",34.82
+"South-Eastern Asia","2001",35.18
+"South-Eastern Asia","2002",35.51
+"South-Eastern Asia","2003",35.84
+"South-Eastern Asia","2004",36.19
+"South-Eastern Asia","2005",36.53
+"South-Eastern Asia","2006",36.88
+"South-Eastern Asia","2007",37.25
+"South-Eastern Asia","2008",37.61
+"South-Eastern Asia","2009",37.96
+"South-Eastern Asia","2010",38.31
+"South-Eastern Asia","2011",38.65
+"South-Eastern Asia","2012",38.98
+"South-Eastern Asia","2013",39.32
+"South-Eastern Asia","2014",39.65
+"South-Eastern Asia","2015",39.98
+"South-Eastern Asia","2016",40.34
+"South-Eastern Asia","2017",40.69
+"South-Eastern Asia","2018",41.04
+"South-Eastern Asia","2019",41.39
+"South-Eastern Asia","2020",41.72
+"South-Eastern Asia","2021",42.07
+"South-Eastern Asia","2022",42.36
+"South-Eastern Asia","2023",42.58
+"Southern Africa","2000",59.77
+"Southern Africa","2001",60.28
+"Southern Africa","2002",61.12
+"Southern Africa","2003",61.97
+"Southern Africa","2004",62.82
+"Southern Africa","2005",63.67
+"Southern Africa","2006",64.23
+"Southern Africa","2007",64.61
+"Southern Africa","2008",64.96
+"Southern Africa","2009",65.3
+"Southern Africa","2010",65.63
+"Southern Africa","2011",65.93
+"Southern Africa","2012",66.21
+"Southern Africa","2013",66.47
+"Southern Africa","2014",66.72
+"Southern Africa","2015",66.95
+"Southern Africa","2016",67.15
+"Southern Africa","2017",67.32
+"Southern Africa","2018",67.5
+"Southern Africa","2019",67.63
+"Southern Africa","2020",67.73
+"Southern Africa","2021",67.81
+"Southern Africa","2022",67.88
+"Southern Africa","2023",67.59
+"Southern Asia","2000",47.47
+"Southern Asia","2001",48.63
+"Southern Asia","2002",49.78
+"Southern Asia","2003",50.95
+"Southern Asia","2004",52.16
+"Southern Asia","2005",53.34
+"Southern Asia","2006",54.54
+"Southern Asia","2007",55.75
+"Southern Asia","2008",56.96
+"Southern Asia","2009",58.16
+"Southern Asia","2010",59.37
+"Southern Asia","2011",60.56
+"Southern Asia","2012",61.76
+"Southern Asia","2013",62.96
+"Southern Asia","2014",64.17
+"Southern Asia","2015",65.39
+"Southern Asia","2016",66.61
+"Southern Asia","2017",67.84
+"Southern Asia","2018",69.07
+"Southern Asia","2019",70.31
+"Southern Asia","2020",71.53
+"Southern Asia","2021",72.77
+"Southern Asia","2022",74.01
+"Southern Asia","2023",75.35
+"Southern Europe","2000",94.95
+"Southern Europe","2001",94.99
+"Southern Europe","2002",95.05
+"Southern Europe","2003",95.12
+"Southern Europe","2004",95.19
+"Southern Europe","2005",95.26
+"Southern Europe","2006",95.32
+"Southern Europe","2007",95.4
+"Southern Europe","2008",95.46
+"Southern Europe","2009",95.49
+"Southern Europe","2010",95.52
+"Southern Europe","2011",95.54
+"Southern Europe","2012",95.55
+"Southern Europe","2013",95.54
+"Southern Europe","2014",95.54
+"Southern Europe","2015",95.55
+"Southern Europe","2016",95.57
+"Southern Europe","2017",95.59
+"Southern Europe","2018",95.61
+"Southern Europe","2019",95.65
+"Southern Europe","2020",95.69
+"Southern Europe","2021",95.72
+"Southern Europe","2022",95.75
+"Southern Europe","2023",95.76
+"Spain","2000",99.36
+"Spain","2001",99.36
+"Spain","2002",99.39
+"Spain","2003",99.43
+"Spain","2004",99.46
+"Spain","2005",99.5
+"Spain","2006",99.54
+"Spain","2007",99.57
+"Spain","2008",99.61
+"Spain","2009",99.64
+"Spain","2010",99.66
+"Spain","2011",99.66
+"Spain","2012",99.65
+"Spain","2013",99.62
+"Spain","2014",99.6
+"Spain","2015",99.6
+"Spain","2016",99.58
+"Spain","2017",99.57
+"Spain","2018",99.55
+"Spain","2019",99.54
+"Spain","2020",99.52
+"Spain","2021",99.51
+"Spain","2022",99.49
+"Spain","2023",99.47
+"Sri Lanka","2000",45.19
+"Sri Lanka","2001",45.29
+"Sri Lanka","2002",45.39
+"Sri Lanka","2003",45.5
+"Sri Lanka","2004",45.6
+"Sri Lanka","2005",45.7
+"Sri Lanka","2006",45.88
+"Sri Lanka","2007",46.06
+"Sri Lanka","2008",46.24
+"Sri Lanka","2009",46.42
+"Sri Lanka","2010",46.6
+"Sri Lanka","2011",46.78
+"Sri Lanka","2012",46.96
+"Sri Lanka","2013",47.15
+"Sri Lanka","2014",47.35
+"Sri Lanka","2015",47.56
+"Sri Lanka","2016",47.77
+"Sri Lanka","2017",48
+"Sri Lanka","2018",48.14
+"Sri Lanka","2019",47.88
+"Sri Lanka","2020",47.62
+"Sri Lanka","2021",47.36
+"Sri Lanka","2022",47.1
+"Sri Lanka","2023",46.85
+"State of Palestine","2000",74.55
+"State of Palestine","2001",74.96
+"State of Palestine","2002",75.36
+"State of Palestine","2003",75.75
+"State of Palestine","2004",76.15
+"State of Palestine","2005",76.55
+"State of Palestine","2006",76.94
+"State of Palestine","2007",77.34
+"State of Palestine","2008",77.73
+"State of Palestine","2009",78.13
+"State of Palestine","2010",78.52
+"State of Palestine","2011",78.91
+"State of Palestine","2012",79.3
+"State of Palestine","2013",79.69
+"State of Palestine","2014",80.08
+"State of Palestine","2015",80.36
+"State of Palestine","2016",80.52
+"State of Palestine","2017",80.53
+"State of Palestine","2018",80.55
+"State of Palestine","2019",80.56
+"State of Palestine","2020",80.58
+"State of Palestine","2021",80.59
+"State of Palestine","2022",80.61
+"State of Palestine","2023",80.63
+"Sub-Saharan Africa","2000",17.4
+"Sub-Saharan Africa","2001",17.66
+"Sub-Saharan Africa","2002",18.09
+"Sub-Saharan Africa","2003",18.53
+"Sub-Saharan Africa","2004",19.02
+"Sub-Saharan Africa","2005",19.53
+"Sub-Saharan Africa","2006",20.07
+"Sub-Saharan Africa","2007",20.63
+"Sub-Saharan Africa","2008",21.25
+"Sub-Saharan Africa","2009",21.9
+"Sub-Saharan Africa","2010",22.56
+"Sub-Saharan Africa","2011",23
+"Sub-Saharan Africa","2012",23.71
+"Sub-Saharan Africa","2013",24.45
+"Sub-Saharan Africa","2014",25.22
+"Sub-Saharan Africa","2015",26.03
+"Sub-Saharan Africa","2016",26.83
+"Sub-Saharan Africa","2017",27.62
+"Sub-Saharan Africa","2018",28.48
+"Sub-Saharan Africa","2019",29.17
+"Sub-Saharan Africa","2020",29.71
+"Sub-Saharan Africa","2021",30.25
+"Sub-Saharan Africa","2022",30.76
+"Sub-Saharan Africa","2023",31.25
+"Suriname","2000",51.58
+"Suriname","2001",51.82
+"Suriname","2002",52.05
+"Suriname","2003",52.28
+"Suriname","2004",52.52
+"Suriname","2005",52.71
+"Suriname","2006",52.9
+"Suriname","2007",53.1
+"Suriname","2008",53.29
+"Suriname","2009",53.48
+"Suriname","2010",53.68
+"Suriname","2011",53.87
+"Suriname","2012",54.07
+"Suriname","2013",54.26
+"Suriname","2014",54.46
+"Suriname","2015",54.67
+"Suriname","2016",54.88
+"Suriname","2017",55.09
+"Suriname","2018",55.31
+"Suriname","2019",55.53
+"Suriname","2020",55.76
+"Suriname","2021",55.78
+"Suriname","2022",55.8
+"Suriname","2023",55.82
+"Sweden","2000",99.4
+"Sweden","2001",99.41
+"Sweden","2002",99.43
+"Sweden","2003",99.44
+"Sweden","2004",99.45
+"Sweden","2005",99.46
+"Sweden","2006",99.47
+"Sweden","2007",99.49
+"Sweden","2008",99.5
+"Sweden","2009",99.51
+"Sweden","2010",99.53
+"Sweden","2011",99.55
+"Sweden","2012",99.57
+"Sweden","2013",99.59
+"Sweden","2014",99.61
+"Sweden","2015",99.63
+"Sweden","2016",99.65
+"Sweden","2017",99.67
+"Sweden","2018",99.69
+"Sweden","2019",99.7
+"Sweden","2020",99.72
+"Sweden","2021",99.74
+"Sweden","2022",99.75
+"Sweden","2023",99.76
+"Switzerland","2000",96.7
+"Switzerland","2001",96.7
+"Switzerland","2002",96.7
+"Switzerland","2003",96.7
+"Switzerland","2004",96.7
+"Switzerland","2005",96.7
+"Switzerland","2006",96.7
+"Switzerland","2007",96.7
+"Switzerland","2008",96.7
+"Switzerland","2009",96.7
+"Switzerland","2010",96.7
+"Switzerland","2011",96.7
+"Switzerland","2012",96.7
+"Switzerland","2013",96.7
+"Switzerland","2014",96.7
+"Switzerland","2015",96.7
+"Switzerland","2016",96.7
+"Switzerland","2017",96.7
+"Switzerland","2018",96.7
+"Switzerland","2019",96.7
+"Switzerland","2020",96.7
+"Switzerland","2021",96.7
+"Switzerland","2022",96.7
+"Switzerland","2023",96.7
+"Tajikistan","2000",35.5
+"Tajikistan","2001",36.62
+"Tajikistan","2002",37.76
+"Tajikistan","2003",38.93
+"Tajikistan","2004",40.14
+"Tajikistan","2005",41.37
+"Tajikistan","2006",42.63
+"Tajikistan","2007",43.92
+"Tajikistan","2008",45.24
+"Tajikistan","2009",46.59
+"Tajikistan","2010",47.96
+"Tajikistan","2011",49.37
+"Tajikistan","2012",50.82
+"Tajikistan","2013",52.3
+"Tajikistan","2014",53.82
+"Tajikistan","2015",55.38
+"Tajikistan","2016",56.98
+"Tajikistan","2017",58.61
+"Tajikistan","2018",60.28
+"Tajikistan","2019",61.97
+"Tajikistan","2020",62.95
+"Tajikistan","2021",63.93
+"Tajikistan","2022",64.92
+"Tajikistan","2023",65.01
+"Togo","2000",10.03
+"Togo","2001",10.44
+"Togo","2002",10.86
+"Togo","2003",11.28
+"Togo","2004",11.7
+"Togo","2005",12.13
+"Togo","2006",12.57
+"Togo","2007",13.01
+"Togo","2008",13.45
+"Togo","2009",13.9
+"Togo","2010",14.35
+"Togo","2011",14.81
+"Togo","2012",15.28
+"Togo","2013",15.75
+"Togo","2014",16.23
+"Togo","2015",16.72
+"Togo","2016",17.21
+"Togo","2017",17.7
+"Togo","2018",18.21
+"Togo","2019",18.72
+"Togo","2020",19.23
+"Togo","2021",19.55
+"Togo","2022",19.88
+"Togo","2023",20.2
+"Tonga","2000",29.22
+"Tonga","2001",29.23
+"Tonga","2002",29.24
+"Tonga","2003",29.25
+"Tonga","2004",29.26
+"Tonga","2005",29.28
+"Tonga","2006",29.3
+"Tonga","2007",29.33
+"Tonga","2008",29.36
+"Tonga","2009",29.4
+"Tonga","2010",29.43
+"Tonga","2011",29.46
+"Tonga","2012",29.47
+"Tonga","2013",29.48
+"Tonga","2014",29.48
+"Tonga","2015",29.48
+"Tonga","2016",29.48
+"Tonga","2017",29.49
+"Tonga","2018",29.49
+"Tonga","2019",29.5
+"Tonga","2020",29.52
+"Tonga","2021",29.54
+"Tonga","2022",29.56
+"Tonga","2023",29.58
+"Trinidad and Tobago","2005",69.36
+"Trinidad and Tobago","2006",69.34
+"Trinidad and Tobago","2007",69.33
+"Trinidad and Tobago","2008",69.31
+"Trinidad and Tobago","2009",69.3
+"Trinidad and Tobago","2010",69.29
+"Trinidad and Tobago","2011",69.29
+"Trinidad and Tobago","2012",69.28
+"Trinidad and Tobago","2013",69.28
+"Trinidad and Tobago","2014",69.28
+"Trinidad and Tobago","2015",69.28
+"Trinidad and Tobago","2016",69.28
+"Trinidad and Tobago","2017",69.28
+"Trinidad and Tobago","2018",69.29
+"Trinidad and Tobago","2019",69.3
+"Trinidad and Tobago","2020",69.31
+"Trinidad and Tobago","2021",69.32
+"Trinidad and Tobago","2022",69.34
+"Trinidad and Tobago","2023",69.35
+"Tunisia","2000",76.76
+"Tunisia","2001",77.05
+"Tunisia","2002",77.32
+"Tunisia","2003",77.6
+"Tunisia","2004",77.87
+"Tunisia","2005",78.11
+"Tunisia","2006",78.35
+"Tunisia","2007",78.59
+"Tunisia","2008",78.82
+"Tunisia","2009",79.05
+"Tunisia","2010",79.28
+"Tunisia","2011",79.51
+"Tunisia","2012",79.5
+"Tunisia","2013",79.5
+"Tunisia","2014",78.44
+"Tunisia","2015",77.15
+"Tunisia","2016",75.84
+"Tunisia","2017",74.52
+"Tunisia","2018",73.2
+"Tunisia","2019",71.86
+"Tunisia","2020",70.51
+"Tunisia","2021",69.14
+"Tunisia","2022",67.77
+"Tunisia","2023",66.38
+"Turkmenistan","2000",68.61
+"Turkmenistan","2001",69.64
+"Turkmenistan","2002",70.69
+"Turkmenistan","2003",71.73
+"Turkmenistan","2004",72.79
+"Turkmenistan","2005",74.31
+"Turkmenistan","2006",75.85
+"Turkmenistan","2007",77.4
+"Turkmenistan","2008",78.96
+"Turkmenistan","2009",80.53
+"Turkmenistan","2010",82.02
+"Turkmenistan","2011",83.62
+"Turkmenistan","2012",85.22
+"Turkmenistan","2013",86.84
+"Turkmenistan","2014",88.46
+"Turkmenistan","2015",90.09
+"Turkmenistan","2016",91.46
+"Turkmenistan","2017",92.69
+"Turkmenistan","2018",93.82
+"Turkmenistan","2019",94.05
+"Turkmenistan","2020",94.27
+"Turkmenistan","2021",94.49
+"Turkmenistan","2022",94.71
+"Turkmenistan","2023",94.83
+"Turks and Caicos Islands","2016",47.22
+"Turks and Caicos Islands","2017",47.2
+"Turks and Caicos Islands","2018",47.17
+"Turks and Caicos Islands","2019",47.15
+"Turks and Caicos Islands","2020",47.13
+"Turks and Caicos Islands","2021",47.1
+"Turks and Caicos Islands","2022",47.09
+"Turks and Caicos Islands","2023",47.07
+"Tuvalu","2000",7.69
+"Tuvalu","2001",7.71
+"Tuvalu","2002",7.73
+"Tuvalu","2003",7.77
+"Tuvalu","2004",7.82
+"Tuvalu","2005",7.87
+"Tuvalu","2006",7.92
+"Tuvalu","2007",7.97
+"Tuvalu","2008",8.03
+"Tuvalu","2009",8.08
+"Tuvalu","2010",8.13
+"Tuvalu","2011",8.18
+"Tuvalu","2012",8.23
+"Tuvalu","2013",8.28
+"Tuvalu","2014",8.33
+"Tuvalu","2015",8.37
+"Tuvalu","2016",8.42
+"Tuvalu","2017",8.46
+"Tuvalu","2018",8.5
+"Tuvalu","2019",8.54
+"Tuvalu","2020",8.58
+"Tuvalu","2021",8.62
+"Tuvalu","2022",8.66
+"Tuvalu","2023",8.69
+"Uganda","2000",2.61
+"Uganda","2001",3.1
+"Uganda","2002",3.6
+"Uganda","2003",4.12
+"Uganda","2004",4.67
+"Uganda","2005",5.23
+"Uganda","2006",5.81
+"Uganda","2007",6.41
+"Uganda","2008",7.03
+"Uganda","2009",7.67
+"Uganda","2010",8.33
+"Uganda","2011",9.02
+"Uganda","2012",9.72
+"Uganda","2013",10.44
+"Uganda","2014",11.18
+"Uganda","2015",11.95
+"Uganda","2016",12.73
+"Uganda","2017",13.54
+"Uganda","2018",14.36
+"Uganda","2019",15.2
+"Uganda","2020",15.8
+"Uganda","2021",16.37
+"Uganda","2022",16.94
+"Uganda","2023",17.52
+"Ukraine","2000",66.35
+"Ukraine","2001",66.37
+"Ukraine","2002",66.44
+"Ukraine","2003",66.55
+"Ukraine","2004",69.34
+"Ukraine","2005",71.95
+"Ukraine","2006",74.54
+"Ukraine","2007",77.09
+"Ukraine","2008",79.63
+"Ukraine","2009",82.14
+"Ukraine","2010",84.61
+"Ukraine","2011",87.08
+"Ukraine","2012",89.39
+"Ukraine","2013",89.05
+"Ukraine","2014",88.61
+"Ukraine","2015",88.55
+"Ukraine","2016",88.48
+"Ukraine","2017",88.41
+"Ukraine","2018",88.34
+"Ukraine","2019",88.28
+"Ukraine","2020",88.21
+"Ukraine","2021",88.14
+"Ukraine","2022",88.08
+"Ukraine","2023",87.99
+"United Arab Emirates","2000",98.19
+"United Arab Emirates","2001",98.19
+"United Arab Emirates","2002",98.22
+"United Arab Emirates","2003",98.24
+"United Arab Emirates","2004",98.27
+"United Arab Emirates","2005",98.29
+"United Arab Emirates","2006",98.32
+"United Arab Emirates","2007",98.34
+"United Arab Emirates","2008",98.37
+"United Arab Emirates","2009",98.39
+"United Arab Emirates","2010",98.42
+"United Arab Emirates","2011",98.45
+"United Arab Emirates","2012",98.47
+"United Arab Emirates","2013",98.5
+"United Arab Emirates","2014",98.52
+"United Arab Emirates","2015",98.55
+"United Arab Emirates","2016",98.58
+"United Arab Emirates","2017",98.6
+"United Arab Emirates","2018",98.63
+"United Arab Emirates","2019",98.63
+"United Arab Emirates","2020",98.63
+"United Arab Emirates","2021",98.63
+"United Arab Emirates","2022",98.64
+"United Arab Emirates","2023",98.64
+"United Kingdom of Great Britain and Northern Ireland","2000",100
+"United Kingdom of Great Britain and Northern Ireland","2001",100
+"United Kingdom of Great Britain and Northern Ireland","2002",100
+"United Kingdom of Great Britain and Northern Ireland","2003",100
+"United Kingdom of Great Britain and Northern Ireland","2004",100
+"United Kingdom of Great Britain and Northern Ireland","2005",99.99
+"United Kingdom of Great Britain and Northern Ireland","2006",99.99
+"United Kingdom of Great Britain and Northern Ireland","2007",99.98
+"United Kingdom of Great Britain and Northern Ireland","2008",99.97
+"United Kingdom of Great Britain and Northern Ireland","2009",99.96
+"United Kingdom of Great Britain and Northern Ireland","2010",99.95
+"United Kingdom of Great Britain and Northern Ireland","2011",99.94
+"United Kingdom of Great Britain and Northern Ireland","2012",99.93
+"United Kingdom of Great Britain and Northern Ireland","2013",99.92
+"United Kingdom of Great Britain and Northern Ireland","2014",99.91
+"United Kingdom of Great Britain and Northern Ireland","2015",99.9
+"United Kingdom of Great Britain and Northern Ireland","2016",99.9
+"United Kingdom of Great Britain and Northern Ireland","2017",99.89
+"United Kingdom of Great Britain and Northern Ireland","2018",99.88
+"United Kingdom of Great Britain and Northern Ireland","2019",99.87
+"United Kingdom of Great Britain and Northern Ireland","2020",99.86
+"United Kingdom of Great Britain and Northern Ireland","2021",99.85
+"United Kingdom of Great Britain and Northern Ireland","2022",99.84
+"United Kingdom of Great Britain and Northern Ireland","2023",99.83
+"United Republic of Tanzania","2000",1.28
+"United Republic of Tanzania","2001",1.32
+"United Republic of Tanzania","2002",1.36
+"United Republic of Tanzania","2003",1.41
+"United Republic of Tanzania","2004",2.14
+"United Republic of Tanzania","2005",2.93
+"United Republic of Tanzania","2006",4.03
+"United Republic of Tanzania","2007",5.61
+"United Republic of Tanzania","2008",7.3
+"United Republic of Tanzania","2009",9.09
+"United Republic of Tanzania","2010",10.99
+"United Republic of Tanzania","2011",12.99
+"United Republic of Tanzania","2012",15.11
+"United Republic of Tanzania","2013",17.33
+"United Republic of Tanzania","2014",19.6
+"United Republic of Tanzania","2015",21.04
+"United Republic of Tanzania","2016",22.51
+"United Republic of Tanzania","2017",24.03
+"United Republic of Tanzania","2018",25.58
+"United Republic of Tanzania","2019",27.16
+"United Republic of Tanzania","2020",28.57
+"United Republic of Tanzania","2021",29.26
+"United Republic of Tanzania","2022",29.95
+"United Republic of Tanzania","2023",30.64
+"United States of America","2005",95.36
+"United States of America","2006",95.36
+"United States of America","2007",95.37
+"United States of America","2008",95.38
+"United States of America","2009",95.39
+"United States of America","2010",95.56
+"United States of America","2011",95.72
+"United States of America","2012",95.89
+"United States of America","2013",96.05
+"United States of America","2014",96.21
+"United States of America","2015",96.37
+"United States of America","2016",96.54
+"United States of America","2017",96.69
+"United States of America","2018",96.85
+"United States of America","2019",97.01
+"United States of America","2020",97.16
+"United States of America","2021",97.32
+"United States of America","2022",97.47
+"United States of America","2023",97.57
+"United States Virgin Islands","2000",97.36
+"United States Virgin Islands","2001",97.44
+"United States Virgin Islands","2002",97.51
+"United States Virgin Islands","2003",97.58
+"United States Virgin Islands","2004",97.66
+"United States Virgin Islands","2005",97.73
+"United States Virgin Islands","2006",97.8
+"United States Virgin Islands","2007",97.88
+"United States Virgin Islands","2008",97.95
+"United States Virgin Islands","2009",98.02
+"United States Virgin Islands","2010",98.09
+"United States Virgin Islands","2011",98.17
+"United States Virgin Islands","2012",98.24
+"United States Virgin Islands","2013",98.28
+"United States Virgin Islands","2014",98.33
+"United States Virgin Islands","2015",98.37
+"United States Virgin Islands","2016",98.42
+"United States Virgin Islands","2017",98.46
+"United States Virgin Islands","2018",98.5
+"United States Virgin Islands","2019",98.55
+"United States Virgin Islands","2020",98.59
+"United States Virgin Islands","2021",98.63
+"United States Virgin Islands","2022",98.68
+"United States Virgin Islands","2023",98.68
+"Uzbekistan","2000",53.77
+"Uzbekistan","2001",55.11
+"Uzbekistan","2002",56.46
+"Uzbekistan","2003",57.79
+"Uzbekistan","2004",59.12
+"Uzbekistan","2005",60.44
+"Uzbekistan","2006",61.75
+"Uzbekistan","2007",63.05
+"Uzbekistan","2008",64.35
+"Uzbekistan","2009",65.63
+"Uzbekistan","2010",66.91
+"Uzbekistan","2011",68.07
+"Uzbekistan","2012",69.12
+"Uzbekistan","2013",70.18
+"Uzbekistan","2014",71.25
+"Uzbekistan","2015",72.34
+"Uzbekistan","2016",73.43
+"Uzbekistan","2017",74.54
+"Uzbekistan","2018",75.66
+"Uzbekistan","2019",76.77
+"Uzbekistan","2020",77.79
+"Uzbekistan","2021",78.81
+"Uzbekistan","2022",79.85
+"Uzbekistan","2023",80.88
+"Vanuatu","2000",17.37
+"Vanuatu","2001",17.44
+"Vanuatu","2002",17.51
+"Vanuatu","2003",17.58
+"Vanuatu","2004",17.66
+"Vanuatu","2005",17.77
+"Vanuatu","2006",17.88
+"Vanuatu","2007",17.99
+"Vanuatu","2008",18.1
+"Vanuatu","2009",18.21
+"Vanuatu","2010",18.29
+"Vanuatu","2011",18.35
+"Vanuatu","2012",18.41
+"Vanuatu","2013",18.47
+"Vanuatu","2014",18.53
+"Vanuatu","2015",18.58
+"Vanuatu","2016",18.64
+"Vanuatu","2017",18.7
+"Vanuatu","2018",18.77
+"Vanuatu","2019",18.83
+"Vanuatu","2020",18.9
+"Vanuatu","2021",18.97
+"Vanuatu","2022",19.04
+"Vanuatu","2023",19.12
+"Viet Nam","2000",45.66
+"Viet Nam","2001",46.21
+"Viet Nam","2002",46.76
+"Viet Nam","2003",47.31
+"Viet Nam","2004",47.87
+"Viet Nam","2005",48.42
+"Viet Nam","2006",48.96
+"Viet Nam","2007",49.51
+"Viet Nam","2008",50.06
+"Viet Nam","2009",50.61
+"Viet Nam","2010",51.16
+"Viet Nam","2011",51.7
+"Viet Nam","2012",52.25
+"Viet Nam","2013",52.79
+"Viet Nam","2014",53.34
+"Viet Nam","2015",53.88
+"Viet Nam","2016",54.42
+"Viet Nam","2017",54.95
+"Viet Nam","2018",55.48
+"Viet Nam","2019",56.01
+"Viet Nam","2020",56.53
+"Viet Nam","2021",57.05
+"Viet Nam","2022",57.56
+"Viet Nam","2023",58.07
+"Wallis and Futuna Islands","2000",69.13
+"Wallis and Futuna Islands","2001",69.13
+"Wallis and Futuna Islands","2002",69.12
+"Wallis and Futuna Islands","2003",69.11
+"Wallis and Futuna Islands","2004",69.1
+"Wallis and Futuna Islands","2005",69.09
+"Wallis and Futuna Islands","2006",69.08
+"Wallis and Futuna Islands","2007",69.07
+"Wallis and Futuna Islands","2008",69.05
+"Wallis and Futuna Islands","2009",69.04
+"Wallis and Futuna Islands","2010",69.03
+"Wallis and Futuna Islands","2011",69.02
+"Wallis and Futuna Islands","2012",69.01
+"Wallis and Futuna Islands","2013",69
+"Wallis and Futuna Islands","2014",68.99
+"Wallis and Futuna Islands","2015",68.98
+"Wallis and Futuna Islands","2016",68.97
+"Wallis and Futuna Islands","2017",68.95
+"Wallis and Futuna Islands","2018",68.94
+"Wallis and Futuna Islands","2019",68.93
+"Wallis and Futuna Islands","2020",68.92
+"Wallis and Futuna Islands","2021",68.91
+"Wallis and Futuna Islands","2022",68.9
+"Wallis and Futuna Islands","2023",68.9
+"Western Africa","2000",16.78
+"Western Africa","2001",17.15
+"Western Africa","2002",17.84
+"Western Africa","2003",18.55
+"Western Africa","2004",19.27
+"Western Africa","2005",20.01
+"Western Africa","2006",20.77
+"Western Africa","2007",21.55
+"Western Africa","2008",22.34
+"Western Africa","2009",23.14
+"Western Africa","2010",23.98
+"Western Africa","2011",24.55
+"Western Africa","2012",25.07
+"Western Africa","2013",25.59
+"Western Africa","2014",26.12
+"Western Africa","2015",26.58
+"Western Africa","2016",27.03
+"Western Africa","2017",27.48
+"Western Africa","2018",27.92
+"Western Africa","2019",28.36
+"Western Africa","2020",28.8
+"Western Africa","2021",29.25
+"Western Africa","2022",29.69
+"Western Africa","2023",30.13
+"Western Asia","2000",67.86
+"Western Asia","2001",67.93
+"Western Asia","2002",68.03
+"Western Asia","2003",68.2
+"Western Asia","2004",68.39
+"Western Asia","2005",68.8
+"Western Asia","2006",69.45
+"Western Asia","2007",70.23
+"Western Asia","2008",70.86
+"Western Asia","2009",71.36
+"Western Asia","2010",71.67
+"Western Asia","2011",71.96
+"Western Asia","2012",72.19
+"Western Asia","2013",72.35
+"Western Asia","2014",72.63
+"Western Asia","2015",73.09
+"Western Asia","2016",73.54
+"Western Asia","2017",73.87
+"Western Asia","2018",74.14
+"Western Asia","2019",74.37
+"Western Asia","2020",74.51
+"Western Asia","2021",74.65
+"Western Asia","2022",74.92
+"Western Asia","2023",75.2
+"Western Europe","2000",98.8
+"Western Europe","2001",98.79
+"Western Europe","2002",98.79
+"Western Europe","2003",98.78
+"Western Europe","2004",98.83
+"Western Europe","2005",98.88
+"Western Europe","2006",98.93
+"Western Europe","2007",98.99
+"Western Europe","2008",99.04
+"Western Europe","2009",99.09
+"Western Europe","2010",99.15
+"Western Europe","2011",99.2
+"Western Europe","2012",99.26
+"Western Europe","2013",99.32
+"Western Europe","2014",99.38
+"Western Europe","2015",99.44
+"Western Europe","2016",99.5
+"Western Europe","2017",99.56
+"Western Europe","2018",99.62
+"Western Europe","2019",99.68
+"Western Europe","2020",99.74
+"Western Europe","2021",99.81
+"Western Europe","2022",99.83
+"Western Europe","2023",99.83
+"World","2000",61.26
+"World","2001",61.49
+"World","2002",61.82
+"World","2003",62.14
+"World","2004",62.47
+"World","2005",62.82
+"World","2006",63.15
+"World","2007",63.46
+"World","2008",63.78
+"World","2009",64.31
+"World","2010",64.84
+"World","2011",65.35
+"World","2012",65.92
+"World","2013",66.51
+"World","2014",67.1
+"World","2015",67.69
+"World","2016",68.29
+"World","2017",68.87
+"World","2018",69.44
+"World","2019",70
+"World","2020",70.54
+"World","2021",71.06
+"World","2022",71.57
+"World","2023",72.06
+"Zimbabwe","2000",29.4
+"Zimbabwe","2001",29.55
+"Zimbabwe","2002",29.76
+"Zimbabwe","2003",29.82
+"Zimbabwe","2004",29.85
+"Zimbabwe","2005",29.63
+"Zimbabwe","2006",29.4
+"Zimbabwe","2007",29.18
+"Zimbabwe","2008",28.94
+"Zimbabwe","2009",28.71
+"Zimbabwe","2010",28.47
+"Zimbabwe","2011",28.22
+"Zimbabwe","2012",27.97
+"Zimbabwe","2013",27.72
+"Zimbabwe","2014",27.48
+"Zimbabwe","2015",27.24
+"Zimbabwe","2016",27.02
+"Zimbabwe","2017",26.8
+"Zimbabwe","2018",26.59
+"Zimbabwe","2019",26.39
+"Zimbabwe","2020",26.2
+"Zimbabwe","2021",26.02
+"Zimbabwe","2022",25.82
+"Zimbabwe","2023",25.64
