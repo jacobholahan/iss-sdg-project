@@ -1,0 +1,2637 @@
+"country","year","poverty_rate"
+"Africa","2000",52.4
+"Africa","2001",51.8
+"Africa","2002",51.5
+"Africa","2003",50.8
+"Africa","2004",48.5
+"Africa","2005",47.3
+"Africa","2006",46
+"Africa","2007",45.1
+"Africa","2008",44.1
+"Africa","2009",43.4
+"Africa","2010",42
+"Africa","2011",41.1
+"Africa","2012",40.2
+"Africa","2013",39.4
+"Africa","2014",38.7
+"Africa","2015",38.8
+"Africa","2016",38.8
+"Africa","2017",38.6
+"Africa","2018",38.4
+"Africa","2019",38.2
+"Africa","2021",39.5
+"Africa","2022",39
+"Albania","2002",4.2
+"Albania","2005",2.7
+"Albania","2008",0.8
+"Albania","2012",1.8
+"Albania","2014",3.7
+"Albania","2015",1.1
+"Albania","2016",1.1
+"Albania","2017",1.4
+"Albania","2018",1
+"Albania","2019",0.3
+"Albania","2020",0.3
+"Algeria","2011",0
+"Americas","2000",11.7
+"Americas","2001",11.7
+"Americas","2002",11.2
+"Americas","2003",10.9
+"Americas","2004",10.1
+"Americas","2005",9.4
+"Americas","2006",8
+"Americas","2007",7.3
+"Americas","2008",6.7
+"Americas","2009",6.4
+"Americas","2010",5.8
+"Americas","2011",5.3
+"Americas","2012",5.1
+"Americas","2013",4.6
+"Americas","2014",4.5
+"Americas","2015",4.2
+"Americas","2016",4.3
+"Americas","2017",4.3
+"Americas","2018",4.1
+"Americas","2019",4.2
+"Americas","2020",3.8
+"Americas","2021",4.2
+"Americas","2022",3.6
+"Americas","2023",3.3
+"Angola","2000",27
+"Angola","2008",22.1
+"Angola","2018",39.3
+"Argentina","2000",7.3
+"Argentina","2001",10.7
+"Argentina","2002",17.1
+"Argentina","2003",8.2
+"Argentina","2004",6
+"Argentina","2005",4.4
+"Argentina","2006",3.5
+"Argentina","2007",2.8
+"Argentina","2008",2.6
+"Argentina","2009",2.4
+"Argentina","2010",1.5
+"Argentina","2011",1.2
+"Argentina","2012",1.3
+"Argentina","2013",1.1
+"Argentina","2014",1.1
+"Argentina","2016",1.3
+"Argentina","2017",1.1
+"Argentina","2018",1.6
+"Argentina","2019",1.7
+"Argentina","2020",2.2
+"Argentina","2021",1.4
+"Argentina","2022",1.3
+"Argentina","2023",1.2
+"Armenia","2001",24.1
+"Armenia","2002",19.8
+"Armenia","2003",14.8
+"Armenia","2004",10.3
+"Armenia","2005",6.1
+"Armenia","2006",4.5
+"Armenia","2007",3.7
+"Armenia","2008",2
+"Armenia","2009",3.1
+"Armenia","2010",2.9
+"Armenia","2011",3.1
+"Armenia","2012",2.5
+"Armenia","2013",2.9
+"Armenia","2014",3.4
+"Armenia","2015",2.9
+"Armenia","2016",2.5
+"Armenia","2017",2.4
+"Armenia","2018",2.9
+"Armenia","2019",2.4
+"Armenia","2020",1.5
+"Armenia","2021",2.1
+"Armenia","2022",1.9
+"Armenia","2023",1.9
+"Asia","2000",42.8
+"Asia","2001",41
+"Asia","2002",38.7
+"Asia","2003",35.2
+"Asia","2004",31.4
+"Asia","2005",27.9
+"Asia","2006",25.8
+"Asia","2007",23.7
+"Asia","2008",21.9
+"Asia","2009",20.2
+"Asia","2010",17.9
+"Asia","2011",15.1
+"Asia","2012",13.6
+"Asia","2013",8.8
+"Asia","2014",7.7
+"Asia","2015",6.6
+"Asia","2016",5.9
+"Asia","2017",5.2
+"Asia","2018",4.5
+"Asia","2019",4.1
+"Asia","2020",4.4
+"Asia","2021",4.2
+"Asia","2022",4
+"Asia","2023",4
+"Australia","2001",1
+"Australia","2003",1
+"Australia","2004",0.7
+"Australia","2008",0.7
+"Australia","2010",0.3
+"Australia","2014",0.5
+"Australia","2016",0.5
+"Australia","2018",0.5
+"Australia and New Zealand","2000",1
+"Australia and New Zealand","2001",1
+"Australia and New Zealand","2002",1
+"Australia and New Zealand","2003",1
+"Australia and New Zealand","2004",0.7
+"Australia and New Zealand","2005",0.7
+"Australia and New Zealand","2006",0.7
+"Australia and New Zealand","2007",0.7
+"Australia and New Zealand","2008",0.7
+"Australia and New Zealand","2009",0.5
+"Australia and New Zealand","2010",0.3
+"Australia and New Zealand","2011",0.4
+"Australia and New Zealand","2012",0.4
+"Australia and New Zealand","2013",0.5
+"Australia and New Zealand","2014",0.5
+"Australia and New Zealand","2015",0.5
+"Australia and New Zealand","2016",0.5
+"Australia and New Zealand","2017",0.5
+"Australia and New Zealand","2018",0.5
+"Australia and New Zealand","2019",0.5
+"Austria","2000",0.2
+"Austria","2003",0.4
+"Austria","2004",0.1
+"Austria","2005",0.2
+"Austria","2006",0.1
+"Austria","2007",0.4
+"Austria","2008",0.5
+"Austria","2009",0.7
+"Austria","2010",0.5
+"Austria","2011",0.5
+"Austria","2012",0.7
+"Austria","2013",0.3
+"Austria","2014",0.2
+"Austria","2015",0.7
+"Austria","2016",0.7
+"Austria","2017",0.3
+"Austria","2018",0.6
+"Austria","2019",0.6
+"Austria","2020",0.7
+"Austria","2021",0.5
+"Austria","2022",0.6
+"Azerbaijan","2001",11.4
+"Azerbaijan","2002",0.2
+"Azerbaijan","2003",0.2
+"Azerbaijan","2004",0
+"Azerbaijan","2005",0
+"Bangladesh","2000",41.4
+"Bangladesh","2005",32.3
+"Bangladesh","2010",25.1
+"Bangladesh","2016",19.5
+"Bangladesh","2022",8
+"Barbados","2016",1.7
+"Belarus","2000",26.5
+"Belarus","2001",14.7
+"Belarus","2002",10.4
+"Belarus","2003",8.7
+"Belarus","2004",4.3
+"Belarus","2005",2.4
+"Belarus","2006",1.1
+"Belarus","2007",1.1
+"Belarus","2008",0.5
+"Belarus","2009",0.5
+"Belarus","2010",0.2
+"Belarus","2011",0.1
+"Belarus","2012",0.1
+"Belarus","2013",0
+"Belarus","2014",0
+"Belarus","2015",0
+"Belarus","2016",0
+"Belarus","2017",0
+"Belarus","2018",0
+"Belarus","2019",0
+"Belarus","2020",0
+"Belgium","2000",0.3
+"Belgium","2003",0.4
+"Belgium","2004",0.1
+"Belgium","2005",0.3
+"Belgium","2006",0.2
+"Belgium","2007",0.2
+"Belgium","2008",0.1
+"Belgium","2009",0.1
+"Belgium","2010",0.1
+"Belgium","2011",0.2
+"Belgium","2012",0.2
+"Belgium","2013",0.1
+"Belgium","2014",0.1
+"Belgium","2015",0.1
+"Belgium","2016",0.1
+"Belgium","2017",0.2
+"Belgium","2018",0.1
+"Belgium","2019",0.1
+"Belgium","2020",0.1
+"Belgium","2021",0
+"Belgium","2022",0
+"Belize","2018",1
+"Benin","2003",70.5
+"Benin","2011",68.4
+"Benin","2015",65.8
+"Benin","2018",37.2
+"Benin","2021",27.2
+"Bhutan","2003",23.1
+"Bhutan","2007",12
+"Bhutan","2012",3.6
+"Bhutan","2017",2.6
+"Bhutan","2022",0
+"Bolivia (Plurinational State of)","2000",28.3
+"Bolivia (Plurinational State of)","2001",22.3
+"Bolivia (Plurinational State of)","2002",23.9
+"Bolivia (Plurinational State of)","2004",13.2
+"Bolivia (Plurinational State of)","2005",18.7
+"Bolivia (Plurinational State of)","2006",15.9
+"Bolivia (Plurinational State of)","2007",12.1
+"Bolivia (Plurinational State of)","2008",10.6
+"Bolivia (Plurinational State of)","2009",10
+"Bolivia (Plurinational State of)","2011",6.9
+"Bolivia (Plurinational State of)","2012",7.9
+"Bolivia (Plurinational State of)","2013",6.8
+"Bolivia (Plurinational State of)","2014",5.6
+"Bolivia (Plurinational State of)","2015",6.2
+"Bolivia (Plurinational State of)","2016",7.2
+"Bolivia (Plurinational State of)","2017",6.4
+"Bolivia (Plurinational State of)","2018",4.7
+"Bolivia (Plurinational State of)","2019",3.1
+"Bolivia (Plurinational State of)","2020",4.2
+"Bolivia (Plurinational State of)","2021",3.1
+"Bolivia (Plurinational State of)","2022",3.3
+"Bolivia (Plurinational State of)","2023",2.8
+"Bosnia and Herzegovina","2001",0.6
+"Bosnia and Herzegovina","2004",0.4
+"Bosnia and Herzegovina","2007",0.2
+"Bosnia and Herzegovina","2011",0.2
+"Botswana","2002",34.8
+"Botswana","2009",21.1
+"Botswana","2015",21.4
+"Brazil","2001",17.5
+"Brazil","2002",16.2
+"Brazil","2003",17.1
+"Brazil","2004",15.3
+"Brazil","2005",13.7
+"Brazil","2006",11.4
+"Brazil","2007",10.8
+"Brazil","2008",9.1
+"Brazil","2009",8.4
+"Brazil","2011",7.1
+"Brazil","2012",6.4
+"Brazil","2013",5.4
+"Brazil","2014",4.7
+"Brazil","2015",5.4
+"Brazil","2016",6.5
+"Brazil","2017",6.9
+"Brazil","2018",6.9
+"Brazil","2019",7
+"Brazil","2020",2.8
+"Brazil","2021",7.5
+"Brazil","2022",4.9
+"Brazil","2023",3.8
+"Bulgaria","2001",4.7
+"Bulgaria","2003",2.2
+"Bulgaria","2006",8
+"Bulgaria","2007",2.5
+"Bulgaria","2008",1.9
+"Bulgaria","2009",1.8
+"Bulgaria","2010",2.7
+"Bulgaria","2011",3.4
+"Bulgaria","2012",3
+"Bulgaria","2013",3.3
+"Bulgaria","2014",2.7
+"Bulgaria","2015",4.6
+"Bulgaria","2016",3.1
+"Bulgaria","2017",2
+"Bulgaria","2018",1.5
+"Bulgaria","2019",1.6
+"Bulgaria","2020",0.7
+"Bulgaria","2021",1.2
+"Bulgaria","2022",1.1
+"Burkina Faso","2003",69.6
+"Burkina Faso","2009",67.2
+"Burkina Faso","2014",58.7
+"Burkina Faso","2018",47.7
+"Burkina Faso","2021",42.1
+"Burundi","2006",81.5
+"Burundi","2013",75.8
+"Burundi","2020",74.2
+"Cabo Verde","2001",37.1
+"Cabo Verde","2007",26.2
+"Cabo Verde","2015",14.6
+"Cameroon","2001",30.8
+"Cameroon","2007",36
+"Cameroon","2014",29
+"Cameroon","2021",26.7
+"Canada","2000",0.2
+"Canada","2001",0.2
+"Canada","2002",0.2
+"Canada","2003",0.2
+"Canada","2004",0.2
+"Canada","2005",0.2
+"Canada","2006",0.2
+"Canada","2007",0.2
+"Canada","2008",0.2
+"Canada","2009",0.2
+"Canada","2010",0.2
+"Canada","2011",0.2
+"Canada","2012",0.2
+"Canada","2013",0.5
+"Canada","2014",0.2
+"Canada","2015",0.5
+"Canada","2016",0.5
+"Canada","2017",0.5
+"Canada","2018",0.2
+"Canada","2019",0.2
+"Canada","2020",0.2
+"Caribbean","2000",33.4
+"Caribbean","2001",33.1
+"Caribbean","2002",34.2
+"Caribbean","2003",34.7
+"Caribbean","2004",36.5
+"Caribbean","2013",18.3
+"Caribbean","2014",17.9
+"Caribbean","2015",17.6
+"Caucasus and Central Asia","2000",54.9
+"Caucasus and Central Asia","2001",53.6
+"Caucasus and Central Asia","2002",49.6
+"Caucasus and Central Asia","2003",48.1
+"Caucasus and Central Asia","2004",43.2
+"Caucasus and Central Asia","2005",44
+"Caucasus and Central Asia","2006",39.9
+"Caucasus and Central Asia","2007",38.5
+"Caucasus and Central Asia","2008",36.4
+"Caucasus and Central Asia","2020",4.1
+"Caucasus and Central Asia","2021",3.5
+"Caucasus and Central Asia","2022",3.2
+"Caucasus and Central Asia","2023",2.9
+"Central African Republic","2008",67.3
+"Central African Republic","2021",71.6
+"Central America","2000",16.6
+"Central America","2001",15.4
+"Central America","2002",14.1
+"Central America","2003",13.9
+"Central America","2004",12.9
+"Central America","2005",13.2
+"Central America","2006",11
+"Central America","2007",10.7
+"Central America","2008",10.6
+"Central America","2009",10.7
+"Central America","2010",9.2
+"Central America","2011",8.3
+"Central America","2012",8.3
+"Central America","2013",7.9
+"Central America","2014",7.8
+"Central America","2015",6.5
+"Central America","2016",5.7
+"Central America","2017",5.5
+"Central America","2018",5.3
+"Central America","2019",5.2
+"Central America","2020",5.9
+"Central America","2021",4.8
+"Central America","2022",4.2
+"Central America","2023",4
+"Central and Southern Asia","2002",43.1
+"Central and Southern Asia","2003",39.9
+"Central and Southern Asia","2004",35.9
+"Central and Southern Asia","2005",34
+"Central and Southern Asia","2006",31.4
+"Central and Southern Asia","2007",29.7
+"Central and Southern Asia","2008",26.6
+"Central and Southern Asia","2009",26.9
+"Central and Southern Asia","2010",24.4
+"Central and Southern Asia","2011",23.1
+"Central and Southern Asia","2012",21.9
+"Central and Southern Asia","2013",16.5
+"Central and Southern Asia","2014",15.6
+"Central and Southern Asia","2020",10.7
+"Central and Southern Asia","2021",9.4
+"Central and Southern Asia","2022",8.8
+"Central and Southern Asia","2023",8.8
+"Central Asia","2000",64
+"Central Asia","2001",62.5
+"Central Asia","2002",60.2
+"Central Asia","2003",58.5
+"Central Asia","2004",52.5
+"Central Asia","2005",53.6
+"Central Asia","2006",48.4
+"Central Asia","2020",4.4
+"Central Asia","2021",3.7
+"Central Asia","2022",3.5
+"Central Asia","2023",3.2
+"Chad","2003",66.7
+"Chad","2011",45.2
+"Chad","2018",41.9
+"Chad","2022",39.5
+"Chile","2000",8.6
+"Chile","2003",7.9
+"Chile","2006",3.3
+"Chile","2009",2.6
+"Chile","2011",1.7
+"Chile","2013",0.8
+"Chile","2015",0.7
+"Chile","2017",0.5
+"Chile","2020",1.7
+"Chile","2022",0.5
+"China","2002",48.1
+"China","2005",33.1
+"China","2008",26.2
+"China","2010",20.6
+"China","2011",15.7
+"China","2012",13.2
+"China","2013",6.2
+"China","2014",4.7
+"China","2015",3
+"China","2016",2.2
+"China","2017",1.7
+"China","2018",0.8
+"China","2019",0
+"China","2020",0
+"China","2021",0
+"Colombia","2000",23.9
+"Colombia","2001",29.6
+"Colombia","2002",21.2
+"Colombia","2003",19.8
+"Colombia","2004",19.2
+"Colombia","2005",16.8
+"Colombia","2008",16.6
+"Colombia","2009",15
+"Colombia","2010",13.1
+"Colombia","2011",11.2
+"Colombia","2012",10.9
+"Colombia","2013",9.9
+"Colombia","2014",9
+"Colombia","2015",8.1
+"Colombia","2016",8
+"Colombia","2017",7.3
+"Colombia","2018",7.4
+"Colombia","2019",8.8
+"Colombia","2020",13.5
+"Colombia","2021",11.2
+"Colombia","2022",9.3
+"Colombia","2023",7.7
+"Comoros","2004",27.9
+"Comoros","2014",31.4
+"Congo","2005",54.5
+"Congo","2011",39.2
+"Costa Rica","2000",9.8
+"Costa Rica","2001",7.6
+"Costa Rica","2002",6.6
+"Costa Rica","2003",6.9
+"Costa Rica","2004",6.6
+"Costa Rica","2005",5
+"Costa Rica","2006",5.2
+"Costa Rica","2007",3.1
+"Costa Rica","2008",3.4
+"Costa Rica","2009",3.6
+"Costa Rica","2010",2.2
+"Costa Rica","2011",2.7
+"Costa Rica","2012",2.6
+"Costa Rica","2013",2.6
+"Costa Rica","2014",2.4
+"Costa Rica","2015",2.4
+"Costa Rica","2016",2.4
+"Costa Rica","2017",1.7
+"Costa Rica","2018",2.3
+"Costa Rica","2019",1.7
+"Costa Rica","2020",3.4
+"Costa Rica","2021",2.2
+"Costa Rica","2022",1.6
+"Costa Rica","2023",1.5
+"Côte d'Ivoire","2002",44.7
+"Côte d'Ivoire","2008",47.9
+"Côte d'Ivoire","2015",47.5
+"Côte d'Ivoire","2018",22.7
+"Côte d'Ivoire","2021",20.9
+"Croatia","2000",0
+"Croatia","2001",0
+"Croatia","2004",0
+"Croatia","2008",0
+"Croatia","2009",1
+"Croatia","2010",1.4
+"Croatia","2011",1
+"Croatia","2012",1.1
+"Croatia","2013",1.2
+"Croatia","2014",1.2
+"Croatia","2015",0.7
+"Croatia","2016",0.9
+"Croatia","2017",0.6
+"Croatia","2018",0.5
+"Croatia","2019",0.4
+"Croatia","2020",0.4
+"Croatia","2021",0.3
+"Croatia","2022",0.4
+"Cyprus","2004",0.1
+"Cyprus","2005",0.1
+"Cyprus","2006",0
+"Cyprus","2007",0
+"Cyprus","2008",0
+"Cyprus","2009",0.1
+"Cyprus","2010",0.1
+"Cyprus","2011",0
+"Cyprus","2012",0
+"Cyprus","2013",0.1
+"Cyprus","2014",0.1
+"Cyprus","2015",0
+"Cyprus","2016",0.1
+"Cyprus","2017",0.1
+"Cyprus","2018",0.1
+"Cyprus","2019",0.2
+"Cyprus","2020",0
+"Cyprus","2021",0
+"Cyprus","2022",0
+"Czechia","2002",0
+"Czechia","2004",0
+"Czechia","2005",0
+"Czechia","2006",0.1
+"Czechia","2007",0.1
+"Czechia","2008",0.1
+"Czechia","2009",0
+"Czechia","2010",0
+"Czechia","2011",0.1
+"Czechia","2012",0.1
+"Czechia","2013",0
+"Czechia","2014",0
+"Czechia","2015",0
+"Czechia","2016",0
+"Czechia","2017",0
+"Czechia","2018",0
+"Czechia","2019",0
+"Czechia","2020",0
+"Czechia","2021",0.1
+"Czechia","2022",0
+"Democratic Republic of the Congo","2004",94.9
+"Democratic Republic of the Congo","2012",78.9
+"Democratic Republic of the Congo","2020",85.3
+"Denmark","2000",0
+"Denmark","2003",0.4
+"Denmark","2004",0.3
+"Denmark","2005",0.3
+"Denmark","2006",0.2
+"Denmark","2007",0.1
+"Denmark","2008",0.3
+"Denmark","2009",0.6
+"Denmark","2010",0.1
+"Denmark","2011",0
+"Denmark","2012",0
+"Denmark","2013",0.3
+"Denmark","2014",0.2
+"Denmark","2015",0.2
+"Denmark","2016",0.3
+"Denmark","2017",0.1
+"Denmark","2018",0.2
+"Denmark","2019",0.3
+"Denmark","2020",0.2
+"Denmark","2021",0.2
+"Denmark","2022",0.2
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)","2000",2.2
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)","2001",1.7
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)","2002",1.4
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)","2003",1.2
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)","2004",1
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)","2005",0.9
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)","2006",0.8
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)","2007",0.6
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)","2008",0.5
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)","2009",0.6
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)","2010",0.6
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)","2011",0.6
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)","2012",0.7
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)","2013",0.6
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)","2014",0.8
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)","2015",0.8
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)","2016",0.7
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)","2017",0.7
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)","2018",0.6
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)","2019",0.6
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)","2020",0.5
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)","2021",0.5
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)","2022",0.7
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)","2023",0.7
+"Developing regions","2000",43.2
+"Developing regions","2001",41.8
+"Developing regions","2002",40.1
+"Developing regions","2003",37.6
+"Developing regions","2004",34.4
+"Developing regions","2005",31.7
+"Developing regions","2006",29.7
+"Developing regions","2007",28
+"Developing regions","2008",26.6
+"Developing regions","2009",25.4
+"Developing regions","2010",23.4
+"Developing regions","2011",21.4
+"Developing regions","2012",20.2
+"Developing regions","2013",17
+"Developing regions","2014",16.2
+"Developing regions","2015",15.6
+"Developing regions","2016",15.3
+"Developing regions","2017",14.9
+"Developing regions","2018",14.5
+"Developing regions","2019",14.3
+"Developing regions","2020",15
+"Developing regions","2021",15
+"Developing regions","2022",14.7
+"Developing regions","2023",14.7
+"Djibouti","2002",32.3
+"Djibouti","2012",26.4
+"Djibouti","2013",31.2
+"Djibouti","2017",25.4
+"Dominican Republic","2000",8.3
+"Dominican Republic","2001",6.6
+"Dominican Republic","2002",9
+"Dominican Republic","2003",10.7
+"Dominican Republic","2004",14.6
+"Dominican Republic","2005",9.9
+"Dominican Republic","2006",8.1
+"Dominican Republic","2007",7.8
+"Dominican Republic","2008",7.1
+"Dominican Republic","2009",6.3
+"Dominican Republic","2010",5.5
+"Dominican Republic","2011",5.3
+"Dominican Republic","2012",5.4
+"Dominican Republic","2013",4.4
+"Dominican Republic","2014",4.1
+"Dominican Republic","2015",3.3
+"Dominican Republic","2016",3
+"Dominican Republic","2017",1.5
+"Dominican Republic","2018",1.1
+"Dominican Republic","2019",1
+"Dominican Republic","2020",1.3
+"Dominican Republic","2021",1.3
+"Dominican Republic","2022",1
+"Dominican Republic","2023",1.3
+"Eastern Africa","2000",66.9
+"Eastern Africa","2001",66.1
+"Eastern Africa","2002",67.8
+"Eastern Africa","2003",66.6
+"Eastern Africa","2004",61.8
+"Eastern Africa","2005",59.6
+"Eastern Africa","2006",58.6
+"Eastern Africa","2007",57.5
+"Eastern Africa","2008",56.7
+"Eastern Africa","2009",55.9
+"Eastern Africa","2010",54.6
+"Eastern Africa","2011",53.7
+"Eastern Africa","2012",53.2
+"Eastern Africa","2013",52.6
+"Eastern Africa","2014",52.1
+"Eastern Africa","2015",52
+"Eastern Africa","2016",52.4
+"Eastern Africa","2017",53.1
+"Eastern Africa","2018",53.5
+"Eastern Africa","2020",55.5
+"Eastern Africa","2021",55.8
+"Eastern Africa","2022",55
+"Eastern and South-Eastern Asia","2000",46
+"Eastern and South-Eastern Asia","2001",43.4
+"Eastern and South-Eastern Asia","2002",40.6
+"Eastern and South-Eastern Asia","2003",36.7
+"Eastern and South-Eastern Asia","2004",32.7
+"Eastern and South-Eastern Asia","2005",28.4
+"Eastern and South-Eastern Asia","2006",26.3
+"Eastern and South-Eastern Asia","2007",23.9
+"Eastern and South-Eastern Asia","2008",22.4
+"Eastern and South-Eastern Asia","2009",20
+"Eastern and South-Eastern Asia","2010",17.4
+"Eastern and South-Eastern Asia","2011",13.8
+"Eastern and South-Eastern Asia","2012",12
+"Eastern and South-Eastern Asia","2013",6.7
+"Eastern and South-Eastern Asia","2014",5.4
+"Eastern and South-Eastern Asia","2015",3.9
+"Eastern and South-Eastern Asia","2016",3.2
+"Eastern and South-Eastern Asia","2017",2.6
+"Eastern and South-Eastern Asia","2018",1.8
+"Eastern and South-Eastern Asia","2019",1.2
+"Eastern and South-Eastern Asia","2020",1.5
+"Eastern and South-Eastern Asia","2021",1.5
+"Eastern and South-Eastern Asia","2022",1.4
+"Eastern and South-Eastern Asia","2023",1.2
+"Eastern Asia","2000",48.4
+"Eastern Asia","2001",45.5
+"Eastern Asia","2002",42.4
+"Eastern Asia","2003",38.3
+"Eastern Asia","2004",33.9
+"Eastern Asia","2005",29.2
+"Eastern Asia","2006",27
+"Eastern Asia","2007",24.7
+"Eastern Asia","2008",23.2
+"Eastern Asia","2009",20.9
+"Eastern Asia","2010",18.2
+"Eastern Asia","2011",13.9
+"Eastern Asia","2012",11.8
+"Eastern Asia","2013",5.6
+"Eastern Asia","2014",4.3
+"Eastern Asia","2015",2.7
+"Eastern Asia","2016",2
+"Eastern Asia","2017",1.5
+"Eastern Asia","2018",0.8
+"Eastern Asia","2019",0.1
+"Eastern Asia","2020",0.1
+"Eastern Asia","2021",0.1
+"Eastern Asia","2022",0.1
+"Eastern Asia","2023",0.1
+"Eastern Asia (excluding Japan)","2000",53
+"Eastern Asia (excluding Japan)","2001",49.8
+"Eastern Asia (excluding Japan)","2002",46.4
+"Eastern Asia (excluding Japan)","2003",41.8
+"Eastern Asia (excluding Japan)","2004",37.1
+"Eastern Asia (excluding Japan)","2005",31.9
+"Eastern Asia (excluding Japan)","2006",29.5
+"Eastern Asia (excluding Japan)","2007",26.9
+"Eastern Asia (excluding Japan)","2008",25.3
+"Eastern Asia (excluding Japan)","2009",22.8
+"Eastern Asia (excluding Japan)","2010",19.8
+"Eastern Asia (excluding Japan)","2011",15.1
+"Eastern Asia (excluding Japan)","2012",12.8
+"Eastern Asia (excluding Japan)","2013",6
+"Eastern Asia (excluding Japan)","2014",4.6
+"Eastern Asia (excluding Japan)","2015",2.9
+"Eastern Asia (excluding Japan)","2016",2.1
+"Eastern Asia (excluding Japan)","2017",1.6
+"Eastern Asia (excluding Japan)","2018",0.8
+"Eastern Asia (excluding Japan)","2019",0
+"Eastern Asia (excluding Japan)","2020",0
+"Eastern Asia (excluding Japan)","2021",0
+"Eastern Asia (excluding Japan)","2022",0
+"Eastern Asia (excluding Japan)","2023",0
+"Eastern Europe","2000",6.5
+"Eastern Europe","2001",4.5
+"Eastern Europe","2002",3.3
+"Eastern Europe","2003",2.6
+"Eastern Europe","2004",2.1
+"Eastern Europe","2005",1.5
+"Eastern Europe","2006",1.2
+"Eastern Europe","2007",0.6
+"Eastern Europe","2008",0.3
+"Eastern Europe","2009",0.3
+"Eastern Europe","2010",0.3
+"Eastern Europe","2011",0.2
+"Eastern Europe","2012",0.2
+"Eastern Europe","2013",0.2
+"Eastern Europe","2014",0.8
+"Eastern Europe","2015",0.8
+"Eastern Europe","2016",0.2
+"Eastern Europe","2017",0.5
+"Eastern Europe","2018",0.1
+"Eastern Europe","2019",0.1
+"Eastern Europe","2020",0.1
+"Eastern Europe","2021",0.2
+"Eastern Europe","2022",0.4
+"Eastern Europe","2023",0.3
+"Ecuador","2000",34.1
+"Ecuador","2003",18.9
+"Ecuador","2004",19.4
+"Ecuador","2005",15.4
+"Ecuador","2006",10.9
+"Ecuador","2007",10.9
+"Ecuador","2008",9.8
+"Ecuador","2009",9.3
+"Ecuador","2010",7.8
+"Ecuador","2011",6.4
+"Ecuador","2012",6
+"Ecuador","2013",4.5
+"Ecuador","2014",4
+"Ecuador","2015",4.8
+"Ecuador","2016",5
+"Ecuador","2017",4.3
+"Ecuador","2018",4.7
+"Ecuador","2019",4.6
+"Ecuador","2020",8.4
+"Ecuador","2021",5.3
+"Ecuador","2022",4.4
+"Ecuador","2023",4.7
+"Egypt","2004",4.1
+"Egypt","2008",3.7
+"Egypt","2010",1.5
+"Egypt","2012",1.2
+"Egypt","2015",1.2
+"Egypt","2017",3.1
+"Egypt","2019",2
+"Egypt","2021",1.4
+"El Salvador","2000",18.4
+"El Salvador","2001",19.4
+"El Salvador","2002",19.5
+"El Salvador","2003",20.9
+"El Salvador","2004",16.3
+"El Salvador","2005",16.4
+"El Salvador","2006",12.6
+"El Salvador","2007",9.2
+"El Salvador","2008",12.6
+"El Salvador","2009",12.4
+"El Salvador","2010",11.4
+"El Salvador","2011",10.1
+"El Salvador","2012",8.5
+"El Salvador","2013",7.1
+"El Salvador","2014",7
+"El Salvador","2015",5.3
+"El Salvador","2016",5.8
+"El Salvador","2017",4.5
+"El Salvador","2018",4.1
+"El Salvador","2019",3
+"El Salvador","2021",5.1
+"El Salvador","2022",5.2
+"El Salvador","2023",4.6
+"Equatorial Guinea","2022",8.8
+"Estonia","2000",3
+"Estonia","2001",3
+"Estonia","2002",2.9
+"Estonia","2003",3.6
+"Estonia","2004",1.6
+"Estonia","2005",1.1
+"Estonia","2006",1.1
+"Estonia","2007",0.6
+"Estonia","2008",0.6
+"Estonia","2009",0.8
+"Estonia","2010",1
+"Estonia","2011",1.2
+"Estonia","2012",1
+"Estonia","2013",1.1
+"Estonia","2014",1
+"Estonia","2015",0.7
+"Estonia","2016",0.6
+"Estonia","2017",0.5
+"Estonia","2018",0.4
+"Estonia","2019",0.7
+"Estonia","2020",0.4
+"Estonia","2021",0.3
+"Estonia","2022",0.5
+"Eswatini","2000",65
+"Eswatini","2009",58.2
+"Eswatini","2016",44.5
+"Ethiopia","2004",41.3
+"Ethiopia","2010",37.4
+"Ethiopia","2015",33
+"Ethiopia","2021",38.6
+"Europe","2000",3
+"Europe","2001",2.2
+"Europe","2002",1.7
+"Europe","2003",1.3
+"Europe","2004",1.1
+"Europe","2005",0.9
+"Europe","2006",0.7
+"Europe","2007",0.4
+"Europe","2008",0.3
+"Europe","2009",0.4
+"Europe","2010",0.4
+"Europe","2011",0.4
+"Europe","2012",0.5
+"Europe","2013",0.5
+"Europe","2014",0.7
+"Europe","2015",0.7
+"Europe","2016",0.5
+"Europe","2017",0.6
+"Europe","2018",0.4
+"Europe","2019",0.3
+"Europe","2020",0.3
+"Europe","2021",0.3
+"Europe","2022",0.4
+"Europe","2023",0.4
+"Europe and Northern America","2000",2.3
+"Europe and Northern America","2001",1.8
+"Europe and Northern America","2002",1.5
+"Europe and Northern America","2003",1.2
+"Europe and Northern America","2004",1
+"Europe and Northern America","2005",0.9
+"Europe and Northern America","2006",0.8
+"Europe and Northern America","2007",0.6
+"Europe and Northern America","2008",0.5
+"Europe and Northern America","2009",0.6
+"Europe and Northern America","2010",0.7
+"Europe and Northern America","2011",0.6
+"Europe and Northern America","2012",0.6
+"Europe and Northern America","2013",0.6
+"Europe and Northern America","2014",0.8
+"Europe and Northern America","2015",0.8
+"Europe and Northern America","2016",0.7
+"Europe and Northern America","2017",0.8
+"Europe and Northern America","2018",0.5
+"Europe and Northern America","2019",0.5
+"Europe and Northern America","2020",0.4
+"Europe and Northern America","2021",0.4
+"Europe and Northern America","2022",0.6
+"Europe and Northern America","2023",0.6
+"Fiji","2002",5.4
+"Fiji","2008",3.8
+"Fiji","2013",1.6
+"Fiji","2019",4.7
+"Finland","2000",0
+"Finland","2003",0
+"Finland","2004",0
+"Finland","2005",0.1
+"Finland","2006",0.1
+"Finland","2007",0.1
+"Finland","2008",0.1
+"Finland","2009",0.1
+"Finland","2010",0.1
+"Finland","2011",0.1
+"Finland","2012",0.1
+"Finland","2013",0.1
+"Finland","2014",0.1
+"Finland","2015",0.1
+"Finland","2016",0
+"Finland","2017",0.1
+"Finland","2018",0.1
+"Finland","2019",0
+"Finland","2020",0
+"Finland","2021",0
+"Finland","2022",0.1
+"France","2000",0
+"France","2001",0
+"France","2002",0
+"France","2003",0.2
+"France","2004",0.1
+"France","2005",0.1
+"France","2006",0
+"France","2007",0
+"France","2008",0
+"France","2009",0.1
+"France","2010",0.1
+"France","2011",0
+"France","2012",0.1
+"France","2013",0.1
+"France","2014",0
+"France","2015",0.1
+"France","2016",0.1
+"France","2017",0
+"France","2018",0
+"France","2019",0.1
+"France","2020",0.1
+"France","2021",0.1
+"France","2022",0.1
+"Gabon","2005",9.2
+"Gabon","2017",3.8
+"Gambia","2003",55.2
+"Gambia","2010",34.2
+"Gambia","2015",17.1
+"Gambia","2020",22
+"Georgia","2000",35
+"Georgia","2001",36.7
+"Georgia","2002",22.3
+"Georgia","2003",22.3
+"Georgia","2004",20.9
+"Georgia","2005",22.3
+"Georgia","2006",22.5
+"Georgia","2007",23.9
+"Georgia","2008",21.7
+"Georgia","2009",21.1
+"Georgia","2010",23.6
+"Georgia","2011",21.6
+"Georgia","2012",18.8
+"Georgia","2013",14.9
+"Georgia","2014",12
+"Georgia","2015",10.6
+"Georgia","2016",10.5
+"Georgia","2017",11.1
+"Georgia","2018",11
+"Georgia","2019",9.7
+"Georgia","2020",12
+"Georgia","2021",10.8
+"Georgia","2022",7.7
+"Georgia","2023",5.8
+"Germany","2000",0
+"Germany","2001",0
+"Germany","2002",0
+"Germany","2003",0.2
+"Germany","2004",0
+"Germany","2005",0
+"Germany","2006",0
+"Germany","2007",0
+"Germany","2008",0
+"Germany","2009",0
+"Germany","2010",0
+"Germany","2011",0
+"Germany","2012",0
+"Germany","2013",0
+"Germany","2014",0
+"Germany","2015",0
+"Germany","2016",0
+"Germany","2017",0.2
+"Germany","2018",0
+"Germany","2019",0.2
+"Germany","2020",0.2
+"Ghana","2005",60.9
+"Ghana","2012",41.8
+"Ghana","2016",39
+"Greece","2000",0.5
+"Greece","2003",0.6
+"Greece","2004",0.9
+"Greece","2005",0.4
+"Greece","2006",0.7
+"Greece","2007",0.6
+"Greece","2008",0.4
+"Greece","2009",0.6
+"Greece","2010",1.1
+"Greece","2011",1.5
+"Greece","2012",2.1
+"Greece","2013",1.5
+"Greece","2014",2
+"Greece","2015",2
+"Greece","2016",1.4
+"Greece","2017",1.1
+"Greece","2018",0.2
+"Greece","2019",1
+"Greece","2020",1.1
+"Greece","2021",0.7
+"Greece","2022",0.6
+"Grenada","2018",0.8
+"Guatemala","2000",8.8
+"Guatemala","2006",10.5
+"Guatemala","2014",8
+"Guatemala","2023",9.7
+"Guinea","2002",50.3
+"Guinea","2007",44
+"Guinea","2012",21.3
+"Guinea","2018",11.7
+"Guinea-Bissau","2002",68.2
+"Guinea-Bissau","2010",75.7
+"Guinea-Bissau","2018",37.1
+"Guinea-Bissau","2021",39.9
+"Haiti","2001",75.1
+"Haiti","2012",40.4
+"Honduras","2001",26.5
+"Honduras","2002",29
+"Honduras","2003",34
+"Honduras","2004",33.3
+"Honduras","2005",31.3
+"Honduras","2006",27.3
+"Honduras","2007",22
+"Honduras","2008",20.9
+"Honduras","2009",18.1
+"Honduras","2010",19.6
+"Honduras","2011",20.1
+"Honduras","2012",24
+"Honduras","2013",20.8
+"Honduras","2014",20.6
+"Honduras","2015",19.9
+"Honduras","2016",19.8
+"Honduras","2017",19.3
+"Honduras","2018",19.8
+"Honduras","2019",18.8
+"Honduras","2023",17
+"Hungary","2000",0.1
+"Hungary","2001",0
+"Hungary","2002",0.1
+"Hungary","2003",0.2
+"Hungary","2004",0.3
+"Hungary","2005",1
+"Hungary","2006",0.2
+"Hungary","2007",0.2
+"Hungary","2008",0.1
+"Hungary","2009",0.1
+"Hungary","2010",0.2
+"Hungary","2011",0.2
+"Hungary","2012",0.5
+"Hungary","2013",0.5
+"Hungary","2014",1
+"Hungary","2015",1
+"Hungary","2016",1.6
+"Hungary","2017",0.9
+"Hungary","2018",0.4
+"Hungary","2019",0.5
+"Hungary","2020",0.6
+"Hungary","2021",0.7
+"Hungary","2022",1.5
+"Iceland","2003",0
+"Iceland","2004",0.2
+"Iceland","2005",0
+"Iceland","2006",0.2
+"Iceland","2007",0.1
+"Iceland","2008",0.1
+"Iceland","2009",0.1
+"Iceland","2010",0.1
+"Iceland","2011",0.2
+"Iceland","2012",0
+"Iceland","2013",0.1
+"Iceland","2014",0
+"Iceland","2015",0
+"Iceland","2016",0
+"Iceland","2017",0
+"Iceland","2018",0.3
+"India","2004",46.4
+"India","2009",34.6
+"India","2011",27.1
+"India","2022",5.3
+"Indonesia","2000",65.7
+"Indonesia","2001",62.3
+"Indonesia","2002",46.8
+"Indonesia","2003",45.5
+"Indonesia","2004",45.4
+"Indonesia","2005",41.1
+"Indonesia","2006",46.8
+"Indonesia","2007",41.1
+"Indonesia","2008",38
+"Indonesia","2009",37.9
+"Indonesia","2010",34.1
+"Indonesia","2011",31.2
+"Indonesia","2012",26.6
+"Indonesia","2013",27.2
+"Indonesia","2014",25.7
+"Indonesia","2015",21.6
+"Indonesia","2016",18
+"Indonesia","2017",14.8
+"Indonesia","2018",12.5
+"Indonesia","2019",10.8
+"Indonesia","2020",9.8
+"Indonesia","2021",8.6
+"Indonesia","2022",7.9
+"Indonesia","2023",6.7
+"Iran (Islamic Republic of)","2005",4.5
+"Iran (Islamic Republic of)","2006",4.5
+"Iran (Islamic Republic of)","2009",4.9
+"Iran (Islamic Republic of)","2011",2.3
+"Iran (Islamic Republic of)","2012",1.8
+"Iran (Islamic Republic of)","2013",1.9
+"Iran (Islamic Republic of)","2014",3.3
+"Iran (Islamic Republic of)","2015",3
+"Iran (Islamic Republic of)","2016",3
+"Iran (Islamic Republic of)","2017",2.7
+"Iran (Islamic Republic of)","2018",3.2
+"Iran (Islamic Republic of)","2019",4.3
+"Iran (Islamic Republic of)","2020",4.6
+"Iran (Islamic Republic of)","2021",3.7
+"Iran (Islamic Republic of)","2022",2.8
+"Iran (Islamic Republic of)","2023",2.5
+"Iraq","2006",0.6
+"Iraq","2012",0.6
+"Iraq","2023",0.5
+"Ireland","2000",0.2
+"Ireland","2002",0.2
+"Ireland","2003",0.2
+"Ireland","2004",0.1
+"Ireland","2005",0.1
+"Ireland","2006",0.5
+"Ireland","2007",0.1
+"Ireland","2008",0.2
+"Ireland","2009",0.6
+"Ireland","2010",0.7
+"Ireland","2011",0.7
+"Ireland","2012",0.5
+"Ireland","2013",0.7
+"Ireland","2014",0.4
+"Ireland","2015",0.4
+"Ireland","2016",0.3
+"Ireland","2017",0.3
+"Ireland","2018",0.1
+"Ireland","2019",0.1
+"Ireland","2020",0.2
+"Ireland","2021",0.1
+"Ireland","2022",0.2
+"Israel","2001",0.2
+"Israel","2002",0.7
+"Israel","2003",0.9
+"Israel","2004",1
+"Israel","2005",1
+"Israel","2006",0.5
+"Israel","2007",0.5
+"Israel","2008",0.7
+"Israel","2009",0.7
+"Israel","2010",0.5
+"Israel","2011",0.3
+"Israel","2012",0.7
+"Israel","2013",0.5
+"Israel","2014",0.7
+"Israel","2015",0.5
+"Israel","2016",0.5
+"Israel","2017",0.7
+"Israel","2018",0.7
+"Israel","2019",1
+"Israel","2020",0.7
+"Israel","2021",0.7
+"Italy","2000",1.2
+"Italy","2002",1.7
+"Italy","2003",0.9
+"Italy","2004",0.8
+"Italy","2005",0.8
+"Italy","2006",0.8
+"Italy","2007",0.8
+"Italy","2008",0.9
+"Italy","2009",1.1
+"Italy","2010",1.4
+"Italy","2011",1.3
+"Italy","2012",1.4
+"Italy","2013",1.6
+"Italy","2014",1.4
+"Italy","2015",2.1
+"Italy","2016",1.8
+"Italy","2017",1.5
+"Italy","2018",1.7
+"Italy","2019",1
+"Italy","2020",0.9
+"Italy","2021",0.9
+"Italy","2022",0.7
+"Jamaica","2002",6.4
+"Jamaica","2004",4.5
+"Jamaica","2018",0.4
+"Jamaica","2021",1.4
+"Japan","2008",1
+"Japan","2009",0.9
+"Japan","2010",0.7
+"Japan","2011",0.5
+"Japan","2012",1.5
+"Japan","2013",1
+"Japan","2014",0.7
+"Japan","2015",0.4
+"Japan","2016",0.7
+"Japan","2017",0.6
+"Japan","2018",1
+"Japan","2019",1.2
+"Japan","2020",1.2
+"Jordan","2002",1
+"Jordan","2006",0.3
+"Jordan","2008",0.1
+"Jordan","2010",0.1
+"Kazakhstan","2001",20.7
+"Kazakhstan","2002",16.2
+"Kazakhstan","2003",12.3
+"Kazakhstan","2004",7.6
+"Kazakhstan","2005",14.6
+"Kazakhstan","2006",2.4
+"Kazakhstan","2007",1.1
+"Kazakhstan","2008",0.8
+"Kazakhstan","2009",0.8
+"Kazakhstan","2010",0.5
+"Kazakhstan","2011",0.2
+"Kazakhstan","2012",0.1
+"Kazakhstan","2013",0.1
+"Kazakhstan","2014",0.1
+"Kazakhstan","2015",0.1
+"Kazakhstan","2016",0.2
+"Kazakhstan","2017",0.1
+"Kazakhstan","2018",0.1
+"Kazakhstan","2019",0.1
+"Kazakhstan","2020",0
+"Kazakhstan","2021",0
+"Kenya","2005",44.6
+"Kenya","2015",37.7
+"Kenya","2020",44.4
+"Kenya","2021",46.4
+"Kiribati","2006",21.3
+"Kiribati","2019",6.1
+"Kyrgyzstan","2000",66.2
+"Kyrgyzstan","2001",61.5
+"Kyrgyzstan","2002",58.1
+"Kyrgyzstan","2003",56.6
+"Kyrgyzstan","2004",32.5
+"Kyrgyzstan","2005",36.6
+"Kyrgyzstan","2006",26
+"Kyrgyzstan","2007",23.3
+"Kyrgyzstan","2008",13.8
+"Kyrgyzstan","2009",9.8
+"Kyrgyzstan","2010",12.6
+"Kyrgyzstan","2011",9.3
+"Kyrgyzstan","2012",10.5
+"Kyrgyzstan","2013",13.5
+"Kyrgyzstan","2014",8.1
+"Kyrgyzstan","2015",11
+"Kyrgyzstan","2016",8
+"Kyrgyzstan","2017",8.2
+"Kyrgyzstan","2018",5.9
+"Kyrgyzstan","2019",4.9
+"Kyrgyzstan","2020",9.4
+"Kyrgyzstan","2021",5.6
+"Kyrgyzstan","2022",4.5
+"Landlocked developing countries (LLDCs)","2000",61.9
+"Landlocked developing countries (LLDCs)","2001",60
+"Landlocked developing countries (LLDCs)","2002",60.4
+"Landlocked developing countries (LLDCs)","2003",58.5
+"Landlocked developing countries (LLDCs)","2004",53.2
+"Landlocked developing countries (LLDCs)","2005",51.6
+"Landlocked developing countries (LLDCs)","2006",49.9
+"Landlocked developing countries (LLDCs)","2007",48.8
+"Landlocked developing countries (LLDCs)","2008",47.3
+"Landlocked developing countries (LLDCs)","2009",46.6
+"Landlocked developing countries (LLDCs)","2010",44.9
+"Landlocked developing countries (LLDCs)","2011",43.9
+"Landlocked developing countries (LLDCs)","2012",42.9
+"Landlocked developing countries (LLDCs)","2013",36.9
+"Landlocked developing countries (LLDCs)","2014",36
+"Landlocked developing countries (LLDCs)","2015",36.2
+"Landlocked developing countries (LLDCs)","2016",36
+"Landlocked developing countries (LLDCs)","2017",35.8
+"Landlocked developing countries (LLDCs)","2018",35.5
+"Landlocked developing countries (LLDCs)","2020",36.7
+"Landlocked developing countries (LLDCs)","2021",36.8
+"Landlocked developing countries (LLDCs)","2022",36.1
+"Landlocked developing countries (LLDCs)","2023",35.3
+"Lao People's Democratic Republic","2002",43.1
+"Lao People's Democratic Republic","2007",36
+"Lao People's Democratic Republic","2012",21.7
+"Lao People's Democratic Republic","2018",15.7
+"Latin America and the Caribbean","2000",18.6
+"Latin America and the Caribbean","2001",18.4
+"Latin America and the Caribbean","2002",17.5
+"Latin America and the Caribbean","2003",17
+"Latin America and the Caribbean","2004",15.7
+"Latin America and the Caribbean","2005",14.6
+"Latin America and the Caribbean","2006",12.3
+"Latin America and the Caribbean","2007",11.1
+"Latin America and the Caribbean","2008",10.2
+"Latin America and the Caribbean","2009",9.8
+"Latin America and the Caribbean","2010",8.7
+"Latin America and the Caribbean","2011",7.9
+"Latin America and the Caribbean","2012",7.6
+"Latin America and the Caribbean","2013",6.9
+"Latin America and the Caribbean","2014",6.5
+"Latin America and the Caribbean","2015",6.1
+"Latin America and the Caribbean","2016",6.3
+"Latin America and the Caribbean","2017",6.2
+"Latin America and the Caribbean","2018",6.1
+"Latin America and the Caribbean","2019",6.2
+"Latin America and the Caribbean","2020",5.8
+"Latin America and the Caribbean","2021",6.5
+"Latin America and the Caribbean","2022",5.2
+"Latin America and the Caribbean","2023",4.7
+"Latvia","2002",1.5
+"Latvia","2003",1.5
+"Latvia","2004",3.7
+"Latvia","2005",3.1
+"Latvia","2006",1.9
+"Latvia","2007",0.8
+"Latvia","2008",1.6
+"Latvia","2009",2.6
+"Latvia","2010",2.6
+"Latvia","2011",1.7
+"Latvia","2012",1.4
+"Latvia","2013",1.5
+"Latvia","2014",1.1
+"Latvia","2015",1
+"Latvia","2016",1
+"Latvia","2017",1
+"Latvia","2018",0.6
+"Latvia","2019",0.3
+"Latvia","2020",0.5
+"Latvia","2021",0.5
+"Latvia","2022",0.4
+"Least Developed Countries (LDCs)","2000",62.3
+"Least Developed Countries (LDCs)","2001",61.2
+"Least Developed Countries (LDCs)","2002",61
+"Least Developed Countries (LDCs)","2003",59.4
+"Least Developed Countries (LDCs)","2004",56.1
+"Least Developed Countries (LDCs)","2005",53.9
+"Least Developed Countries (LDCs)","2006",52.4
+"Least Developed Countries (LDCs)","2007",50.4
+"Least Developed Countries (LDCs)","2008",48.8
+"Least Developed Countries (LDCs)","2009",48.1
+"Least Developed Countries (LDCs)","2010",46.5
+"Least Developed Countries (LDCs)","2011",45.5
+"Least Developed Countries (LDCs)","2012",44.3
+"Least Developed Countries (LDCs)","2013",43.4
+"Least Developed Countries (LDCs)","2014",42.4
+"Least Developed Countries (LDCs)","2015",42.9
+"Least Developed Countries (LDCs)","2016",42.7
+"Least Developed Countries (LDCs)","2017",42.1
+"Least Developed Countries (LDCs)","2018",41.5
+"Least Developed Countries (LDCs)","2019",41.3
+"Least Developed Countries (LDCs)","2020",42.5
+"Least Developed Countries (LDCs)","2021",42.6
+"Least Developed Countries (LDCs)","2022",42
+"Least Developed Countries (LDCs)","2023",42
+"Lebanon","2011",0.1
+"Lesotho","2002",74.9
+"Lesotho","2017",41.9
+"Liberia","2007",61.1
+"Liberia","2014",31.7
+"Liberia","2016",33.6
+"Lithuania","2000",1.2
+"Lithuania","2001",1.6
+"Lithuania","2002",1.4
+"Lithuania","2003",0.4
+"Lithuania","2004",4
+"Lithuania","2005",2.7
+"Lithuania","2006",1.8
+"Lithuania","2007",1.6
+"Lithuania","2008",1.8
+"Lithuania","2009",2.7
+"Lithuania","2010",2
+"Lithuania","2011",0.9
+"Lithuania","2012",1.1
+"Lithuania","2013",1.2
+"Lithuania","2014",1.7
+"Lithuania","2015",1
+"Lithuania","2016",1.5
+"Lithuania","2017",1.2
+"Lithuania","2018",1
+"Lithuania","2019",0.6
+"Lithuania","2020",0.5
+"Lithuania","2021",0.3
+"Lithuania","2022",0.8
+"Luxembourg","2000",0
+"Luxembourg","2001",0
+"Luxembourg","2002",0
+"Luxembourg","2003",0.1
+"Luxembourg","2004",0
+"Luxembourg","2005",0
+"Luxembourg","2006",0
+"Luxembourg","2007",0
+"Luxembourg","2008",0
+"Luxembourg","2009",0
+"Luxembourg","2010",0
+"Luxembourg","2011",0.1
+"Luxembourg","2012",0
+"Luxembourg","2013",0.1
+"Luxembourg","2014",0.2
+"Luxembourg","2015",0.3
+"Luxembourg","2016",0.1
+"Luxembourg","2017",0.3
+"Luxembourg","2018",0.3
+"Luxembourg","2019",0.1
+"Luxembourg","2020",0
+"Luxembourg","2021",0.1
+"Luxembourg","2022",0.1
+"Madagascar","2001",79.4
+"Madagascar","2005",83.9
+"Madagascar","2010",87.3
+"Madagascar","2012",87.7
+"Malawi","2004",74.4
+"Malawi","2010",72.9
+"Malawi","2016",71.7
+"Malawi","2019",75.4
+"Malaysia","2003",3.2
+"Malaysia","2006",1.7
+"Malaysia","2008",1.5
+"Malaysia","2011",0.4
+"Malaysia","2013",0.1
+"Malaysia","2015",0.1
+"Malaysia","2018",0
+"Malaysia","2021",0
+"Maldives","2002",18.8
+"Maldives","2009",13.1
+"Maldives","2016",0.1
+"Maldives","2019",0
+"Mali","2001",68.6
+"Mali","2006",64
+"Mali","2009",63.3
+"Mali","2018",29.4
+"Mali","2021",36.1
+"Malta","2006",0.5
+"Malta","2007",0.5
+"Malta","2008",0.2
+"Malta","2009",0.5
+"Malta","2010",0.3
+"Malta","2011",0.2
+"Malta","2012",0.2
+"Malta","2013",0
+"Malta","2014",0
+"Malta","2015",0.1
+"Malta","2016",0.1
+"Malta","2017",0.2
+"Malta","2018",0.2
+"Malta","2019",0.3
+"Malta","2020",0.4
+"Malta","2021",0.1
+"Malta","2022",0.1
+"Marshall Islands","2019",2.1
+"Mauritania","2000",30.7
+"Mauritania","2004",28.5
+"Mauritania","2008",19.2
+"Mauritania","2014",11.7
+"Mauritania","2019",10.2
+"Mauritius","2006",1.1
+"Mauritius","2012",1.1
+"Mauritius","2017",0.5
+"Melanesia","2007",50.6
+"Melanesia","2008",50.2
+"Melanesia","2009",48.6
+"Melanesia","2010",45.5
+"Melanesia","2011",46.3
+"Melanesia","2012",45.3
+"Mexico","2000",16.3
+"Mexico","2002",12.8
+"Mexico","2004",11
+"Mexico","2005",11.7
+"Mexico","2006",9
+"Mexico","2008",10.1
+"Mexico","2010",8.4
+"Mexico","2012",7.3
+"Mexico","2014",7.2
+"Mexico","2016",4.4
+"Mexico","2018",3.9
+"Mexico","2020",4.3
+"Mexico","2022",2.3
+"Micronesia (Federated States of)","2005",15.8
+"Micronesia (Federated States of)","2013",26.1
+"Middle Africa","2002",68.9
+"Middle Africa","2003",68.8
+"Middle Africa","2004",67.1
+"Middle Africa","2005",66.2
+"Middle Africa","2006",65.3
+"Middle Africa","2007",64
+"Middle Africa","2010",60.6
+"Middle Africa","2011",59.8
+"Middle Africa","2012",57.4
+"Middle Africa","2013",56.5
+"Middle Africa","2014",55.6
+"Middle Africa","2015",56
+"Middle Africa","2020",62.4
+"Middle Africa","2021",62.2
+"Middle Africa","2022",61.5
+"Middle Africa","2023",61.2
+"Mongolia","2002",18.7
+"Mongolia","2007",4
+"Mongolia","2010",3.5
+"Mongolia","2011",2.2
+"Mongolia","2012",1.1
+"Mongolia","2014",0.8
+"Mongolia","2016",1.9
+"Mongolia","2018",1.7
+"Mongolia","2022",0.4
+"Montenegro","2005",0.4
+"Montenegro","2006",0.4
+"Montenegro","2007",0.4
+"Montenegro","2008",0.3
+"Montenegro","2009",0
+"Montenegro","2010",0
+"Montenegro","2011",0.4
+"Montenegro","2012",5.6
+"Montenegro","2013",5.2
+"Montenegro","2014",3.9
+"Montenegro","2015",3.6
+"Montenegro","2016",3.3
+"Montenegro","2017",4.6
+"Montenegro","2018",3.9
+"Montenegro","2019",2.5
+"Montenegro","2020",2.2
+"Montenegro","2021",2.5
+"Morocco","2000",16.8
+"Morocco","2006",9.4
+"Morocco","2013",3.7
+"Mozambique","2002",87.6
+"Mozambique","2008",81.1
+"Mozambique","2014",74.4
+"Mozambique","2019",82.2
+"Myanmar","2015",18.2
+"Myanmar","2017",10.3
+"Namibia","2003",47.6
+"Namibia","2009",38.6
+"Namibia","2015",22.9
+"Nauru","2012",9.7
+"Nepal","2003",55.7
+"Nepal","2010",21.5
+"Nepal","2022",2.4
+"Netherlands (Kingdom of the)","2004",0.3
+"Netherlands (Kingdom of the)","2005",0.1
+"Netherlands (Kingdom of the)","2006",0
+"Netherlands (Kingdom of the)","2007",0
+"Netherlands (Kingdom of the)","2008",0.2
+"Netherlands (Kingdom of the)","2009",0.2
+"Netherlands (Kingdom of the)","2010",0
+"Netherlands (Kingdom of the)","2011",0.1
+"Netherlands (Kingdom of the)","2012",0.1
+"Netherlands (Kingdom of the)","2013",0.1
+"Netherlands (Kingdom of the)","2014",0.1
+"Netherlands (Kingdom of the)","2015",0.1
+"Netherlands (Kingdom of the)","2016",0.1
+"Netherlands (Kingdom of the)","2017",0.2
+"Netherlands (Kingdom of the)","2018",0.1
+"Netherlands (Kingdom of the)","2019",0.1
+"Netherlands (Kingdom of the)","2020",0
+"Netherlands (Kingdom of the)","2021",0.1
+"Nicaragua","2001",26.3
+"Nicaragua","2005",16.5
+"Nicaragua","2009",13.9
+"Nicaragua","2014",6.6
+"Niger","2005",83.8
+"Niger","2007",82.9
+"Niger","2011",68.8
+"Niger","2014",60.3
+"Niger","2018",59
+"Niger","2021",60.5
+"Nigeria","2003",51.1
+"Nigeria","2010",38.5
+"Nigeria","2012",37.4
+"Nigeria","2015",35.8
+"Nigeria","2018",34.2
+"North Macedonia","2000",11.7
+"North Macedonia","2002",3
+"North Macedonia","2003",2.8
+"North Macedonia","2004",1.4
+"North Macedonia","2005",3.1
+"North Macedonia","2006",4.6
+"North Macedonia","2008",1.4
+"North Macedonia","2009",12.1
+"North Macedonia","2010",12.8
+"North Macedonia","2011",10.9
+"North Macedonia","2012",9.1
+"North Macedonia","2013",7.4
+"North Macedonia","2014",6.4
+"North Macedonia","2015",7
+"North Macedonia","2016",5.7
+"North Macedonia","2017",5.6
+"North Macedonia","2018",4.3
+"North Macedonia","2019",3.9
+"Northern Africa","2000",7.9
+"Northern Africa","2001",7.8
+"Northern Africa","2002",7.7
+"Northern Africa","2003",7.4
+"Northern Africa","2004",7.1
+"Northern Africa","2005",6.8
+"Northern Africa","2006",6.2
+"Northern Africa","2007",5.8
+"Northern Africa","2008",5.4
+"Northern Africa","2009",4.8
+"Northern Africa","2010",4.2
+"Northern Africa","2011",3.4
+"Northern Africa","2012",3.4
+"Northern Africa","2013",3.2
+"Northern Africa","2014",3
+"Northern Africa","2015",2.9
+"Northern Africa","2016",3.3
+"Northern Africa","2017",3.6
+"Northern Africa (exc. Sudan)","2000",6.1
+"Northern Africa (exc. Sudan)","2001",6.1
+"Northern Africa (exc. Sudan)","2002",6.2
+"Northern Africa (exc. Sudan)","2003",5.9
+"Northern Africa (exc. Sudan)","2004",5.7
+"Northern Africa (exc. Sudan)","2005",5.5
+"Northern Africa (exc. Sudan)","2006",4.9
+"Northern Africa (exc. Sudan)","2007",4.6
+"Northern Africa (exc. Sudan)","2008",4.1
+"Northern Africa (exc. Sudan)","2009",3.1
+"Northern Africa (exc. Sudan)","2010",2.5
+"Northern Africa (exc. Sudan)","2011",1.9
+"Northern Africa (exc. Sudan)","2012",1.7
+"Northern Africa (exc. Sudan)","2013",1.6
+"Northern Africa (exc. Sudan)","2014",1.5
+"Northern Africa (exc. Sudan)","2015",1.3
+"Northern Africa (exc. Sudan)","2016",1.7
+"Northern Africa (exc. Sudan)","2017",2
+"Northern Africa (exc. Sudan)","2018",2.1
+"Northern Africa (exc. Sudan)","2019",1.7
+"Northern Africa (exc. Sudan)","2020",1.7
+"Northern Africa (exc. Sudan)","2021",1.4
+"Northern Africa (exc. Sudan)","2022",1.3
+"Northern Africa (exc. Sudan)","2023",1.1
+"Northern Africa and Western Asia","2000",7.5
+"Northern Africa and Western Asia","2001",7.7
+"Northern Africa and Western Asia","2002",7.1
+"Northern Africa and Western Asia","2003",7.6
+"Northern Africa and Western Asia","2004",6.6
+"Northern Africa and Western Asia","2005",6.4
+"Northern Africa and Western Asia","2006",5.7
+"Northern Africa and Western Asia","2007",5.4
+"Northern Africa and Western Asia","2008",5.1
+"Northern Africa and Western Asia","2009",4.8
+"Northern Africa and Western Asia","2010",4.4
+"Northern Africa and Western Asia","2011",4.4
+"Northern Africa and Western Asia","2012",4.5
+"Northern Africa and Western Asia","2013",4.8
+"Northern Africa and Western Asia","2014",5
+"Northern Africa and Western Asia","2015",6.1
+"Northern Africa and Western Asia","2016",6.9
+"Northern Africa and Western Asia","2017",7
+"Northern Africa and Western Asia","2020",8.1
+"Northern Africa and Western Asia","2021",8.4
+"Northern Africa and Western Asia","2022",8.4
+"Northern Africa and Western Asia","2023",9.6
+"Northern America","2000",0.7
+"Northern America","2001",0.9
+"Northern America","2002",0.9
+"Northern America","2003",0.9
+"Northern America","2004",0.9
+"Northern America","2005",0.9
+"Northern America","2006",0.9
+"Northern America","2007",0.9
+"Northern America","2008",0.9
+"Northern America","2009",0.9
+"Northern America","2010",1.1
+"Northern America","2011",0.9
+"Northern America","2012",0.9
+"Northern America","2013",0.9
+"Northern America","2014",1.1
+"Northern America","2015",1.2
+"Northern America","2016",1.2
+"Northern America","2017",1.2
+"Northern America","2018",0.9
+"Northern America","2019",0.9
+"Northern America","2020",0.5
+"Northern America","2021",0.4
+"Northern America","2022",1.1
+"Northern America","2023",1.1
+"Northern Europe","2000",0.4
+"Northern Europe","2001",0.4
+"Northern Europe","2002",0.3
+"Northern Europe","2003",0.3
+"Northern Europe","2004",0.3
+"Northern Europe","2005",0.5
+"Northern Europe","2006",0.4
+"Northern Europe","2007",0.3
+"Northern Europe","2008",0.3
+"Northern Europe","2009",0.4
+"Northern Europe","2010",0.4
+"Northern Europe","2011",0.3
+"Northern Europe","2012",0.5
+"Northern Europe","2013",0.4
+"Northern Europe","2014",0.3
+"Northern Europe","2015",0.3
+"Northern Europe","2016",0.3
+"Northern Europe","2017",0.3
+"Northern Europe","2018",0.5
+"Northern Europe","2019",0.4
+"Northern Europe","2020",0.4
+"Northern Europe","2021",0.4
+"Northern Europe","2022",0.5
+"Northern Europe","2023",0.5
+"Norway","2000",0.2
+"Norway","2003",0.2
+"Norway","2004",0.3
+"Norway","2005",0.2
+"Norway","2006",0.2
+"Norway","2007",0.2
+"Norway","2008",0.2
+"Norway","2009",0.1
+"Norway","2010",0.2
+"Norway","2011",0.1
+"Norway","2012",0.1
+"Norway","2013",0.2
+"Norway","2014",0.1
+"Norway","2015",0.2
+"Norway","2016",0.3
+"Norway","2017",0.3
+"Norway","2018",0.3
+"Norway","2019",0.2
+"Norway","2020",0.3
+"Norway","2021",0.2
+"Norway","2022",0.3
+"Oceania","2000",15.8
+"Oceania","2001",16.2
+"Oceania","2002",16.4
+"Oceania","2003",16.6
+"Oceania","2004",16.3
+"Oceania","2005",15.9
+"Oceania","2006",15.6
+"Oceania","2007",15.2
+"Oceania","2008",15.1
+"Oceania","2009",14.6
+"Oceania","2010",13.7
+"Oceania","2011",14.1
+"Oceania","2012",13.9
+"Oceania","2013",13.9
+"Oceania","2014",13.2
+"Oceania","2015",13
+"Oceania","2016",12.8
+"Oceania","2017",12.7
+"Oceania","2018",13.1
+"Oceania","2019",13
+"Oceania (exc. Australia and New Zealand)","2007",48.2
+"Oceania (exc. Australia and New Zealand)","2008",47.8
+"Oceania (exc. Australia and New Zealand)","2009",46.3
+"Oceania (exc. Australia and New Zealand)","2010",43.4
+"Oceania (exc. Australia and New Zealand)","2011",44.2
+"Oceania (exc. Australia and New Zealand)","2012",43.3
+"Pakistan","2001",56.2
+"Pakistan","2004",40.9
+"Pakistan","2005",40.8
+"Pakistan","2007",34.9
+"Pakistan","2010",26.7
+"Pakistan","2011",25.9
+"Pakistan","2013",21.2
+"Pakistan","2015",16.9
+"Pakistan","2018",16.5
+"Panama","2000",16.3
+"Panama","2001",20.8
+"Panama","2002",17.2
+"Panama","2003",16.8
+"Panama","2004",15.5
+"Panama","2005",14.5
+"Panama","2006",15.7
+"Panama","2007",13
+"Panama","2008",9
+"Panama","2009",6.6
+"Panama","2010",7.7
+"Panama","2011",6.1
+"Panama","2012",7.4
+"Panama","2013",5.9
+"Panama","2014",6.4
+"Panama","2015",4.8
+"Panama","2016",4.8
+"Panama","2017",4.3
+"Panama","2018",3.7
+"Panama","2019",2.9
+"Panama","2021",3.3
+"Panama","2023",3.7
+"Papua New Guinea","2009",52.2
+"Paraguay","2001",13.5
+"Paraguay","2002",19.6
+"Paraguay","2003",13.8
+"Paraguay","2004",10.7
+"Paraguay","2005",10.1
+"Paraguay","2006",14.1
+"Paraguay","2007",12.6
+"Paraguay","2008",7.9
+"Paraguay","2009",9.1
+"Paraguay","2010",9.4
+"Paraguay","2011",8.9
+"Paraguay","2012",6.4
+"Paraguay","2013",4.1
+"Paraguay","2014",4.3
+"Paraguay","2015",4.2
+"Paraguay","2016",4.2
+"Paraguay","2017",2.4
+"Paraguay","2018",3.1
+"Paraguay","2019",2.4
+"Paraguay","2020",2.6
+"Paraguay","2021",1.9
+"Paraguay","2022",3.5
+"Paraguay","2023",2.6
+"Peru","2000",25.5
+"Peru","2001",27.4
+"Peru","2002",24.4
+"Peru","2003",22.5
+"Peru","2004",23.5
+"Peru","2005",25.4
+"Peru","2006",21.8
+"Peru","2007",18.9
+"Peru","2008",15.8
+"Peru","2009",13.7
+"Peru","2010",11.2
+"Peru","2011",10.3
+"Peru","2012",9.5
+"Peru","2013",8.6
+"Peru","2014",8
+"Peru","2015",8
+"Peru","2016",7.5
+"Peru","2017",7.3
+"Peru","2018",6.1
+"Peru","2019",5.4
+"Peru","2020",10.3
+"Peru","2021",5.2
+"Peru","2022",4.8
+"Peru","2023",5.9
+"Philippines","2000",25.9
+"Philippines","2003",24.3
+"Philippines","2006",26.1
+"Philippines","2009",22
+"Philippines","2012",21.3
+"Philippines","2015",14.6
+"Philippines","2018",8.3
+"Philippines","2021",8.1
+"Philippines","2023",5.3
+"Poland","2000",0.3
+"Poland","2001",0.4
+"Poland","2002",0.3
+"Poland","2003",0.2
+"Poland","2004",2.8
+"Poland","2005",1.4
+"Poland","2006",0.9
+"Poland","2007",0.6
+"Poland","2008",0.3
+"Poland","2009",0.6
+"Poland","2010",0.6
+"Poland","2011",0.6
+"Poland","2012",0.4
+"Poland","2013",0.6
+"Poland","2014",0.6
+"Poland","2015",0.5
+"Poland","2016",0.4
+"Poland","2017",0.4
+"Poland","2018",0.3
+"Poland","2019",0.1
+"Poland","2020",0.2
+"Poland","2021",0.1
+"Poland","2022",0.3
+"Portugal","2003",1.1
+"Portugal","2004",0.7
+"Portugal","2005",0.7
+"Portugal","2006",0.2
+"Portugal","2007",0.6
+"Portugal","2008",0.3
+"Portugal","2009",0.2
+"Portugal","2010",0.2
+"Portugal","2011",0.6
+"Portugal","2012",0.9
+"Portugal","2013",1
+"Portugal","2014",0.8
+"Portugal","2015",0.7
+"Portugal","2016",0.4
+"Portugal","2017",0.4
+"Portugal","2018",0.4
+"Portugal","2019",0.2
+"Portugal","2020",0.6
+"Portugal","2021",0.3
+"Portugal","2022",0.2
+"Qatar","2017",0
+"Republic of Korea","2006",0.5
+"Republic of Korea","2008",0.5
+"Republic of Korea","2010",0.5
+"Republic of Korea","2012",0.5
+"Republic of Korea","2014",0.2
+"Republic of Korea","2016",0.2
+"Republic of Korea","2017",0.2
+"Republic of Korea","2018",0.2
+"Republic of Korea","2019",0.2
+"Republic of Korea","2020",0
+"Republic of Korea","2021",0.2
+"Republic of Moldova","2000",41
+"Republic of Moldova","2001",32.2
+"Republic of Moldova","2002",19.9
+"Republic of Moldova","2003",10
+"Republic of Moldova","2004",11.6
+"Republic of Moldova","2005",16.6
+"Republic of Moldova","2006",3.4
+"Republic of Moldova","2007",1.6
+"Republic of Moldova","2008",1.7
+"Republic of Moldova","2009",1.5
+"Republic of Moldova","2010",0.8
+"Republic of Moldova","2011",0.5
+"Republic of Moldova","2012",0.5
+"Republic of Moldova","2013",0.1
+"Republic of Moldova","2014",0
+"Republic of Moldova","2015",0.1
+"Republic of Moldova","2016",0.2
+"Republic of Moldova","2017",0.1
+"Republic of Moldova","2018",0
+"Republic of Moldova","2019",0
+"Republic of Moldova","2021",0.2
+"Republic of Moldova","2022",0
+"Romania","2000",11.9
+"Romania","2001",9.5
+"Romania","2002",9.1
+"Romania","2003",7
+"Romania","2004",5.3
+"Romania","2005",4.2
+"Romania","2006",11.1
+"Romania","2007",8.1
+"Romania","2008",6
+"Romania","2009",5.3
+"Romania","2010",6.3
+"Romania","2011",7.1
+"Romania","2012",8.4
+"Romania","2013",8.7
+"Romania","2014",8.9
+"Romania","2015",7.6
+"Romania","2016",5.2
+"Romania","2017",4.9
+"Romania","2018",3.7
+"Romania","2019",3.1
+"Romania","2020",2.4
+"Romania","2021",2
+"Romania","2022",1.5
+"Russian Federation","2000",5.1
+"Russian Federation","2001",3.2
+"Russian Federation","2002",2
+"Russian Federation","2003",2.1
+"Russian Federation","2004",1.8
+"Russian Federation","2005",1.4
+"Russian Federation","2006",0.9
+"Russian Federation","2007",0.4
+"Russian Federation","2008",0.2
+"Russian Federation","2009",0.2
+"Russian Federation","2010",0.2
+"Russian Federation","2011",0.1
+"Russian Federation","2012",0.1
+"Russian Federation","2013",0.1
+"Russian Federation","2014",0.4
+"Russian Federation","2015",0.4
+"Russian Federation","2016",0.4
+"Russian Federation","2017",0.4
+"Russian Federation","2018",0.2
+"Russian Federation","2019",0.3
+"Russian Federation","2020",0.1
+"Russian Federation","2021",0.2
+"Rwanda","2000",82.3
+"Rwanda","2005",74.2
+"Rwanda","2010",70.2
+"Rwanda","2013",65.2
+"Rwanda","2016",63.8
+"Saint Lucia","2015",0.1
+"Samoa","2002",5.9
+"Samoa","2008",3.7
+"Samoa","2013",4.5
+"Sao Tome and Principe","2000",17.3
+"Sao Tome and Principe","2010",18.9
+"Sao Tome and Principe","2017",13
+"Senegal","2001",63.9
+"Senegal","2005",53.6
+"Senegal","2011",53.3
+"Senegal","2018",19.1
+"Senegal","2021",17.9
+"Serbia","2002",0.4
+"Serbia","2003",0.9
+"Serbia","2004",1.2
+"Serbia","2005",1.6
+"Serbia","2006",0.9
+"Serbia","2007",0.6
+"Serbia","2008",0.3
+"Serbia","2009",0.6
+"Serbia","2010",0.3
+"Serbia","2012",7.1
+"Serbia","2013",7.8
+"Serbia","2014",8.9
+"Serbia","2015",8.4
+"Serbia","2016",8.1
+"Serbia","2017",6.6
+"Serbia","2018",4.2
+"Serbia","2019",2.7
+"Serbia","2020",2
+"Serbia","2021",1.7
+"Serbia","2022",2
+"Seychelles","2006",0.6
+"Seychelles","2013",1.6
+"Seychelles","2018",0.7
+"Sierra Leone","2003",72.4
+"Sierra Leone","2011",53.7
+"Sierra Leone","2018",41.5
+"Slovakia","2004",0.2
+"Slovakia","2005",0.3
+"Slovakia","2006",0.3
+"Slovakia","2007",0.6
+"Slovakia","2008",0.5
+"Slovakia","2009",0.6
+"Slovakia","2010",0.6
+"Slovakia","2011",0.6
+"Slovakia","2012",0.5
+"Slovakia","2013",0.4
+"Slovakia","2014",0.9
+"Slovakia","2015",0.8
+"Slovakia","2016",1.5
+"Slovakia","2017",0.6
+"Slovakia","2018",0.5
+"Slovakia","2019",0.2
+"Slovakia","2020",0.3
+"Slovakia","2021",0.3
+"Slovakia","2022",0.7
+"Slovenia","2002",0.1
+"Slovenia","2003",0
+"Slovenia","2004",0.1
+"Slovenia","2005",0.1
+"Slovenia","2006",0.1
+"Slovenia","2007",0
+"Slovenia","2008",0
+"Slovenia","2009",0
+"Slovenia","2010",0
+"Slovenia","2011",0
+"Slovenia","2012",0
+"Slovenia","2013",0
+"Slovenia","2014",0
+"Slovenia","2015",0
+"Slovenia","2016",0
+"Slovenia","2017",0
+"Slovenia","2018",0
+"Slovenia","2019",0
+"Slovenia","2020",0
+"Slovenia","2021",0
+"Slovenia","2022",0
+"Small island developing States (SIDS)","2009",27.6
+"Small island developing States (SIDS)","2010",27
+"Small island developing States (SIDS)","2011",26.4
+"Small island developing States (SIDS)","2012",26.6
+"Solomon Islands","2005",62.2
+"Solomon Islands","2012",40.3
+"South Africa","2000",47.9
+"South Africa","2005",42.1
+"South Africa","2008",30.3
+"South Africa","2010",29.5
+"South Africa","2014",31.2
+"South America","2000",18.5
+"South America","2001",18.7
+"South America","2002",17.8
+"South America","2003",17.2
+"South America","2004",15.5
+"South America","2005",14
+"South America","2006",11.6
+"South America","2007",10.7
+"South America","2008",9.5
+"South America","2009",8.8
+"South America","2010",7.8
+"South America","2011",7.1
+"South America","2012",6.5
+"South America","2013",5.7
+"South America","2014",5.2
+"South America","2015",5.2
+"South America","2016",5.8
+"South America","2017",5.8
+"South America","2018",5.7
+"South America","2019",5.9
+"South America","2020",4.9
+"South America","2021",6.4
+"South America","2022",4.7
+"South America","2023",4
+"South Sudan","2009",44.9
+"South Sudan","2016",76.5
+"South-Eastern Asia","2000",33.9
+"South-Eastern Asia","2001",33.1
+"South-Eastern Asia","2002",32
+"South-Eastern Asia","2003",29.1
+"South-Eastern Asia","2004",26.5
+"South-Eastern Asia","2005",24.6
+"South-Eastern Asia","2006",23.1
+"South-Eastern Asia","2007",20.4
+"South-Eastern Asia","2008",18.4
+"South-Eastern Asia","2009",15.6
+"South-Eastern Asia","2010",13.6
+"South-Eastern Asia","2011",13.3
+"South-Eastern Asia","2012",12.7
+"South-Eastern Asia","2013",11.6
+"South-Eastern Asia","2014",10.5
+"South-Eastern Asia","2015",9.4
+"South-Eastern Asia","2016",8.2
+"South-Eastern Asia","2017",7
+"South-Eastern Asia","2018",6.2
+"South-Eastern Asia","2019",5.7
+"South-Eastern Asia","2020",7.2
+"South-Eastern Asia","2021",7.5
+"South-Eastern Asia","2022",6.7
+"South-Eastern Asia","2023",6
+"Southern Africa","2000",48.4
+"Southern Africa","2001",49
+"Southern Africa","2002",48.6
+"Southern Africa","2003",48.9
+"Southern Africa","2004",45.8
+"Southern Africa","2005",43
+"Southern Africa","2006",35.6
+"Southern Africa","2007",34.8
+"Southern Africa","2008",32.5
+"Southern Africa","2009",31.9
+"Southern Africa","2010",30.8
+"Southern Africa","2011",30.4
+"Southern Africa","2012",30.1
+"Southern Africa","2013",30.4
+"Southern Africa","2014",31.2
+"Southern Africa","2015",31.3
+"Southern Africa","2016",31.2
+"Southern Africa","2017",31
+"Southern Asia","2002",40.7
+"Southern Asia","2003",37.4
+"Southern Asia","2004",33.6
+"Southern Asia","2005",31.3
+"Southern Asia","2006",29.1
+"Southern Asia","2007",27.4
+"Southern Asia","2008",24.2
+"Southern Asia","2009",24.7
+"Southern Asia","2010",22
+"Southern Asia","2011",20.7
+"Southern Asia","2012",19.4
+"Southern Asia","2013",17.8
+"Southern Asia","2014",16.8
+"Southern Asia","2020",11.6
+"Southern Asia","2021",10.2
+"Southern Asia","2022",9.6
+"Southern Asia","2023",9.6
+"Southern Europe","2000",1.2
+"Southern Europe","2001",1.2
+"Southern Europe","2002",1.2
+"Southern Europe","2003",0.9
+"Southern Europe","2004",0.9
+"Southern Europe","2005",0.8
+"Southern Europe","2006",0.8
+"Southern Europe","2007",0.7
+"Southern Europe","2008",0.6
+"Southern Europe","2009",1
+"Southern Europe","2010",1.1
+"Southern Europe","2011",1.3
+"Southern Europe","2012",1.6
+"Southern Europe","2013",1.5
+"Southern Europe","2014",1.7
+"Southern Europe","2015",1.5
+"Southern Europe","2016",1.8
+"Southern Europe","2017",1.4
+"Southern Europe","2018",1.1
+"Southern Europe","2019",0.9
+"Southern Europe","2020",1
+"Southern Europe","2021",0.8
+"Southern Europe","2022",0.7
+"Southern Europe","2023",0.7
+"Spain","2000",0.9
+"Spain","2003",0.9
+"Spain","2004",1
+"Spain","2005",0.9
+"Spain","2006",0.9
+"Spain","2007",0.6
+"Spain","2008",0.6
+"Spain","2009",0.9
+"Spain","2010",0.7
+"Spain","2011",1.3
+"Spain","2012",1
+"Spain","2013",1.3
+"Spain","2014",0.9
+"Spain","2015",1.1
+"Spain","2016",1.3
+"Spain","2017",0.8
+"Spain","2018",1
+"Spain","2019",0.9
+"Spain","2020",1.1
+"Spain","2021",0.7
+"Spain","2022",0.8
+"Sri Lanka","2002",20.7
+"Sri Lanka","2006",12.2
+"Sri Lanka","2009",7.8
+"Sri Lanka","2012",6.4
+"Sri Lanka","2016",3.8
+"Sri Lanka","2019",2.7
+"State of Palestine","2004",1.8
+"State of Palestine","2005",1.3
+"State of Palestine","2006",0.5
+"State of Palestine","2007",2.9
+"State of Palestine","2009",0.6
+"State of Palestine","2010",0.6
+"State of Palestine","2011",0.4
+"State of Palestine","2016",1.4
+"State of Palestine","2023",2.1
+"Sub-Saharan Africa","2000",64.3
+"Sub-Saharan Africa","2001",63.4
+"Sub-Saharan Africa","2002",63
+"Sub-Saharan Africa","2003",62.1
+"Sub-Saharan Africa","2004",59.2
+"Sub-Saharan Africa","2005",57.6
+"Sub-Saharan Africa","2006",56.1
+"Sub-Saharan Africa","2007",55
+"Sub-Saharan Africa","2008",53.6
+"Sub-Saharan Africa","2009",52.9
+"Sub-Saharan Africa","2010",51.1
+"Sub-Saharan Africa","2011",50.1
+"Sub-Saharan Africa","2012",48.9
+"Sub-Saharan Africa","2013",47.9
+"Sub-Saharan Africa","2014",47
+"Sub-Saharan Africa","2015",47.1
+"Sub-Saharan Africa","2016",47
+"Sub-Saharan Africa","2017",46.7
+"Sub-Saharan Africa","2018",46.2
+"Sub-Saharan Africa","2019",46
+"Sub-Saharan Africa","2020",47.5
+"Sub-Saharan Africa","2021",47.3
+"Sub-Saharan Africa","2022",46.6
+"Sub-Saharan Africa (inc. Sudan)","2000",62.3
+"Sub-Saharan Africa (inc. Sudan)","2001",61.4
+"Sub-Saharan Africa (inc. Sudan)","2002",61.1
+"Sub-Saharan Africa (inc. Sudan)","2003",60.2
+"Sub-Saharan Africa (inc. Sudan)","2004",57.3
+"Sub-Saharan Africa (inc. Sudan)","2005",55.8
+"Sub-Saharan Africa (inc. Sudan)","2006",54.3
+"Sub-Saharan Africa (inc. Sudan)","2007",53.2
+"Sub-Saharan Africa (inc. Sudan)","2008",51.9
+"Sub-Saharan Africa (inc. Sudan)","2009",51.2
+"Sub-Saharan Africa (inc. Sudan)","2010",49.6
+"Sub-Saharan Africa (inc. Sudan)","2011",48.5
+"Sub-Saharan Africa (inc. Sudan)","2012",47.4
+"Sub-Saharan Africa (inc. Sudan)","2013",46.5
+"Sub-Saharan Africa (inc. Sudan)","2014",45.6
+"Sub-Saharan Africa (inc. Sudan)","2015",45.7
+"Sub-Saharan Africa (inc. Sudan)","2016",45.5
+"Sub-Saharan Africa (inc. Sudan)","2017",45.2
+"Sub-Saharan Africa (inc. Sudan)","2018",44.9
+"Sub-Saharan Africa (inc. Sudan)","2019",44.7
+"Sudan","2009",13.1
+"Sudan","2014",10.1
+"Suriname","2022",2.2
+"Sweden","2000",0.2
+"Sweden","2001",0.2
+"Sweden","2002",0
+"Sweden","2003",0.4
+"Sweden","2004",0.5
+"Sweden","2005",1.1
+"Sweden","2006",0.4
+"Sweden","2007",0.5
+"Sweden","2008",0.7
+"Sweden","2009",0.5
+"Sweden","2010",0.6
+"Sweden","2011",0.7
+"Sweden","2012",0.5
+"Sweden","2013",0.7
+"Sweden","2014",0.5
+"Sweden","2015",0.6
+"Sweden","2016",0.4
+"Sweden","2017",0.3
+"Sweden","2018",0.9
+"Sweden","2019",0.4
+"Sweden","2020",0.5
+"Sweden","2021",0.6
+"Sweden","2022",1.3
+"Switzerland","2000",0.2
+"Switzerland","2002",0
+"Switzerland","2004",0.2
+"Switzerland","2006",0.1
+"Switzerland","2007",0.1
+"Switzerland","2008",0.1
+"Switzerland","2009",0
+"Switzerland","2010",0.1
+"Switzerland","2011",0
+"Switzerland","2012",0
+"Switzerland","2013",0
+"Switzerland","2014",0
+"Switzerland","2015",0
+"Switzerland","2016",0
+"Switzerland","2017",0
+"Switzerland","2018",0
+"Switzerland","2019",0
+"Switzerland","2020",0.1
+"Switzerland","2021",0
+"Syrian Arab Republic","2003",0.5
+"Syrian Arab Republic","2006",0
+"Syrian Arab Republic","2009",0
+"Syrian Arab Republic","2022",16.5
+"Tajikistan","2003",56.3
+"Tajikistan","2004",37.5
+"Tajikistan","2007",24.2
+"Tajikistan","2009",15.8
+"Tajikistan","2015",13.3
+"Thailand","2000",8.4
+"Thailand","2002",4.7
+"Thailand","2004",3.1
+"Thailand","2006",2.2
+"Thailand","2007",1.3
+"Thailand","2008",1
+"Thailand","2009",0.8
+"Thailand","2010",0.7
+"Thailand","2011",0.3
+"Thailand","2012",0.4
+"Thailand","2013",0.2
+"Thailand","2014",0.2
+"Thailand","2015",0.1
+"Thailand","2016",0.1
+"Thailand","2017",0.1
+"Thailand","2018",0.1
+"Thailand","2019",0.1
+"Thailand","2020",0.1
+"Thailand","2021",0
+"Thailand","2022",0
+"Thailand","2023",0
+"Timor-Leste","2001",55.8
+"Timor-Leste","2007",60.3
+"Timor-Leste","2014",44.2
+"Togo","2006",67.6
+"Togo","2011",65.5
+"Togo","2015",61.7
+"Togo","2018",35.3
+"Togo","2021",34.7
+"Tonga","2000",4.6
+"Tonga","2009",3.6
+"Tonga","2015",4
+"Tonga","2021",0.4
+"Tunisia","2000",10.5
+"Tunisia","2005",5.9
+"Tunisia","2010",3.1
+"Tunisia","2015",0.7
+"Tunisia","2021",0.7
+"Türkiye","2002",7.6
+"Türkiye","2003",10
+"Türkiye","2004",6.6
+"Türkiye","2005",6.5
+"Türkiye","2006",4.8
+"Türkiye","2007",4
+"Türkiye","2008",3.3
+"Türkiye","2009",3
+"Türkiye","2010",2.8
+"Türkiye","2011",2
+"Türkiye","2012",1.7
+"Türkiye","2013",1.5
+"Türkiye","2014",1
+"Türkiye","2015",1.3
+"Türkiye","2016",0.9
+"Türkiye","2017",1.1
+"Türkiye","2018",1
+"Türkiye","2019",1.3
+"Türkiye","2020",1.1
+"Türkiye","2021",0.9
+"Türkiye","2022",0.5
+"Tuvalu","2010",9
+"Uganda","2002",78.6
+"Uganda","2005",72.4
+"Uganda","2009",63.5
+"Uganda","2012",56.2
+"Uganda","2016",60.1
+"Uganda","2019",59.8
+"Ukraine","2002",6.3
+"Ukraine","2003",3.2
+"Ukraine","2004",2.8
+"Ukraine","2005",1.1
+"Ukraine","2006",0.7
+"Ukraine","2007",0.5
+"Ukraine","2008",0.1
+"Ukraine","2009",0.3
+"Ukraine","2010",0.1
+"Ukraine","2011",0.1
+"Ukraine","2012",0.1
+"Ukraine","2013",0.1
+"Ukraine","2014",0
+"Ukraine","2015",0.3
+"Ukraine","2016",0.2
+"Ukraine","2017",0.1
+"Ukraine","2018",0.2
+"Ukraine","2019",0.2
+"Ukraine","2020",0
+"United Arab Emirates","2013",0
+"United Arab Emirates","2018",0
+"United Kingdom of Great Britain and Northern Ireland","2000",0.2
+"United Kingdom of Great Britain and Northern Ireland","2001",0.2
+"United Kingdom of Great Britain and Northern Ireland","2002",0.2
+"United Kingdom of Great Britain and Northern Ireland","2003",0.2
+"United Kingdom of Great Britain and Northern Ireland","2004",0.2
+"United Kingdom of Great Britain and Northern Ireland","2005",0.2
+"United Kingdom of Great Britain and Northern Ireland","2006",0.2
+"United Kingdom of Great Britain and Northern Ireland","2007",0.2
+"United Kingdom of Great Britain and Northern Ireland","2008",0.2
+"United Kingdom of Great Britain and Northern Ireland","2009",0.2
+"United Kingdom of Great Britain and Northern Ireland","2010",0.2
+"United Kingdom of Great Britain and Northern Ireland","2011",0.2
+"United Kingdom of Great Britain and Northern Ireland","2012",0.5
+"United Kingdom of Great Britain and Northern Ireland","2013",0.2
+"United Kingdom of Great Britain and Northern Ireland","2014",0.2
+"United Kingdom of Great Britain and Northern Ireland","2015",0.2
+"United Kingdom of Great Britain and Northern Ireland","2016",0.2
+"United Kingdom of Great Britain and Northern Ireland","2017",0.2
+"United Kingdom of Great Britain and Northern Ireland","2018",0.5
+"United Kingdom of Great Britain and Northern Ireland","2019",0.5
+"United Kingdom of Great Britain and Northern Ireland","2020",0.5
+"United Kingdom of Great Britain and Northern Ireland","2021",0.5
+"United Republic of Tanzania","2000",86.9
+"United Republic of Tanzania","2007",61.9
+"United Republic of Tanzania","2011",51.5
+"United Republic of Tanzania","2018",51.3
+"United States of America","2000",0.7
+"United States of America","2001",1
+"United States of America","2002",1
+"United States of America","2003",1
+"United States of America","2004",1
+"United States of America","2005",1
+"United States of America","2006",1
+"United States of America","2007",1
+"United States of America","2008",1
+"United States of America","2009",1
+"United States of America","2010",1.2
+"United States of America","2011",1
+"United States of America","2012",1
+"United States of America","2013",1
+"United States of America","2014",1.2
+"United States of America","2015",1.2
+"United States of America","2016",1.2
+"United States of America","2017",1.2
+"United States of America","2018",1
+"United States of America","2019",1
+"United States of America","2020",0.5
+"United States of America","2021",0.5
+"United States of America","2022",1.2
+"United States of America","2023",1.2
+"Uruguay","2000",0.9
+"Uruguay","2001",0.7
+"Uruguay","2002",1.1
+"Uruguay","2003",1.5
+"Uruguay","2004",1.7
+"Uruguay","2005",1.5
+"Uruguay","2006",1
+"Uruguay","2007",0.7
+"Uruguay","2008",0.4
+"Uruguay","2009",0.4
+"Uruguay","2010",0.3
+"Uruguay","2011",0.2
+"Uruguay","2012",0.3
+"Uruguay","2013",0.3
+"Uruguay","2014",0.2
+"Uruguay","2015",0.2
+"Uruguay","2016",0.1
+"Uruguay","2017",0.1
+"Uruguay","2018",0.1
+"Uruguay","2019",0.1
+"Uruguay","2020",0.3
+"Uruguay","2021",0.2
+"Uruguay","2022",0.2
+"Uruguay","2023",0.2
+"Uzbekistan","2000",93.8
+"Uzbekistan","2002",93.1
+"Uzbekistan","2003",93.3
+"Uzbekistan","2021",4.4
+"Uzbekistan","2022",4.4
+"Uzbekistan","2023",4.1
+"Vanuatu","2010",25.7
+"Vanuatu","2019",19.5
+"Venezuela (Bolivarian Republic of)","2001",14.7
+"Venezuela (Bolivarian Republic of)","2002",22.1
+"Venezuela (Bolivarian Republic of)","2003",27.1
+"Venezuela (Bolivarian Republic of)","2004",22.8
+"Venezuela (Bolivarian Republic of)","2005",18.1
+"Venezuela (Bolivarian Republic of)","2006",9.7
+"Viet Nam","2002",43.3
+"Viet Nam","2004",30.9
+"Viet Nam","2006",23.7
+"Viet Nam","2008",17.6
+"Viet Nam","2010",5.2
+"Viet Nam","2012",3.7
+"Viet Nam","2014",3.4
+"Viet Nam","2016",2.5
+"Viet Nam","2018",2.2
+"Viet Nam","2020",1.3
+"Viet Nam","2022",1.6
+"Western Africa","2001",61.5
+"Western Africa","2002",59
+"Western Africa","2003",57.7
+"Western Africa","2004",56
+"Western Africa","2005",55
+"Western Africa","2006",53.8
+"Western Africa","2008",50.7
+"Western Africa","2009",49.6
+"Western Africa","2010",47.3
+"Western Africa","2011",45.9
+"Western Africa","2012",44.2
+"Western Africa","2013",42.6
+"Western Africa","2014",40.9
+"Western Africa","2015",41
+"Western Africa","2016",39.4
+"Western Africa","2017",37.1
+"Western Africa","2018",35.1
+"Western Africa","2019",33.8
+"Western Asia","2000",7.1
+"Western Asia","2001",7.5
+"Western Asia","2002",6.5
+"Western Asia","2003",7.8
+"Western Asia","2004",6
+"Western Asia","2005",5.9
+"Western Asia","2006",5.3
+"Western Asia","2007",5
+"Western Asia","2008",4.8
+"Western Asia","2009",4.8
+"Western Asia","2010",4.6
+"Western Asia","2011",5.4
+"Western Asia","2012",5.6
+"Western Asia","2013",6.4
+"Western Asia","2014",7
+"Western Asia","2015",9.3
+"Western Asia","2016",10.6
+"Western Asia","2017",10.4
+"Western Asia","2020",12
+"Western Asia","2021",12.5
+"Western Asia","2022",12.4
+"Western Asia","2023",13
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)","2000",5.9
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)","2001",6.5
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)","2002",6.4
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)","2003",8
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)","2004",6.1
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)","2005",6.1
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)","2006",5.4
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)","2007",5.1
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)","2008",4.9
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)","2009",4.9
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)","2010",4.7
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)","2011",5.6
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)","2012",6
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)","2013",6.9
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)","2014",7.6
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)","2015",10.2
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)","2016",11.7
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)","2017",11.4
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)","2020",13.3
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)","2021",13.8
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)","2022",13.8
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)","2023",14.5
+"Western Europe","2000",0.1
+"Western Europe","2001",0.1
+"Western Europe","2002",0.1
+"Western Europe","2003",0.2
+"Western Europe","2004",0.1
+"Western Europe","2005",0.1
+"Western Europe","2006",0
+"Western Europe","2007",0
+"Western Europe","2008",0.1
+"Western Europe","2009",0.1
+"Western Europe","2010",0.1
+"Western Europe","2011",0.1
+"Western Europe","2012",0.1
+"Western Europe","2013",0.1
+"Western Europe","2014",0
+"Western Europe","2015",0.1
+"Western Europe","2016",0.1
+"Western Europe","2017",0.2
+"Western Europe","2018",0.1
+"Western Europe","2019",0.2
+"Western Europe","2020",0.2
+"Western Europe","2021",0.2
+"Western Europe","2022",0.2
+"Western Europe","2023",0.2
+"World","2000",36.3
+"World","2001",35.3
+"World","2002",33.8
+"World","2003",32.3
+"World","2004",30.4
+"World","2005",28.4
+"World","2006",27
+"World","2007",25.3
+"World","2008",24.2
+"World","2009",23.1
+"World","2010",21
+"World","2011",19.1
+"World","2012",17.9
+"World","2013",15.5
+"World","2014",14.4
+"World","2015",13.3
+"World","2016",12.5
+"World","2017",11.7
+"World","2018",11.1
+"World","2020",11.2
+"World","2021",11
+"World","2022",10.5
+"World","2023",10.2
+"Yemen","2005",21.4
+"Yemen","2014",33.3
+"Zambia","2002",68
+"Zambia","2004",68.9
+"Zambia","2006",72
+"Zambia","2010",71.4
+"Zambia","2015",67.9
+"Zambia","2022",71.7
+"Zimbabwe","2011",35.7
+"Zimbabwe","2017",44.7
+"Zimbabwe","2019",49.2
