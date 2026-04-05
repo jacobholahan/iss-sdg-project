@@ -1,0 +1,4160 @@
+"country","year","mobile_coverage"
+"Afghanistan","2007",72
+"Afghanistan","2008",75
+"Afghanistan","2009",80
+"Afghanistan","2010",80
+"Afghanistan","2011",85
+"Afghanistan","2012",88
+"Afghanistan","2013",88.6
+"Afghanistan","2014",89
+"Afghanistan","2015",89.2
+"Afghanistan","2016",89.4
+"Afghanistan","2017",90
+"Afghanistan","2018",90
+"Afghanistan","2019",90
+"Afghanistan","2020",90
+"Afghanistan","2021",91
+"Afghanistan","2022",92
+"Afghanistan","2023",92.3
+"Africa","2020",91.31
+"Africa","2021",92.35
+"Africa","2022",93.14
+"Africa","2023",94.02
+"Africa","2024",94.48
+"Albania","2001",84
+"Albania","2002",90
+"Albania","2003",90.4
+"Albania","2004",89
+"Albania","2005",91
+"Albania","2006",96.5
+"Albania","2007",96.5
+"Albania","2008",99.3
+"Albania","2010",98.2
+"Albania","2011",99
+"Albania","2012",99
+"Albania","2013",100
+"Albania","2014",99.8
+"Albania","2015",100
+"Albania","2016",99.8
+"Albania","2017",99.86
+"Albania","2018",99.86
+"Albania","2019",99.86
+"Albania","2020",99.86
+"Albania","2021",99.86
+"Albania","2022",100
+"Albania","2023",99.87
+"Albania","2024",100
+"Algeria","2000",40
+"Algeria","2001",40
+"Algeria","2002",40
+"Algeria","2003",40
+"Algeria","2004",40
+"Algeria","2005",41.52
+"Algeria","2006",63.6
+"Algeria","2007",81.5
+"Algeria","2013",98
+"Algeria","2014",98
+"Algeria","2015",99.19
+"Algeria","2016",98
+"Algeria","2017",98
+"Algeria","2018",98.04
+"Algeria","2019",98.72
+"Algeria","2020",98.97
+"Algeria","2021",98.31
+"Algeria","2022",98.49
+"Algeria","2023",98.53
+"American Samoa","2022",92.67
+"Americas","2020",95.87
+"Americas","2021",95.96
+"Americas","2022",96.4
+"Americas","2023",96.66
+"Americas","2024",96.86
+"Andorra","2001",91
+"Andorra","2005",91.3
+"Andorra","2006",91.3
+"Andorra","2007",99
+"Andorra","2008",99
+"Andorra","2009",99.1
+"Andorra","2010",99.1
+"Andorra","2011",99.1
+"Andorra","2012",99.1
+"Andorra","2013",99.1
+"Andorra","2014",99.1
+"Andorra","2015",99.5
+"Andorra","2016",99.5
+"Andorra","2017",99.5
+"Andorra","2018",99.5
+"Andorra","2019",99.5
+"Andorra","2020",99.5
+"Andorra","2021",99.5
+"Andorra","2022",99.5
+"Andorra","2023",99.5
+"Andorra","2024",99.5
+"Angola","2006",40
+"Angola","2013",90
+"Angola","2014",92
+"Angola","2015",99
+"Angola","2016",90
+"Angola","2017",90
+"Angola","2018",90
+"Angola","2019",90
+"Angola","2020",85
+"Angola","2021",86
+"Angola","2022",87
+"Angola","2023",88
+"Angola","2024",89.6
+"Anguilla","2015",99
+"Anguilla","2019",99
+"Anguilla","2020",99
+"Anguilla","2021",99
+"Anguilla","2022",99
+"Antigua and Barbuda","2002",85
+"Antigua and Barbuda","2004",100
+"Antigua and Barbuda","2005",100
+"Antigua and Barbuda","2006",100
+"Antigua and Barbuda","2007",100
+"Antigua and Barbuda","2008",100
+"Antigua and Barbuda","2009",100
+"Antigua and Barbuda","2010",100
+"Antigua and Barbuda","2011",100
+"Antigua and Barbuda","2012",100
+"Antigua and Barbuda","2013",100
+"Antigua and Barbuda","2014",99
+"Antigua and Barbuda","2015",99
+"Antigua and Barbuda","2016",99
+"Antigua and Barbuda","2017",99
+"Antigua and Barbuda","2019",99
+"Antigua and Barbuda","2020",99
+"Antigua and Barbuda","2021",99
+"Antigua and Barbuda","2022",99
+"Argentina","2001",30
+"Argentina","2005",94.1
+"Argentina","2006",94.1
+"Argentina","2007",94.1
+"Argentina","2015",98
+"Argentina","2016",98
+"Argentina","2017",98
+"Argentina","2018",98
+"Argentina","2019",98
+"Argentina","2020",98.87
+"Argentina","2021",98.87
+"Argentina","2022",98.87
+"Argentina","2023",98.89
+"Argentina","2024",98.89
+"Armenia","2001",38
+"Armenia","2003",83.4
+"Armenia","2004",84
+"Armenia","2005",85.17
+"Armenia","2006",87.8
+"Armenia","2009",95
+"Armenia","2010",98.9
+"Armenia","2011",98
+"Armenia","2012",99.8
+"Armenia","2013",100
+"Armenia","2014",100
+"Armenia","2015",100
+"Armenia","2016",100
+"Armenia","2017",100
+"Armenia","2018",100
+"Armenia","2019",100
+"Armenia","2020",100
+"Armenia","2021",100
+"Armenia","2022",100
+"Armenia","2023",100
+"Armenia","2024",100
+"Aruba","2005",90
+"Aruba","2006",99
+"Aruba","2007",99
+"Aruba","2008",99
+"Aruba","2015",99
+"Aruba","2019",99
+"Aruba","2020",99
+"Aruba","2021",99
+"Aruba","2022",99
+"Ascension","2005",0
+"Ascension","2006",0
+"Ascension","2007",0
+"Ascension","2008",0
+"Ascension","2009",0
+"Ascension","2010",0
+"Ascension","2011",0
+"Ascension","2012",0
+"Ascension","2015",100
+"Ascension","2016",100
+"Ascension","2017",100
+"Ascension","2022",100
+"Asia","2015",95.93
+"Asia","2016",96.52
+"Asia","2017",97.6
+"Asia","2018",97.83
+"Asia","2019",98.48
+"Asia","2020",98.5
+"Asia","2021",98.56
+"Asia","2022",98.68
+"Asia","2023",98.86
+"Asia","2024",99
+"Australia","2000",95.6
+"Australia","2001",96
+"Australia","2002",96
+"Australia","2003",96
+"Australia","2004",96
+"Australia","2005",98
+"Australia","2006",98.1
+"Australia","2007",98.8
+"Australia","2008",98.8
+"Australia","2009",99
+"Australia","2010",99
+"Australia","2011",99
+"Australia","2012",99
+"Australia","2013",99
+"Australia","2014",99
+"Australia","2015",99
+"Australia","2016",99.3
+"Australia","2017",99.4
+"Australia","2018",99.4
+"Australia","2019",99.5
+"Australia","2020",99.5
+"Australia","2021",99.5
+"Australia","2022",99.5
+"Australia","2023",99.6
+"Australia","2024",99.7
+"Australia and New Zealand","2015",98.84
+"Australia and New Zealand","2016",99.09
+"Australia and New Zealand","2017",99.17
+"Australia and New Zealand","2018",99.17
+"Australia and New Zealand","2019",99.25
+"Australia and New Zealand","2020",99.34
+"Australia and New Zealand","2021",99.29
+"Australia and New Zealand","2022",99.34
+"Australia and New Zealand","2023",99.44
+"Australia and New Zealand","2024",99.53
+"Austria","2000",98
+"Austria","2001",98
+"Austria","2002",98
+"Austria","2003",98
+"Austria","2004",98.5
+"Austria","2005",98.5
+"Austria","2006",98.5
+"Austria","2007",98.5
+"Austria","2008",99
+"Austria","2009",99
+"Austria","2010",99
+"Austria","2011",99
+"Austria","2012",99
+"Austria","2013",99
+"Austria","2014",99
+"Austria","2015",99
+"Austria","2016",99
+"Austria","2017",99
+"Austria","2018",99
+"Austria","2019",99
+"Austria","2020",99
+"Austria","2021",99
+"Austria","2022",99
+"Austria","2023",99
+"Austria","2024",99
+"Azerbaijan","2000",93.5
+"Azerbaijan","2001",94
+"Azerbaijan","2002",95
+"Azerbaijan","2003",95
+"Azerbaijan","2004",97
+"Azerbaijan","2005",99
+"Azerbaijan","2006",95
+"Azerbaijan","2007",99
+"Azerbaijan","2008",99
+"Azerbaijan","2009",99.6
+"Azerbaijan","2010",100
+"Azerbaijan","2011",100
+"Azerbaijan","2012",100
+"Azerbaijan","2013",100
+"Azerbaijan","2014",100
+"Azerbaijan","2015",100
+"Azerbaijan","2016",100
+"Azerbaijan","2017",100
+"Azerbaijan","2018",100
+"Azerbaijan","2019",100
+"Azerbaijan","2020",100
+"Azerbaijan","2021",100
+"Azerbaijan","2022",100
+"Azerbaijan","2023",100
+"Azerbaijan","2024",100
+"Bahamas","2002",95
+"Bahamas","2003",95
+"Bahamas","2004",95
+"Bahamas","2005",95
+"Bahamas","2006",95
+"Bahamas","2007",100
+"Bahamas","2008",100
+"Bahamas","2009",100
+"Bahamas","2010",100
+"Bahamas","2014",99
+"Bahamas","2015",99
+"Bahamas","2016",99
+"Bahamas","2017",99
+"Bahamas","2018",99
+"Bahamas","2019",99
+"Bahamas","2020",99
+"Bahamas","2021",99
+"Bahamas","2022",99
+"Bahamas","2023",99
+"Bahamas","2024",99
+"Bahrain","2000",100
+"Bahrain","2001",100
+"Bahrain","2002",100
+"Bahrain","2003",100
+"Bahrain","2004",100
+"Bahrain","2005",100
+"Bahrain","2006",100
+"Bahrain","2007",100
+"Bahrain","2008",100
+"Bahrain","2009",100
+"Bahrain","2010",100
+"Bahrain","2011",100
+"Bahrain","2012",100
+"Bahrain","2013",100
+"Bahrain","2014",99
+"Bahrain","2015",99
+"Bahrain","2016",100
+"Bahrain","2017",100
+"Bahrain","2018",100
+"Bahrain","2019",100
+"Bahrain","2020",100
+"Bahrain","2021",100
+"Bahrain","2022",100
+"Bahrain","2023",100
+"Bahrain","2024",100
+"Bangladesh","2001",40
+"Bangladesh","2002",44
+"Bangladesh","2003",50
+"Bangladesh","2004",70
+"Bangladesh","2005",80
+"Bangladesh","2006",90
+"Bangladesh","2009",93
+"Bangladesh","2010",96
+"Bangladesh","2011",99
+"Bangladesh","2012",99
+"Bangladesh","2013",99
+"Bangladesh","2014",99
+"Bangladesh","2015",99.4
+"Bangladesh","2016",99.47
+"Bangladesh","2017",99.47
+"Bangladesh","2018",99.6
+"Bangladesh","2019",99.6
+"Bangladesh","2020",99.62
+"Bangladesh","2021",99.63
+"Bangladesh","2022",99.63
+"Bangladesh","2023",99.64
+"Bangladesh","2024",99.72
+"Barbados","2000",95
+"Barbados","2001",95
+"Barbados","2002",95
+"Barbados","2003",95
+"Barbados","2004",95
+"Barbados","2005",99.9
+"Barbados","2006",99.9
+"Barbados","2007",99.9
+"Barbados","2011",99
+"Barbados","2012",100
+"Barbados","2013",100
+"Barbados","2014",100
+"Barbados","2015",100
+"Barbados","2016",100
+"Barbados","2017",99.6
+"Barbados","2018",100
+"Barbados","2019",99.6
+"Barbados","2020",99.6
+"Barbados","2021",100
+"Barbados","2022",100
+"Belarus","2002",87
+"Belarus","2003",87
+"Belarus","2004",88
+"Belarus","2005",90
+"Belarus","2006",92.5
+"Belarus","2007",96.6
+"Belarus","2008",98.6
+"Belarus","2009",99.4
+"Belarus","2010",99.7
+"Belarus","2011",99.7
+"Belarus","2012",99.7
+"Belarus","2013",99.9
+"Belarus","2014",99.8
+"Belarus","2015",99.9
+"Belarus","2016",99.9
+"Belarus","2017",99.9
+"Belarus","2018",99.9
+"Belarus","2019",99.9
+"Belarus","2020",99.9
+"Belarus","2021",99.9
+"Belarus","2022",99.9
+"Belarus","2023",99.9
+"Belarus","2024",99.9
+"Belgium","2000",99
+"Belgium","2001",99
+"Belgium","2002",99
+"Belgium","2003",99
+"Belgium","2004",99
+"Belgium","2005",99
+"Belgium","2006",99.9
+"Belgium","2007",99.9
+"Belgium","2008",99.9
+"Belgium","2009",99.9
+"Belgium","2010",99.9
+"Belgium","2011",99.9
+"Belgium","2012",99.9
+"Belgium","2013",99.9
+"Belgium","2014",99.9
+"Belgium","2015",100
+"Belgium","2016",100
+"Belgium","2017",100
+"Belgium","2018",100
+"Belgium","2019",100
+"Belgium","2020",100
+"Belgium","2021",100
+"Belgium","2022",100
+"Belgium","2023",100
+"Belgium","2024",100
+"Belize","2015",88.9
+"Belize","2016",90
+"Belize","2017",90
+"Belize","2018",93
+"Belize","2019",98
+"Belize","2020",98
+"Belize","2021",98
+"Belize","2022",98.02
+"Benin","2001",23
+"Benin","2002",27
+"Benin","2003",36
+"Benin","2004",40
+"Benin","2005",43
+"Benin","2006",70
+"Benin","2007",75
+"Benin","2008",79
+"Benin","2009",82
+"Benin","2010",90
+"Benin","2011",99
+"Benin","2012",99
+"Benin","2014",99
+"Benin","2015",98
+"Benin","2016",98
+"Benin","2017",98
+"Benin","2018",98
+"Benin","2019",98
+"Benin","2020",98
+"Benin","2021",98
+"Benin","2022",98
+"Benin","2023",98
+"Benin","2024",98
+"Bermuda","2004",98
+"Bermuda","2015",99
+"Bermuda","2016",99.68
+"Bermuda","2017",99.7
+"Bermuda","2019",99.7
+"Bermuda","2020",99.7
+"Bermuda","2021",99.7
+"Bermuda","2022",99.85
+"Bermuda","2024",99.85
+"Bhutan","2005",5.4
+"Bhutan","2006",11.7
+"Bhutan","2007",21.4
+"Bhutan","2010",98
+"Bhutan","2011",98
+"Bhutan","2015",98
+"Bhutan","2016",98
+"Bhutan","2017",98
+"Bhutan","2018",98
+"Bhutan","2019",98
+"Bhutan","2020",98
+"Bhutan","2021",98
+"Bhutan","2022",98
+"Bhutan","2023",98
+"Bhutan","2024",98
+"Bolivia (Plurinational State of)","2001",43
+"Bolivia (Plurinational State of)","2005",45.9
+"Bolivia (Plurinational State of)","2006",45.9
+"Bolivia (Plurinational State of)","2007",45.9
+"Bolivia (Plurinational State of)","2010",69
+"Bolivia (Plurinational State of)","2011",80
+"Bolivia (Plurinational State of)","2012",95
+"Bolivia (Plurinational State of)","2013",100
+"Bolivia (Plurinational State of)","2014",100
+"Bolivia (Plurinational State of)","2015",100
+"Bolivia (Plurinational State of)","2016",91.99
+"Bolivia (Plurinational State of)","2017",98.36
+"Bolivia (Plurinational State of)","2018",100
+"Bolivia (Plurinational State of)","2019",100
+"Bolivia (Plurinational State of)","2020",100
+"Bolivia (Plurinational State of)","2021",100
+"Bolivia (Plurinational State of)","2022",100
+"Bolivia (Plurinational State of)","2023",99
+"Bolivia (Plurinational State of)","2024",99
+"Bosnia and Herzegovina","2000",60
+"Bosnia and Herzegovina","2001",80
+"Bosnia and Herzegovina","2002",90
+"Bosnia and Herzegovina","2003",93
+"Bosnia and Herzegovina","2004",95
+"Bosnia and Herzegovina","2005",97
+"Bosnia and Herzegovina","2006",99
+"Bosnia and Herzegovina","2007",99
+"Bosnia and Herzegovina","2008",99.3
+"Bosnia and Herzegovina","2009",99.5
+"Bosnia and Herzegovina","2010",99.7
+"Bosnia and Herzegovina","2011",99.7
+"Bosnia and Herzegovina","2012",99.8
+"Bosnia and Herzegovina","2013",99.8
+"Bosnia and Herzegovina","2014",99.8
+"Bosnia and Herzegovina","2015",100
+"Bosnia and Herzegovina","2016",100
+"Bosnia and Herzegovina","2017",100
+"Bosnia and Herzegovina","2018",100
+"Bosnia and Herzegovina","2019",100
+"Bosnia and Herzegovina","2020",100
+"Bosnia and Herzegovina","2021",100
+"Bosnia and Herzegovina","2022",100
+"Bosnia and Herzegovina","2023",100
+"Bosnia and Herzegovina","2024",100
+"Botswana","2002",99
+"Botswana","2003",99
+"Botswana","2004",99
+"Botswana","2005",99
+"Botswana","2006",99
+"Botswana","2007",99
+"Botswana","2008",99
+"Botswana","2011",96
+"Botswana","2012",96
+"Botswana","2014",98
+"Botswana","2015",98
+"Botswana","2016",98
+"Botswana","2017",97
+"Botswana","2018",97
+"Botswana","2019",97
+"Botswana","2020",98
+"Botswana","2021",98
+"Botswana","2022",98
+"Botswana","2023",99
+"Botswana","2024",99
+"Brazil","2004",88
+"Brazil","2005",88.35
+"Brazil","2006",89.42
+"Brazil","2007",90.64
+"Brazil","2008",91.72
+"Brazil","2015",93.53
+"Brazil","2016",95.61
+"Brazil","2017",95.83
+"Brazil","2018",95.83
+"Brazil","2019",91.22
+"Brazil","2020",90.27
+"Brazil","2021",90.31
+"Brazil","2022",92.52
+"Brazil","2023",93.44
+"Brazil","2024",92.73
+"British Virgin Islands","2014",90
+"British Virgin Islands","2015",96
+"British Virgin Islands","2018",100
+"British Virgin Islands","2019",100
+"British Virgin Islands","2020",100
+"British Virgin Islands","2021",100
+"British Virgin Islands","2022",100
+"Brunei Darussalam","2015",97
+"Brunei Darussalam","2016",98.74
+"Brunei Darussalam","2017",99.29
+"Brunei Darussalam","2018",99.06
+"Brunei Darussalam","2019",99
+"Brunei Darussalam","2020",99
+"Brunei Darussalam","2021",99
+"Brunei Darussalam","2022",98.64
+"Brunei Darussalam","2023",99.07
+"Brunei Darussalam","2024",99.07
+"Bulgaria","2000",95
+"Bulgaria","2001",95
+"Bulgaria","2002",95.73
+"Bulgaria","2003",99.36
+"Bulgaria","2005",99.7
+"Bulgaria","2006",99.82
+"Bulgaria","2007",99.95
+"Bulgaria","2008",99.96
+"Bulgaria","2009",99.97
+"Bulgaria","2010",99.99
+"Bulgaria","2011",99.99
+"Bulgaria","2012",99.99
+"Bulgaria","2013",99.99
+"Bulgaria","2014",99.99
+"Bulgaria","2015",99.99
+"Bulgaria","2016",99.99
+"Bulgaria","2017",99.99
+"Bulgaria","2018",99.99
+"Bulgaria","2019",99.99
+"Bulgaria","2020",99.99
+"Bulgaria","2021",99.99
+"Bulgaria","2022",99.99
+"Bulgaria","2023",99.99
+"Bulgaria","2024",99.99
+"Burkina Faso","2002",22
+"Burkina Faso","2003",24
+"Burkina Faso","2004",25
+"Burkina Faso","2005",26
+"Burkina Faso","2006",61.1
+"Burkina Faso","2016",93
+"Burkina Faso","2017",93
+"Burkina Faso","2018",92
+"Burkina Faso","2019",92
+"Burkina Faso","2020",92
+"Burkina Faso","2021",92.6
+"Burkina Faso","2022",92.6
+"Burkina Faso","2024",93
+"Burundi","2006",82
+"Burundi","2009",83
+"Burundi","2015",52.5
+"Burundi","2016",49
+"Burundi","2017",50
+"Burundi","2018",95.4
+"Burundi","2019",96.8
+"Burundi","2020",96.8
+"Burundi","2021",96.8
+"Burundi","2022",96.8
+"Burundi","2023",96.8
+"Cabo Verde","2001",90
+"Cabo Verde","2004",86
+"Cabo Verde","2005",85
+"Cabo Verde","2006",87
+"Cabo Verde","2007",91
+"Cabo Verde","2008",96
+"Cabo Verde","2011",96
+"Cabo Verde","2012",96
+"Cabo Verde","2014",98.44
+"Cabo Verde","2015",98.76
+"Cabo Verde","2016",98.76
+"Cabo Verde","2017",99.34
+"Cabo Verde","2018",99.34
+"Cabo Verde","2019",99.34
+"Cabo Verde","2020",99.34
+"Cabo Verde","2021",99.34
+"Cabo Verde","2022",99.34
+"Cabo Verde","2023",99.34
+"Cabo Verde","2024",99.34
+"Cambodia","2000",80
+"Cambodia","2001",85
+"Cambodia","2002",87
+"Cambodia","2003",87.5
+"Cambodia","2005",75
+"Cambodia","2006",85
+"Cambodia","2007",87
+"Cambodia","2008",87
+"Cambodia","2009",99
+"Cambodia","2010",99
+"Cambodia","2011",99
+"Cambodia","2012",99
+"Cambodia","2013",99
+"Cambodia","2014",99
+"Cambodia","2015",99
+"Cambodia","2016",99
+"Cambodia","2017",99
+"Cambodia","2018",99
+"Cambodia","2019",99
+"Cambodia","2020",99
+"Cambodia","2021",99.6
+"Cambodia","2022",99.6
+"Cambodia","2023",99.7
+"Cambodia","2024",99.5
+"Cameroon","2000",37
+"Cameroon","2001",43
+"Cameroon","2002",43
+"Cameroon","2003",45
+"Cameroon","2004",49
+"Cameroon","2005",54
+"Cameroon","2006",58
+"Cameroon","2014",79.68
+"Cameroon","2015",81.88
+"Cameroon","2016",82.82
+"Cameroon","2017",84.76
+"Cameroon","2018",72.15
+"Cameroon","2019",78.52
+"Cameroon","2020",77.31
+"Cameroon","2021",79.89
+"Cameroon","2022",80.1
+"Cameroon","2023",87.8
+"Canada","2000",90
+"Canada","2004",94
+"Canada","2005",97
+"Canada","2006",98
+"Canada","2007",98
+"Canada","2008",98
+"Canada","2009",99
+"Canada","2010",99
+"Canada","2011",99
+"Canada","2012",99
+"Canada","2013",99
+"Canada","2014",99
+"Canada","2015",99.3
+"Canada","2016",99.4
+"Canada","2017",99.4
+"Canada","2018",99.5
+"Canada","2019",99.7
+"Canada","2020",99.7
+"Canada","2021",99.5
+"Canada","2022",99.7
+"Canada","2023",99.7
+"Canada","2024",99.7
+"Caribbean","2015",87.9
+"Caribbean","2016",87.68
+"Caribbean","2017",88.25
+"Caribbean","2018",88.33
+"Caribbean","2019",88.14
+"Caribbean","2020",88.12
+"Caribbean","2021",88.54
+"Caribbean","2022",88.57
+"Caribbean","2023",88.57
+"Caribbean","2024",88.54
+"Cayman Islands","2004",99
+"Cayman Islands","2005",100
+"Cayman Islands","2006",100
+"Cayman Islands","2007",100
+"Cayman Islands","2008",100
+"Cayman Islands","2009",100
+"Cayman Islands","2010",100
+"Cayman Islands","2011",100
+"Cayman Islands","2012",100
+"Cayman Islands","2013",100
+"Cayman Islands","2014",100
+"Cayman Islands","2015",100
+"Cayman Islands","2016",100
+"Cayman Islands","2017",100
+"Cayman Islands","2019",100
+"Cayman Islands","2020",100
+"Cayman Islands","2021",100
+"Cayman Islands","2022",100
+"Central African Republic","2001",17.8
+"Central African Republic","2005",19.3
+"Central African Republic","2006",19.3
+"Central African Republic","2010",55
+"Central African Republic","2011",56
+"Central African Republic","2012",63
+"Central African Republic","2014",62
+"Central African Republic","2015",59
+"Central African Republic","2016",58
+"Central African Republic","2017",59.44
+"Central African Republic","2018",57.08
+"Central African Republic","2019",55.5
+"Central African Republic","2020",56
+"Central African Republic","2021",56
+"Central African Republic","2022",57.77
+"Central African Republic","2023",59.6
+"Central America","2020",95.2
+"Central America","2021",95.48
+"Central America","2022",95.81
+"Central America","2023",97.11
+"Central America","2024",97.68
+"Central and Southern Asia","2015",93.99
+"Central and Southern Asia","2016",95.18
+"Central and Southern Asia","2017",96
+"Central and Southern Asia","2018",96.08
+"Central and Southern Asia","2019",97.51
+"Central and Southern Asia","2020",97.58
+"Central and Southern Asia","2021",97.62
+"Central and Southern Asia","2022",97.81
+"Central and Southern Asia","2023",98.09
+"Central and Southern Asia","2024",98.31
+"Central Asia","2015",92.54
+"Central Asia","2016",96.66
+"Central Asia","2017",96.69
+"Central Asia","2018",96.88
+"Central Asia","2019",97.55
+"Central Asia","2020",97.64
+"Central Asia","2021",97.63
+"Central Asia","2022",98.51
+"Central Asia","2023",98.62
+"Central Asia","2024",98.62
+"Chad","2001",7.7
+"Chad","2005",23.8
+"Chad","2006",24
+"Chad","2010",25.2
+"Chad","2011",31.1
+"Chad","2012",84
+"Chad","2013",85
+"Chad","2014",86
+"Chad","2015",86
+"Chad","2016",86
+"Chad","2017",86
+"Chad","2018",86
+"Chad","2019",86.1
+"Chad","2020",86.1
+"Chad","2021",86.1
+"Chad","2022",86.8
+"Chad","2023",86.9
+"Chad","2024",86.9
+"Chile","2000",100
+"Chile","2001",100
+"Chile","2002",100
+"Chile","2003",100
+"Chile","2004",100
+"Chile","2005",100
+"Chile","2006",100
+"Chile","2007",100
+"Chile","2008",100
+"Chile","2009",100
+"Chile","2010",100
+"Chile","2011",100
+"Chile","2012",95
+"Chile","2014",96
+"Chile","2015",96
+"Chile","2016",96
+"Chile","2017",96
+"Chile","2018",99
+"Chile","2019",99
+"Chile","2020",99
+"Chile","2021",99
+"Chile","2022",99
+"Chile","2023",99
+"Chile","2024",99
+"China","2000",50
+"China","2001",50
+"China","2005",95
+"China","2006",95
+"China","2007",97.19
+"China","2008",98.68
+"China","2009",99.46
+"China","2010",99.46
+"China","2011",99.46
+"China","2012",99.46
+"China","2013",99.46
+"China","2014",99.5
+"China","2015",99.5
+"China","2016",99.5
+"China","2017",99.5
+"China","2018",99.9
+"China","2019",99.9
+"China","2020",99.9
+"China","2021",99.9
+"China","2022",99.9
+"China","2023",100
+"China","2024",100
+"China, Hong Kong Special Administrative Region","2000",100
+"China, Hong Kong Special Administrative Region","2001",100
+"China, Hong Kong Special Administrative Region","2002",100
+"China, Hong Kong Special Administrative Region","2003",100
+"China, Hong Kong Special Administrative Region","2004",100
+"China, Hong Kong Special Administrative Region","2005",100
+"China, Hong Kong Special Administrative Region","2006",100
+"China, Hong Kong Special Administrative Region","2007",100
+"China, Hong Kong Special Administrative Region","2008",100
+"China, Hong Kong Special Administrative Region","2009",100
+"China, Hong Kong Special Administrative Region","2010",100
+"China, Hong Kong Special Administrative Region","2011",100
+"China, Hong Kong Special Administrative Region","2012",100
+"China, Hong Kong Special Administrative Region","2013",100
+"China, Hong Kong Special Administrative Region","2014",100
+"China, Hong Kong Special Administrative Region","2015",100
+"China, Hong Kong Special Administrative Region","2016",100
+"China, Hong Kong Special Administrative Region","2017",100
+"China, Hong Kong Special Administrative Region","2018",100
+"China, Hong Kong Special Administrative Region","2019",100
+"China, Hong Kong Special Administrative Region","2020",100
+"China, Hong Kong Special Administrative Region","2021",100
+"China, Hong Kong Special Administrative Region","2022",100
+"China, Hong Kong Special Administrative Region","2023",100
+"China, Hong Kong Special Administrative Region","2024",100
+"China, Macao Special Administrative Region","2000",99.99
+"China, Macao Special Administrative Region","2001",99.99
+"China, Macao Special Administrative Region","2002",99.99
+"China, Macao Special Administrative Region","2003",99.99
+"China, Macao Special Administrative Region","2004",99.99
+"China, Macao Special Administrative Region","2005",99.99
+"China, Macao Special Administrative Region","2006",99.99
+"China, Macao Special Administrative Region","2007",99.99
+"China, Macao Special Administrative Region","2008",99.8
+"China, Macao Special Administrative Region","2009",99.8
+"China, Macao Special Administrative Region","2010",99.9
+"China, Macao Special Administrative Region","2011",99.9
+"China, Macao Special Administrative Region","2012",99.9
+"China, Macao Special Administrative Region","2013",99.9
+"China, Macao Special Administrative Region","2014",99.9
+"China, Macao Special Administrative Region","2015",99.9
+"China, Macao Special Administrative Region","2016",99.9
+"China, Macao Special Administrative Region","2017",99.9
+"China, Macao Special Administrative Region","2019",99.9
+"China, Macao Special Administrative Region","2020",99.9
+"China, Macao Special Administrative Region","2021",99.9
+"China, Macao Special Administrative Region","2022",99.9
+"China, Macao Special Administrative Region","2023",99.9
+"China, Macao Special Administrative Region","2024",99.9
+"Colombia","2004",80
+"Colombia","2005",82
+"Colombia","2006",83
+"Colombia","2012",100
+"Colombia","2013",100
+"Colombia","2014",100
+"Colombia","2015",100
+"Colombia","2016",100
+"Colombia","2017",100
+"Colombia","2018",100
+"Colombia","2019",100
+"Colombia","2020",100
+"Colombia","2021",100
+"Colombia","2022",100
+"Colombia","2023",100
+"Colombia","2024",100
+"Comoros","2006",40
+"Comoros","2017",90.85
+"Comoros","2018",90.85
+"Comoros","2019",85.92
+"Comoros","2020",92
+"Comoros","2021",92
+"Comoros","2022",92
+"Comoros","2023",94
+"Congo","2002",17
+"Congo","2003",21
+"Congo","2004",28
+"Congo","2005",39
+"Congo","2006",53
+"Congo","2009",78
+"Congo","2010",93
+"Congo","2011",95
+"Congo","2015",75
+"Congo","2016",75
+"Congo","2017",75
+"Congo","2019",75
+"Congo","2020",75
+"Congo","2021",88
+"Congo","2022",88
+"Congo","2023",89.3
+"Cook Islands","2016",100
+"Cook Islands","2017",100
+"Cook Islands","2019",100
+"Cook Islands","2020",100
+"Cook Islands","2021",100
+"Cook Islands","2022",100
+"Costa Rica","2005",86.38
+"Costa Rica","2006",87
+"Costa Rica","2007",60.44
+"Costa Rica","2008",69.16
+"Costa Rica","2009",69.5
+"Costa Rica","2015",93.4
+"Costa Rica","2016",97.1
+"Costa Rica","2017",97.3
+"Costa Rica","2018",97.31
+"Costa Rica","2019",97.7
+"Costa Rica","2020",97.9
+"Costa Rica","2021",91
+"Costa Rica","2022",91
+"Costa Rica","2023",95
+"Costa Rica","2024",95
+"Côte d'Ivoire","2000",23.4
+"Côte d'Ivoire","2001",36
+"Côte d'Ivoire","2002",46.6
+"Côte d'Ivoire","2003",50
+"Côte d'Ivoire","2004",55
+"Côte d'Ivoire","2005",55
+"Côte d'Ivoire","2006",59
+"Côte d'Ivoire","2008",84.9
+"Côte d'Ivoire","2009",92.2
+"Côte d'Ivoire","2010",92.1
+"Côte d'Ivoire","2011",92.1
+"Côte d'Ivoire","2012",94.5
+"Côte d'Ivoire","2013",97.9
+"Côte d'Ivoire","2014",97.94
+"Côte d'Ivoire","2015",97.94
+"Côte d'Ivoire","2016",95
+"Côte d'Ivoire","2017",95.7
+"Côte d'Ivoire","2018",97.12
+"Côte d'Ivoire","2019",97.54
+"Côte d'Ivoire","2020",97.6
+"Côte d'Ivoire","2021",97.7
+"Côte d'Ivoire","2022",97.8
+"Côte d'Ivoire","2023",98.7
+"Côte d'Ivoire","2024",98.9
+"Croatia","2000",98
+"Croatia","2001",98
+"Croatia","2002",98
+"Croatia","2003",98
+"Croatia","2004",99
+"Croatia","2005",100
+"Croatia","2006",100
+"Croatia","2007",100
+"Croatia","2008",100
+"Croatia","2009",100
+"Croatia","2010",100
+"Croatia","2011",100
+"Croatia","2012",100
+"Croatia","2013",100
+"Croatia","2014",100
+"Croatia","2015",100
+"Croatia","2016",100
+"Croatia","2017",100
+"Croatia","2018",100
+"Croatia","2019",100
+"Croatia","2020",100
+"Croatia","2021",100
+"Croatia","2022",100
+"Croatia","2023",100
+"Croatia","2024",100
+"Cuba","2000",41
+"Cuba","2001",50
+"Cuba","2002",50
+"Cuba","2003",50
+"Cuba","2004",61
+"Cuba","2005",71
+"Cuba","2006",71
+"Cuba","2007",77.15
+"Cuba","2008",75.8
+"Cuba","2009",77.5
+"Cuba","2010",78.02
+"Cuba","2011",78.08
+"Cuba","2012",85.3
+"Cuba","2013",85.3
+"Cuba","2014",85.3
+"Cuba","2015",85.3
+"Cuba","2016",85.3
+"Cuba","2017",85.3
+"Cuba","2018",85.3
+"Cuba","2019",85.48
+"Cuba","2020",85.61
+"Cuba","2021",87.32
+"Cuba","2022",87.52
+"Cuba","2023",87.53
+"Cuba","2024",87.54
+"Curaçao","2014",100
+"Curaçao","2015",100
+"Curaçao","2016",100
+"Curaçao","2017",100
+"Curaçao","2018",100
+"Curaçao","2019",100
+"Curaçao","2020",100
+"Curaçao","2021",100
+"Curaçao","2022",99
+"Curaçao","2023",100
+"Cyprus","2000",99
+"Cyprus","2001",99
+"Cyprus","2002",99.97
+"Cyprus","2003",99.98
+"Cyprus","2004",99.98
+"Cyprus","2005",99.98
+"Cyprus","2006",99.98
+"Cyprus","2007",99.98
+"Cyprus","2008",99.98
+"Cyprus","2009",99.98
+"Cyprus","2010",99.98
+"Cyprus","2011",99.98
+"Cyprus","2012",99.98
+"Cyprus","2013",99.98
+"Cyprus","2014",99.98
+"Cyprus","2015",99.98
+"Cyprus","2016",99.98
+"Cyprus","2017",99.98
+"Cyprus","2018",99.98
+"Cyprus","2019",99.98
+"Cyprus","2020",99.98
+"Cyprus","2021",99.98
+"Cyprus","2022",100
+"Cyprus","2023",100
+"Cyprus","2024",100
+"Czechia","2000",99
+"Czechia","2001",99
+"Czechia","2002",99
+"Czechia","2003",99
+"Czechia","2004",99.6
+"Czechia","2005",99.6
+"Czechia","2006",99.7
+"Czechia","2007",99.7
+"Czechia","2008",99.7
+"Czechia","2009",99.8
+"Czechia","2010",99.8
+"Czechia","2011",99.6
+"Czechia","2012",99.8
+"Czechia","2013",99.8
+"Czechia","2014",99.8
+"Czechia","2015",99.82
+"Czechia","2016",99.8
+"Czechia","2017",99.8
+"Czechia","2018",99.8
+"Czechia","2019",99.8
+"Czechia","2020",99.8
+"Czechia","2021",99.8
+"Czechia","2022",99.8
+"Czechia","2023",99.8
+"Czechia","2024",99.9
+"Democratic People's Republic of Korea","2000",0
+"Democratic People's Republic of Korea","2001",0
+"Democratic People's Republic of Korea","2002",0
+"Democratic People's Republic of Korea","2003",0
+"Democratic People's Republic of Korea","2004",0
+"Democratic People's Republic of Korea","2005",0
+"Democratic People's Republic of Korea","2006",0
+"Democratic People's Republic of Korea","2007",0
+"Democratic People's Republic of Korea","2015",95
+"Democratic People's Republic of Korea","2016",95
+"Democratic People's Republic of Korea","2017",95
+"Democratic People's Republic of Korea","2019",95
+"Democratic People's Republic of Korea","2020",95
+"Democratic People's Republic of Korea","2021",95
+"Democratic People's Republic of Korea","2022",95.09
+"Democratic Republic of the Congo","2004",40
+"Democratic Republic of the Congo","2005",50
+"Democratic Republic of the Congo","2006",50
+"Democratic Republic of the Congo","2007",50
+"Democratic Republic of the Congo","2008",50
+"Democratic Republic of the Congo","2009",50
+"Democratic Republic of the Congo","2010",50
+"Democratic Republic of the Congo","2011",50
+"Democratic Republic of the Congo","2012",50
+"Democratic Republic of the Congo","2013",50
+"Democratic Republic of the Congo","2014",50
+"Democratic Republic of the Congo","2015",50
+"Democratic Republic of the Congo","2016",50
+"Democratic Republic of the Congo","2017",50
+"Democratic Republic of the Congo","2018",52
+"Democratic Republic of the Congo","2019",54
+"Democratic Republic of the Congo","2020",70
+"Democratic Republic of the Congo","2021",73
+"Democratic Republic of the Congo","2022",75
+"Democratic Republic of the Congo","2023",75
+"Democratic Republic of the Congo","2024",75
+"Denmark","2012",99.5
+"Denmark","2013",99.5
+"Denmark","2014",99.5
+"Denmark","2015",99.99
+"Denmark","2016",100
+"Denmark","2017",100
+"Denmark","2018",100
+"Denmark","2019",100
+"Denmark","2020",100
+"Denmark","2021",100
+"Denmark","2022",100
+"Denmark","2023",100
+"Denmark","2024",100
+"Djibouti","2000",30
+"Djibouti","2001",40
+"Djibouti","2002",75
+"Djibouti","2003",75
+"Djibouti","2004",75
+"Djibouti","2005",75
+"Djibouti","2006",75
+"Djibouti","2007",85
+"Djibouti","2008",85
+"Djibouti","2009",90
+"Djibouti","2010",90
+"Djibouti","2011",95
+"Djibouti","2012",95
+"Djibouti","2017",85
+"Djibouti","2018",85
+"Djibouti","2019",90
+"Djibouti","2020",90
+"Djibouti","2021",90
+"Djibouti","2022",90
+"Djibouti","2023",90
+"Dominica","2010",90
+"Dominica","2015",94
+"Dominica","2016",95
+"Dominica","2017",95
+"Dominica","2018",100
+"Dominica","2019",100
+"Dominica","2020",100
+"Dominica","2021",100
+"Dominica","2022",100
+"Dominican Republic","2009",88.6
+"Dominican Republic","2010",94.2
+"Dominican Republic","2011",92.86
+"Dominican Republic","2012",94.59
+"Dominican Republic","2013",97.41
+"Dominican Republic","2014",98.5
+"Dominican Republic","2015",98.8
+"Dominican Republic","2016",98.95
+"Dominican Republic","2017",99.52
+"Dominican Republic","2018",99.56
+"Dominican Republic","2019",99.5
+"Dominican Republic","2020",99.53
+"Dominican Republic","2021",99.5
+"Dominican Republic","2022",99.5
+"Dominican Republic","2023",99.5
+"Dominican Republic","2024",99.5
+"Eastern Africa","2015",88.35
+"Eastern Africa","2016",89.44
+"Eastern Africa","2017",89.15
+"Eastern Africa","2018",91.53
+"Eastern Africa","2019",92.06
+"Eastern Africa","2020",91.73
+"Eastern Africa","2021",92.94
+"Eastern Africa","2022",93.85
+"Eastern Africa","2023",95.2
+"Eastern Africa","2024",95.39
+"Eastern and South-Eastern Asia","2015",97.67
+"Eastern and South-Eastern Asia","2016",97.69
+"Eastern and South-Eastern Asia","2017",99.04
+"Eastern and South-Eastern Asia","2018",99.39
+"Eastern and South-Eastern Asia","2019",99.45
+"Eastern and South-Eastern Asia","2020",99.38
+"Eastern and South-Eastern Asia","2021",99.39
+"Eastern and South-Eastern Asia","2022",99.52
+"Eastern and South-Eastern Asia","2023",99.66
+"Eastern and South-Eastern Asia","2024",99.7
+"Eastern Asia","2015",99.48
+"Eastern Asia","2016",99.48
+"Eastern Asia","2017",99.48
+"Eastern Asia","2018",99.83
+"Eastern Asia","2019",99.83
+"Eastern Asia","2020",99.82
+"Eastern Asia","2021",99.82
+"Eastern Asia","2022",99.82
+"Eastern Asia","2023",99.91
+"Eastern Asia","2024",99.91
+"Eastern Europe","2020",99.41
+"Eastern Europe","2021",99.64
+"Eastern Europe","2022",99.54
+"Eastern Europe","2023",99.64
+"Eastern Europe","2024",99.63
+"Ecuador","2001",80
+"Ecuador","2002",80
+"Ecuador","2003",80
+"Ecuador","2004",80
+"Ecuador","2005",80
+"Ecuador","2006",84
+"Ecuador","2008",89.28
+"Ecuador","2009",91.3
+"Ecuador","2010",93.3
+"Ecuador","2011",94.63
+"Ecuador","2012",96.04
+"Ecuador","2013",96.58
+"Ecuador","2014",96.88
+"Ecuador","2015",96.98
+"Ecuador","2016",96.76
+"Ecuador","2017",97.08
+"Ecuador","2018",95.38
+"Ecuador","2019",95.5
+"Ecuador","2020",95.66
+"Ecuador","2021",95.53
+"Ecuador","2022",96.34
+"Ecuador","2023",96.72
+"Ecuador","2024",97.04
+"Egypt","2005",92
+"Egypt","2006",92
+"Egypt","2007",99.6
+"Egypt","2008",99.6
+"Egypt","2009",99.7
+"Egypt","2010",99.7
+"Egypt","2011",99.7
+"Egypt","2012",99.8
+"Egypt","2013",99.8
+"Egypt","2014",99.8
+"Egypt","2015",99.8
+"Egypt","2016",99.8
+"Egypt","2017",99.8
+"Egypt","2018",99.8
+"Egypt","2019",99.83
+"Egypt","2020",99.83
+"Egypt","2021",99.8
+"Egypt","2022",99.85
+"Egypt","2023",99.87
+"Egypt","2024",99.87
+"El Salvador","2001",85
+"El Salvador","2002",90
+"El Salvador","2003",90
+"El Salvador","2004",95
+"El Salvador","2005",95
+"El Salvador","2006",95
+"El Salvador","2007",95
+"El Salvador","2014",87.64
+"El Salvador","2015",85.01
+"El Salvador","2016",85.01
+"El Salvador","2017",97
+"El Salvador","2018",97
+"El Salvador","2019",98
+"El Salvador","2020",98
+"El Salvador","2021",98
+"El Salvador","2022",98
+"El Salvador","2023",98
+"El Salvador","2024",98
+"Equatorial Guinea","2015",70
+"Equatorial Guinea","2016",70
+"Equatorial Guinea","2017",70
+"Equatorial Guinea","2018",70
+"Equatorial Guinea","2019",70
+"Equatorial Guinea","2020",70
+"Equatorial Guinea","2021",80
+"Equatorial Guinea","2022",80
+"Eritrea","2000",0
+"Eritrea","2001",0
+"Eritrea","2002",0
+"Eritrea","2003",0
+"Eritrea","2006",1.25
+"Eritrea","2007",1.65
+"Eritrea","2008",79.55
+"Eritrea","2009",80
+"Eritrea","2010",83
+"Eritrea","2011",85
+"Eritrea","2012",85
+"Eritrea","2013",92
+"Eritrea","2015",85
+"Eritrea","2016",85
+"Eritrea","2017",85
+"Eritrea","2019",85
+"Eritrea","2020",85
+"Eritrea","2021",85
+"Eritrea","2022",86
+"Estonia","2000",99
+"Estonia","2001",99
+"Estonia","2002",99
+"Estonia","2003",99
+"Estonia","2004",99
+"Estonia","2005",99.3
+"Estonia","2006",99.99
+"Estonia","2007",99.99
+"Estonia","2008",99.99
+"Estonia","2009",99.99
+"Estonia","2010",99.99
+"Estonia","2011",99.99
+"Estonia","2012",99.99
+"Estonia","2013",99.99
+"Estonia","2014",100
+"Estonia","2015",100
+"Estonia","2016",99
+"Estonia","2017",100
+"Estonia","2018",100
+"Estonia","2019",100
+"Estonia","2020",100
+"Estonia","2021",100
+"Estonia","2022",100
+"Estonia","2023",100
+"Estonia","2024",100
+"Eswatini","2000",70
+"Eswatini","2001",65
+"Eswatini","2002",80
+"Eswatini","2006",90
+"Eswatini","2008",91
+"Eswatini","2009",90
+"Eswatini","2010",92
+"Eswatini","2011",94.9
+"Eswatini","2012",96.8
+"Eswatini","2017",95
+"Eswatini","2018",98
+"Eswatini","2019",99
+"Eswatini","2020",99
+"Eswatini","2021",99.1
+"Eswatini","2022",99.1
+"Eswatini","2023",99.1
+"Eswatini","2024",99.1
+"Ethiopia","2004",9.7
+"Ethiopia","2005",10
+"Ethiopia","2006",10
+"Ethiopia","2012",73
+"Ethiopia","2014",90
+"Ethiopia","2015",95
+"Ethiopia","2016",97
+"Ethiopia","2017",97
+"Ethiopia","2019",97
+"Ethiopia","2020",97
+"Ethiopia","2021",97
+"Ethiopia","2022",99.1
+"Ethiopia","2023",99.19
+"Ethiopia","2024",99.23
+"Europe","2015",97.53
+"Europe","2016",97.72
+"Europe","2017",97.94
+"Europe","2018",97.95
+"Europe","2019",99.5
+"Europe","2020",99.61
+"Europe","2021",99.7
+"Europe","2022",99.65
+"Europe","2023",99.7
+"Europe","2024",99.7
+"Europe and Northern America","2015",98.29
+"Europe and Northern America","2016",98.42
+"Europe and Northern America","2017",98.58
+"Europe and Northern America","2018",98.59
+"Europe and Northern America","2019",99.63
+"Europe and Northern America","2020",99.7
+"Europe and Northern America","2021",99.75
+"Europe and Northern America","2022",99.63
+"Europe and Northern America","2023",99.49
+"Europe and Northern America","2024",99.48
+"Falkland Islands (Malvinas)","2000",0
+"Falkland Islands (Malvinas)","2001",0
+"Falkland Islands (Malvinas)","2002",0
+"Falkland Islands (Malvinas)","2003",0
+"Falkland Islands (Malvinas)","2005",91.75
+"Falkland Islands (Malvinas)","2007",94.28
+"Falkland Islands (Malvinas)","2008",94
+"Falkland Islands (Malvinas)","2009",94
+"Falkland Islands (Malvinas)","2010",94
+"Falkland Islands (Malvinas)","2011",96
+"Falkland Islands (Malvinas)","2012",96
+"Falkland Islands (Malvinas)","2013",96
+"Falkland Islands (Malvinas)","2014",96
+"Falkland Islands (Malvinas)","2021",96
+"Falkland Islands (Malvinas)","2022",96
+"Faroe Islands","2002",98
+"Faroe Islands","2003",99
+"Faroe Islands","2004",100
+"Faroe Islands","2005",100
+"Faroe Islands","2006",100
+"Faroe Islands","2007",100
+"Faroe Islands","2008",100
+"Faroe Islands","2009",100
+"Faroe Islands","2010",100
+"Faroe Islands","2011",100
+"Faroe Islands","2012",100
+"Faroe Islands","2015",96
+"Faroe Islands","2016",99.9
+"Faroe Islands","2017",100
+"Faroe Islands","2018",100
+"Faroe Islands","2019",99.99
+"Faroe Islands","2020",100
+"Faroe Islands","2021",100
+"Faroe Islands","2022",100
+"Fiji","2000",40
+"Fiji","2001",49.5
+"Fiji","2002",55
+"Fiji","2003",55
+"Fiji","2004",55
+"Fiji","2005",60
+"Fiji","2006",65
+"Fiji","2007",65
+"Fiji","2015",88
+"Fiji","2016",96
+"Fiji","2017",96
+"Fiji","2018",98
+"Fiji","2019",98
+"Fiji","2020",98
+"Fiji","2021",98
+"Fiji","2022",98
+"Fiji","2023",94
+"Fiji","2024",94
+"Finland","2000",99
+"Finland","2001",99
+"Finland","2002",99
+"Finland","2003",99
+"Finland","2004",99
+"Finland","2005",99
+"Finland","2006",99
+"Finland","2007",99
+"Finland","2008",99.5
+"Finland","2009",99.99
+"Finland","2010",99.99
+"Finland","2011",99.99
+"Finland","2012",99.99
+"Finland","2013",99.99
+"Finland","2014",99.99
+"Finland","2015",99.99
+"Finland","2016",99.99
+"Finland","2017",99.99
+"Finland","2018",99.99
+"Finland","2019",99.99
+"Finland","2020",99.99
+"Finland","2021",99.99
+"Finland","2022",99.99
+"Finland","2023",99.99
+"Finland","2024",99.99
+"France","2000",99.4
+"France","2001",99
+"France","2002",99
+"France","2003",99
+"France","2004",99
+"France","2005",99
+"France","2006",99
+"France","2007",99
+"France","2008",99
+"France","2009",99
+"France","2010",99
+"France","2011",99
+"France","2012",99
+"France","2014",99
+"France","2015",99
+"France","2016",99
+"France","2017",99
+"France","2018",99
+"France","2019",99
+"France","2020",99
+"France","2021",99
+"France","2022",99
+"France","2023",99
+"French Guiana","2022",85.28
+"French Polynesia","2001",70
+"French Polynesia","2002",75
+"French Polynesia","2003",85
+"French Polynesia","2004",96
+"French Polynesia","2005",96
+"French Polynesia","2006",96
+"French Polynesia","2007",96
+"French Polynesia","2008",97
+"French Polynesia","2009",97.8
+"French Polynesia","2010",98
+"French Polynesia","2011",98
+"French Polynesia","2012",98
+"French Polynesia","2013",98
+"French Polynesia","2014",98
+"French Polynesia","2015",98
+"French Polynesia","2016",98
+"French Polynesia","2017",98
+"French Polynesia","2018",98
+"French Polynesia","2019",98
+"French Polynesia","2020",98
+"French Polynesia","2021",98
+"French Polynesia","2022",98
+"French Polynesia","2023",98
+"Gabon","2001",12.5
+"Gabon","2002",23.27
+"Gabon","2003",23.7
+"Gabon","2004",74
+"Gabon","2005",78
+"Gabon","2006",78
+"Gabon","2007",79
+"Gabon","2014",93
+"Gabon","2015",97
+"Gabon","2016",98
+"Gabon","2017",98
+"Gabon","2018",99
+"Gabon","2019",99
+"Gabon","2020",99
+"Gabon","2021",99
+"Gabon","2022",99
+"Gabon","2023",99
+"Gabon","2024",99
+"Gambia","2002",70
+"Gambia","2003",70
+"Gambia","2004",70
+"Gambia","2005",70
+"Gambia","2006",70
+"Gambia","2007",85
+"Gambia","2014",94
+"Gambia","2015",96
+"Gambia","2016",96
+"Gambia","2017",96
+"Gambia","2018",98
+"Gambia","2019",98
+"Gambia","2020",98
+"Gambia","2021",98
+"Gambia","2022",98.14
+"Gambia","2023",94.97
+"Gambia","2024",98.5
+"Georgia","2001",79
+"Georgia","2004",94
+"Georgia","2005",95
+"Georgia","2006",95.9
+"Georgia","2007",95.9
+"Georgia","2008",98
+"Georgia","2009",99.3
+"Georgia","2010",99
+"Georgia","2011",99.1
+"Georgia","2015",99
+"Georgia","2016",99.93
+"Georgia","2017",99.98
+"Georgia","2018",99.98
+"Georgia","2019",99.98
+"Georgia","2020",99.98
+"Georgia","2021",99.98
+"Georgia","2022",99.9
+"Georgia","2023",99.9
+"Georgia","2024",99.9
+"Germany","2000",99
+"Germany","2001",99
+"Germany","2002",99
+"Germany","2003",99
+"Germany","2004",99
+"Germany","2005",99
+"Germany","2006",99
+"Germany","2007",99
+"Germany","2008",99
+"Germany","2009",99
+"Germany","2010",99
+"Germany","2011",99
+"Germany","2012",99
+"Germany","2013",99
+"Germany","2014",99
+"Germany","2015",99
+"Germany","2016",99
+"Germany","2017",99
+"Germany","2018",99
+"Germany","2019",99
+"Germany","2020",99.9
+"Germany","2021",99.83
+"Germany","2022",99.9
+"Germany","2023",99.96
+"Germany","2024",99.97
+"Ghana","2005",59
+"Ghana","2006",65.3
+"Ghana","2007",68
+"Ghana","2008",73
+"Ghana","2009",75
+"Ghana","2010",77
+"Ghana","2011",84.9
+"Ghana","2012",87
+"Ghana","2015",96.79
+"Ghana","2016",96.79
+"Ghana","2017",96.79
+"Ghana","2018",96.79
+"Ghana","2019",96.98
+"Ghana","2020",96.98
+"Ghana","2021",96.98
+"Ghana","2022",96.98
+"Ghana","2023",99.55
+"Ghana","2024",99.55
+"Gibraltar","2000",100
+"Gibraltar","2001",100
+"Gibraltar","2002",100
+"Gibraltar","2003",100
+"Gibraltar","2004",100
+"Gibraltar","2015",100
+"Gibraltar","2016",100
+"Gibraltar","2017",100
+"Gibraltar","2018",100
+"Gibraltar","2019",100
+"Gibraltar","2020",100
+"Gibraltar","2021",100
+"Gibraltar","2022",100
+"Greece","2000",99
+"Greece","2001",99.5
+"Greece","2002",99.6
+"Greece","2003",99.6
+"Greece","2004",99.6
+"Greece","2005",99.7
+"Greece","2006",99.9
+"Greece","2007",99.9
+"Greece","2008",99.9
+"Greece","2009",99.9
+"Greece","2010",99.9
+"Greece","2011",99.9
+"Greece","2012",99.9
+"Greece","2013",99.9
+"Greece","2014",99.9
+"Greece","2015",99.9
+"Greece","2016",99.9
+"Greece","2017",99.9
+"Greece","2018",99.9
+"Greece","2019",99.9
+"Greece","2020",99.9
+"Greece","2021",99.9
+"Greece","2022",99.9
+"Greece","2023",99.9
+"Greece","2024",99.9
+"Greenland","2005",90
+"Greenland","2007",97
+"Greenland","2008",97
+"Greenland","2009",99
+"Greenland","2010",99.5
+"Greenland","2011",99.5
+"Greenland","2012",99.9
+"Greenland","2017",100
+"Greenland","2018",100
+"Greenland","2019",100
+"Greenland","2020",100
+"Greenland","2021",100
+"Greenland","2022",100
+"Grenada","2000",65
+"Grenada","2014",100
+"Grenada","2015",75
+"Grenada","2016",81.85
+"Grenada","2017",81.85
+"Grenada","2019",81.85
+"Grenada","2020",98
+"Grenada","2021",98.5
+"Grenada","2022",100
+"Guadeloupe","2004",95
+"Guadeloupe","2005",99
+"Guam","2022",92.67
+"Guatemala","2000",54
+"Guatemala","2001",68
+"Guatemala","2006",76
+"Guatemala","2012",100
+"Guatemala","2013",100
+"Guatemala","2014",100
+"Guatemala","2015",100
+"Guatemala","2016",100
+"Guatemala","2019",100
+"Guatemala","2020",100
+"Guatemala","2021",100
+"Guatemala","2022",100
+"Guatemala","2023",100
+"Guernsey","2022",99
+"Guinea","2006",80
+"Guinea","2007",80
+"Guinea","2008",80
+"Guinea","2015",99.1
+"Guinea","2018",79
+"Guinea","2019",87
+"Guinea","2020",88
+"Guinea","2021",88
+"Guinea","2022",87.93
+"Guinea-Bissau","2006",65
+"Guinea-Bissau","2010",50
+"Guinea-Bissau","2011",46
+"Guinea-Bissau","2012",65
+"Guinea-Bissau","2015",86
+"Guinea-Bissau","2016",83
+"Guinea-Bissau","2017",90.5
+"Guinea-Bissau","2018",91.8
+"Guinea-Bissau","2019",97.09
+"Guinea-Bissau","2020",100
+"Guinea-Bissau","2021",100
+"Guinea-Bissau","2022",100
+"Guinea-Bissau","2023",100
+"Guyana","2004",95
+"Guyana","2005",95
+"Guyana","2008",88
+"Guyana","2009",94
+"Guyana","2010",95
+"Guyana","2011",97
+"Guyana","2013",97.1
+"Guyana","2015",97.1
+"Guyana","2016",97.1
+"Guyana","2017",97.3
+"Guyana","2019",97.3
+"Guyana","2020",97.3
+"Guyana","2021",97.3
+"Guyana","2022",97.66
+"Haiti","2014",63.32
+"Haiti","2015",70.05
+"Haiti","2019",70
+"Haiti","2020",70
+"Haiti","2021",70
+"Haiti","2022",70
+"Honduras","2006",57
+"Honduras","2007",89.93
+"Honduras","2015",99.87
+"Honduras","2016",86.14
+"Honduras","2017",92.44
+"Honduras","2018",90.74
+"Honduras","2019",88.21
+"Honduras","2020",88.17
+"Honduras","2021",89.03
+"Honduras","2022",89.3
+"Honduras","2023",93
+"Honduras","2024",93
+"Hungary","2000",95.05
+"Hungary","2001",95.83
+"Hungary","2002",99
+"Hungary","2003",99
+"Hungary","2004",99
+"Hungary","2005",99
+"Hungary","2006",99
+"Hungary","2007",99
+"Hungary","2008",99
+"Hungary","2009",99
+"Hungary","2010",99
+"Hungary","2011",99
+"Hungary","2012",99
+"Hungary","2013",99
+"Hungary","2014",99
+"Hungary","2015",99
+"Hungary","2016",99
+"Hungary","2017",99
+"Hungary","2018",99.2
+"Hungary","2019",99.2
+"Hungary","2020",99.2
+"Hungary","2021",99.2
+"Hungary","2022",99.2
+"Hungary","2023",99.2
+"Iceland","2000",99
+"Iceland","2001",99
+"Iceland","2002",99
+"Iceland","2003",99
+"Iceland","2004",99
+"Iceland","2005",99
+"Iceland","2006",99
+"Iceland","2007",99
+"Iceland","2008",99
+"Iceland","2009",99
+"Iceland","2010",99
+"Iceland","2011",99
+"Iceland","2012",99
+"Iceland","2013",99
+"Iceland","2014",99
+"Iceland","2015",99
+"Iceland","2016",99
+"Iceland","2017",99
+"Iceland","2018",99
+"Iceland","2019",99
+"Iceland","2020",99.98
+"Iceland","2021",99.4
+"Iceland","2022",99.4
+"Iceland","2023",99.4
+"Iceland","2024",99.5
+"India","2000",21.1
+"India","2001",21.1
+"India","2005",30.5
+"India","2006",60.9
+"India","2007",70
+"India","2009",83
+"India","2013",93.46
+"India","2015",95
+"India","2016",96
+"India","2017",97
+"India","2018",97
+"India","2019",99.06
+"India","2020",99.12
+"India","2021",99.21
+"India","2022",99.21
+"India","2023",99.2
+"India","2024",99.28
+"Indonesia","2000",89
+"Indonesia","2004",90
+"Indonesia","2005",90
+"Indonesia","2006",90
+"Indonesia","2011",100
+"Indonesia","2015",87.9
+"Indonesia","2016",87.9
+"Indonesia","2017",98.6
+"Indonesia","2018",98.71
+"Indonesia","2019",98.71
+"Indonesia","2020",97.89
+"Indonesia","2021",97.8
+"Indonesia","2022",98.8
+"Indonesia","2023",99.35
+"Indonesia","2024",99.58
+"Iran (Islamic Republic of)","2001",32
+"Iran (Islamic Republic of)","2003",50
+"Iran (Islamic Republic of)","2004",65
+"Iran (Islamic Republic of)","2005",75
+"Iran (Islamic Republic of)","2006",82
+"Iran (Islamic Republic of)","2007",95
+"Iran (Islamic Republic of)","2010",85
+"Iran (Islamic Republic of)","2011",85
+"Iran (Islamic Republic of)","2012",96
+"Iran (Islamic Republic of)","2013",94
+"Iran (Islamic Republic of)","2014",94.2
+"Iran (Islamic Republic of)","2015",94.2
+"Iran (Islamic Republic of)","2016",96.5
+"Iran (Islamic Republic of)","2017",96.5
+"Iran (Islamic Republic of)","2018",96.5
+"Iran (Islamic Republic of)","2019",96.5
+"Iran (Islamic Republic of)","2020",96.9
+"Iran (Islamic Republic of)","2021",96.5
+"Iran (Islamic Republic of)","2022",96.5
+"Iran (Islamic Republic of)","2023",98
+"Iran (Islamic Republic of)","2024",98.97
+"Iraq","2005",68.1
+"Iraq","2006",72.1
+"Iraq","2015",98
+"Iraq","2017",99.92
+"Iraq","2018",100
+"Iraq","2019",100
+"Iraq","2020",100
+"Iraq","2021",100
+"Iraq","2022",100
+"Iraq","2023",100
+"Iraq","2024",100
+"Ireland","2000",98
+"Ireland","2001",98
+"Ireland","2002",99
+"Ireland","2003",99
+"Ireland","2004",99
+"Ireland","2005",99
+"Ireland","2006",99
+"Ireland","2007",99
+"Ireland","2008",99
+"Ireland","2009",99
+"Ireland","2010",99
+"Ireland","2011",99
+"Ireland","2012",99
+"Ireland","2013",99
+"Ireland","2014",99
+"Ireland","2015",99
+"Ireland","2016",99
+"Ireland","2017",99
+"Ireland","2018",99
+"Ireland","2019",99
+"Ireland","2020",99
+"Ireland","2021",99
+"Ireland","2022",99
+"Ireland","2023",99.9
+"Ireland","2024",99.9
+"Israel","2002",97
+"Israel","2003",97
+"Israel","2004",98
+"Israel","2005",99
+"Israel","2006",99.7
+"Israel","2008",100
+"Israel","2010",99
+"Israel","2011",99
+"Israel","2012",99
+"Israel","2013",100
+"Israel","2015",99
+"Israel","2016",99
+"Israel","2017",99
+"Israel","2018",99
+"Israel","2019",99
+"Israel","2020",99
+"Israel","2021",99
+"Israel","2022",99
+"Israel","2023",99
+"Israel","2024",99
+"Italy","2000",99.6
+"Italy","2001",99.6
+"Italy","2002",99.8
+"Italy","2003",99.8
+"Italy","2004",99.8
+"Italy","2005",99.8
+"Italy","2006",99.8
+"Italy","2007",99.8
+"Italy","2008",99
+"Italy","2009",99
+"Italy","2010",99
+"Italy","2011",99
+"Italy","2012",99
+"Italy","2013",100
+"Italy","2014",100
+"Italy","2015",100
+"Italy","2016",100
+"Italy","2017",100
+"Italy","2018",100
+"Italy","2019",100
+"Italy","2020",100
+"Italy","2021",100
+"Italy","2022",100
+"Italy","2023",100
+"Italy","2024",100
+"Jamaica","2001",80
+"Jamaica","2002",95
+"Jamaica","2003",95
+"Jamaica","2004",95
+"Jamaica","2005",95
+"Jamaica","2006",85.21
+"Jamaica","2007",95
+"Jamaica","2015",100
+"Jamaica","2016",100
+"Jamaica","2017",100
+"Jamaica","2018",100
+"Jamaica","2019",100
+"Jamaica","2020",100
+"Jamaica","2021",100
+"Jamaica","2022",100
+"Jamaica","2023",100
+"Jamaica","2024",100
+"Japan","2000",99
+"Japan","2001",99
+"Japan","2002",99
+"Japan","2003",99
+"Japan","2004",99
+"Japan","2005",99
+"Japan","2006",99.7
+"Japan","2007",99.77
+"Japan","2008",99.88
+"Japan","2009",99.9
+"Japan","2010",99.9
+"Japan","2011",99.9
+"Japan","2012",99.9
+"Japan","2013",99.9
+"Japan","2014",99.9
+"Japan","2015",99.9
+"Japan","2016",99.9
+"Japan","2017",99.9
+"Japan","2018",99.9
+"Japan","2019",99.9
+"Japan","2020",99.9
+"Japan","2021",99.9
+"Japan","2022",99.9
+"Japan","2023",99.9
+"Jersey","2022",99
+"Jordan","2000",99
+"Jordan","2001",99
+"Jordan","2002",99
+"Jordan","2003",99
+"Jordan","2004",99
+"Jordan","2005",99
+"Jordan","2006",99
+"Jordan","2007",99
+"Jordan","2008",99
+"Jordan","2009",99
+"Jordan","2010",99
+"Jordan","2011",99
+"Jordan","2012",99
+"Jordan","2013",99
+"Jordan","2014",99
+"Jordan","2015",99
+"Jordan","2016",99
+"Jordan","2017",99.98
+"Jordan","2018",99.98
+"Jordan","2019",100
+"Jordan","2020",99.8
+"Jordan","2021",99.8
+"Jordan","2022",99.8
+"Jordan","2023",99.5
+"Jordan","2024",99.9
+"Kazakhstan","2001",94
+"Kazakhstan","2006",51
+"Kazakhstan","2007",81
+"Kazakhstan","2008",94
+"Kazakhstan","2010",95
+"Kazakhstan","2014",86.6
+"Kazakhstan","2015",96.6
+"Kazakhstan","2016",96.6
+"Kazakhstan","2017",96.6
+"Kazakhstan","2018",96.6
+"Kazakhstan","2019",98
+"Kazakhstan","2020",98
+"Kazakhstan","2021",98.2
+"Kazakhstan","2022",99
+"Kazakhstan","2023",98.2
+"Kazakhstan","2024",98.2
+"Kenya","2004",52
+"Kenya","2005",62
+"Kenya","2006",65
+"Kenya","2007",77
+"Kenya","2008",83
+"Kenya","2009",84.5
+"Kenya","2010",89
+"Kenya","2011",89.1
+"Kenya","2012",89.08
+"Kenya","2013",89.08
+"Kenya","2014",89.08
+"Kenya","2015",92
+"Kenya","2016",94.4
+"Kenya","2017",95.3
+"Kenya","2018",96
+"Kenya","2019",96.3
+"Kenya","2020",96.3
+"Kenya","2021",97
+"Kenya","2022",98
+"Kenya","2023",98
+"Kenya","2024",98
+"Kiribati","2015",70
+"Kiribati","2017",72
+"Kiribati","2018",72
+"Kiribati","2019",72
+"Kiribati","2020",73.4
+"Kiribati","2021",74
+"Kiribati","2022",74
+"Kiribati","2023",76
+"Kiribati","2024",77
+"Kosovo","2022",95
+"Kuwait","2000",100
+"Kuwait","2001",100
+"Kuwait","2002",100
+"Kuwait","2003",100
+"Kuwait","2004",100
+"Kuwait","2005",100
+"Kuwait","2006",100
+"Kuwait","2007",100
+"Kuwait","2008",100
+"Kuwait","2009",100
+"Kuwait","2010",100
+"Kuwait","2015",99.06
+"Kuwait","2016",100
+"Kuwait","2017",100
+"Kuwait","2018",100
+"Kuwait","2019",100
+"Kuwait","2020",100
+"Kuwait","2021",100
+"Kuwait","2022",100
+"Kuwait","2023",100
+"Kyrgyzstan","2004",5.2
+"Kyrgyzstan","2006",24.3
+"Kyrgyzstan","2007",41.5
+"Kyrgyzstan","2008",64.33
+"Kyrgyzstan","2009",82.8
+"Kyrgyzstan","2010",96
+"Kyrgyzstan","2011",97
+"Kyrgyzstan","2012",97.5
+"Kyrgyzstan","2013",97.6
+"Kyrgyzstan","2014",97.7
+"Kyrgyzstan","2015",97.8
+"Kyrgyzstan","2016",99
+"Kyrgyzstan","2017",99.05
+"Kyrgyzstan","2018",99.2
+"Kyrgyzstan","2019",99.3
+"Kyrgyzstan","2020",99.3
+"Kyrgyzstan","2021",98
+"Kyrgyzstan","2022",98.8
+"Kyrgyzstan","2023",99.6
+"Kyrgyzstan","2024",99.6
+"Lao People's Democratic Republic","2005",55
+"Lao People's Democratic Republic","2007",65
+"Lao People's Democratic Republic","2008",70
+"Lao People's Democratic Republic","2009",80
+"Lao People's Democratic Republic","2010",59
+"Lao People's Democratic Republic","2011",64
+"Lao People's Democratic Republic","2012",72
+"Lao People's Democratic Republic","2013",96
+"Lao People's Democratic Republic","2014",96
+"Lao People's Democratic Republic","2015",98
+"Lao People's Democratic Republic","2016",98
+"Lao People's Democratic Republic","2017",94
+"Lao People's Democratic Republic","2018",94
+"Lao People's Democratic Republic","2019",95
+"Lao People's Democratic Republic","2020",95
+"Lao People's Democratic Republic","2021",95
+"Lao People's Democratic Republic","2022",98.27
+"Lao People's Democratic Republic","2023",97
+"Latin America and the Caribbean","2015",93.32
+"Latin America and the Caribbean","2016",93.68
+"Latin America and the Caribbean","2017",94.56
+"Latin America and the Caribbean","2018",94.68
+"Latin America and the Caribbean","2019",93.85
+"Latin America and the Caribbean","2020",93.53
+"Latin America and the Caribbean","2021",93.68
+"Latin America and the Caribbean","2022",94.53
+"Latin America and the Caribbean","2023",95.25
+"Latin America and the Caribbean","2024",95.57
+"Latvia","2000",89
+"Latvia","2001",92
+"Latvia","2002",96.9
+"Latvia","2003",97.2
+"Latvia","2004",98.1
+"Latvia","2005",98.4
+"Latvia","2006",98
+"Latvia","2007",98.8
+"Latvia","2008",98.8
+"Latvia","2009",98.8
+"Latvia","2010",98.8
+"Latvia","2011",98.8
+"Latvia","2012",98.8
+"Latvia","2013",98.8
+"Latvia","2015",99
+"Latvia","2016",99
+"Latvia","2017",99
+"Latvia","2019",99
+"Latvia","2020",99
+"Latvia","2021",99
+"Latvia","2022",99
+"Latvia","2023",99
+"Latvia","2024",99
+"Lebanon","2004",99
+"Lebanon","2005",100
+"Lebanon","2006",100
+"Lebanon","2009",95
+"Lebanon","2010",99.11
+"Lebanon","2011",99.11
+"Lebanon","2012",99.11
+"Lebanon","2015",99.5
+"Lebanon","2016",99.29
+"Lebanon","2017",99.3
+"Lebanon","2018",99.5
+"Lebanon","2019",99.61
+"Lebanon","2020",99.61
+"Lebanon","2021",99.61
+"Lebanon","2022",99.68
+"Lesotho","2002",21
+"Lesotho","2003",22
+"Lesotho","2004",22.5
+"Lesotho","2005",29
+"Lesotho","2006",55
+"Lesotho","2011",75
+"Lesotho","2012",81
+"Lesotho","2014",92.66
+"Lesotho","2015",97
+"Lesotho","2016",97.6
+"Lesotho","2017",98.63
+"Lesotho","2018",98
+"Lesotho","2019",98
+"Lesotho","2020",98
+"Lesotho","2021",95
+"Lesotho","2022",95.8
+"Lesotho","2023",95.8
+"Lesotho","2024",95.8
+"Liberia","2003",16.35
+"Liberia","2011",55
+"Liberia","2012",60
+"Liberia","2013",60
+"Liberia","2015",76
+"Liberia","2016",76
+"Liberia","2017",76
+"Liberia","2019",76
+"Liberia","2020",76
+"Liberia","2021",76
+"Liberia","2022",78.1
+"Liberia","2023",85.4
+"Libya","2006",70.7
+"Libya","2009",98
+"Libya","2013",98
+"Libya","2015",50
+"Libya","2016",78.08
+"Libya","2017",78.08
+"Libya","2019",78
+"Libya","2020",78
+"Libya","2021",78
+"Libya","2022",98
+"Liechtenstein","2001",90
+"Liechtenstein","2002",90
+"Liechtenstein","2003",91
+"Liechtenstein","2004",92
+"Liechtenstein","2005",94
+"Liechtenstein","2006",95
+"Liechtenstein","2007",95
+"Liechtenstein","2012",100
+"Liechtenstein","2013",100
+"Liechtenstein","2014",100
+"Liechtenstein","2015",100
+"Liechtenstein","2016",100
+"Liechtenstein","2017",100
+"Liechtenstein","2018",100
+"Liechtenstein","2019",100
+"Liechtenstein","2020",100
+"Liechtenstein","2021",100
+"Liechtenstein","2022",100
+"Liechtenstein","2023",100
+"Liechtenstein","2024",100
+"Lithuania","2000",100
+"Lithuania","2001",100
+"Lithuania","2002",100
+"Lithuania","2003",100
+"Lithuania","2004",100
+"Lithuania","2005",100
+"Lithuania","2006",100
+"Lithuania","2007",100
+"Lithuania","2008",100
+"Lithuania","2009",100
+"Lithuania","2010",98
+"Lithuania","2011",100
+"Lithuania","2012",100
+"Lithuania","2013",100
+"Lithuania","2014",100
+"Lithuania","2015",100
+"Lithuania","2016",100
+"Lithuania","2017",100
+"Lithuania","2018",100
+"Lithuania","2019",100
+"Lithuania","2020",100
+"Lithuania","2021",100
+"Lithuania","2022",100
+"Lithuania","2023",100
+"Lithuania","2024",100
+"Luxembourg","2000",98
+"Luxembourg","2001",98
+"Luxembourg","2002",98
+"Luxembourg","2003",98
+"Luxembourg","2004",98
+"Luxembourg","2005",98.5
+"Luxembourg","2006",99
+"Luxembourg","2007",99
+"Luxembourg","2008",99.9
+"Luxembourg","2009",99.9
+"Luxembourg","2010",99.9
+"Luxembourg","2014",99
+"Luxembourg","2015",99
+"Luxembourg","2016",99
+"Luxembourg","2017",99
+"Luxembourg","2018",99
+"Luxembourg","2019",99
+"Luxembourg","2020",99
+"Luxembourg","2021",99
+"Luxembourg","2022",100
+"Luxembourg","2023",100
+"Madagascar","2000",21
+"Madagascar","2001",22
+"Madagascar","2002",22
+"Madagascar","2003",23
+"Madagascar","2004",23
+"Madagascar","2005",23
+"Madagascar","2006",23
+"Madagascar","2013",92.16
+"Madagascar","2015",74.99
+"Madagascar","2016",78.01
+"Madagascar","2017",79.02
+"Madagascar","2018",80
+"Madagascar","2019",80
+"Madagascar","2020",80
+"Madagascar","2021",88
+"Madagascar","2022",88.2
+"Madagascar","2023",88.54
+"Malawi","2002",20
+"Malawi","2003",28
+"Malawi","2004",49
+"Malawi","2005",70
+"Malawi","2009",80
+"Malawi","2010",85
+"Malawi","2011",85
+"Malawi","2012",85
+"Malawi","2015",95
+"Malawi","2016",96
+"Malawi","2017",82
+"Malawi","2018",84
+"Malawi","2019",88
+"Malawi","2020",86
+"Malawi","2021",86.3
+"Malawi","2022",87.9
+"Malawi","2023",89.13
+"Malawi","2024",90
+"Malaysia","2001",95
+"Malaysia","2007",92.5
+"Malaysia","2008",92
+"Malaysia","2009",95
+"Malaysia","2010",95
+"Malaysia","2011",95
+"Malaysia","2012",95.2
+"Malaysia","2013",95.2
+"Malaysia","2014",95.4
+"Malaysia","2015",96
+"Malaysia","2016",96
+"Malaysia","2017",95.8
+"Malaysia","2018",94.8
+"Malaysia","2019",96.7
+"Malaysia","2020",96.7
+"Malaysia","2021",98.5
+"Malaysia","2022",98.6
+"Malaysia","2023",98.6
+"Malaysia","2024",98.6
+"Maldives","2000",40
+"Maldives","2001",40
+"Maldives","2002",54
+"Maldives","2003",71
+"Maldives","2004",81
+"Maldives","2005",90.7
+"Maldives","2007",100
+"Maldives","2008",100
+"Maldives","2009",100
+"Maldives","2010",100
+"Maldives","2011",100
+"Maldives","2012",100
+"Maldives","2013",100
+"Maldives","2015",100
+"Maldives","2016",100
+"Maldives","2017",100
+"Maldives","2018",100
+"Maldives","2019",100
+"Maldives","2020",100
+"Maldives","2021",100
+"Maldives","2022",100
+"Maldives","2023",100
+"Maldives","2024",100
+"Mali","2000",15.39
+"Mali","2006",20
+"Mali","2015",85
+"Mali","2017",81
+"Mali","2018",100
+"Mali","2019",100
+"Mali","2020",100
+"Mali","2021",100
+"Mali","2022",100
+"Mali","2023",100
+"Malta","2000",99
+"Malta","2001",99
+"Malta","2002",99
+"Malta","2003",99
+"Malta","2004",99
+"Malta","2005",99
+"Malta","2006",100
+"Malta","2007",100
+"Malta","2008",100
+"Malta","2009",100
+"Malta","2010",100
+"Malta","2011",100
+"Malta","2012",100
+"Malta","2013",100
+"Malta","2014",100
+"Malta","2015",100
+"Malta","2016",100
+"Malta","2017",100
+"Malta","2018",100
+"Malta","2019",100
+"Malta","2020",100
+"Malta","2021",100
+"Malta","2022",100
+"Malta","2023",100
+"Malta","2024",100
+"Marshall Islands","2015",65
+"Marshall Islands","2016",65
+"Marshall Islands","2017",65
+"Marshall Islands","2019",65
+"Marshall Islands","2020",65
+"Marshall Islands","2021",65
+"Marshall Islands","2022",65
+"Martinique","2004",98
+"Martinique","2005",99
+"Martinique","2006",99
+"Mauritania","2005",26
+"Mauritania","2006",36
+"Mauritania","2007",51
+"Mauritania","2008",62
+"Mauritania","2014",90
+"Mauritania","2015",90
+"Mauritania","2016",90
+"Mauritania","2017",95
+"Mauritania","2018",96
+"Mauritania","2019",96.3
+"Mauritania","2020",96.5
+"Mauritania","2021",96.6
+"Mauritania","2022",97.7
+"Mauritania","2023",97
+"Mauritius","2000",99.7
+"Mauritius","2001",99.8
+"Mauritius","2002",99.8
+"Mauritius","2003",95
+"Mauritius","2004",96
+"Mauritius","2005",99.8
+"Mauritius","2006",99.8
+"Mauritius","2007",99
+"Mauritius","2008",99
+"Mauritius","2009",99
+"Mauritius","2010",99
+"Mauritius","2011",99
+"Mauritius","2012",99
+"Mauritius","2013",99
+"Mauritius","2014",99
+"Mauritius","2015",99
+"Mauritius","2016",99
+"Mauritius","2017",99
+"Mauritius","2018",99
+"Mauritius","2019",99
+"Mauritius","2020",99
+"Mauritius","2021",99
+"Mauritius","2022",99
+"Mauritius","2023",99
+"Mauritius","2024",99
+"Mayotte","2022",66.39
+"Mexico","2000",85.5
+"Mexico","2001",99.3
+"Mexico","2002",99.9
+"Mexico","2003",99.9
+"Mexico","2004",99.9
+"Mexico","2005",99.9
+"Mexico","2006",99.9
+"Mexico","2007",99.9
+"Mexico","2008",99.9
+"Mexico","2009",99.9
+"Mexico","2010",99.9
+"Mexico","2011",99.9
+"Mexico","2012",99.9
+"Mexico","2013",99.9
+"Mexico","2015",93
+"Mexico","2016",93
+"Mexico","2018",92.68
+"Mexico","2019",95.83
+"Mexico","2020",96.02
+"Mexico","2021",96.57
+"Mexico","2022",96.39
+"Mexico","2023",98.05
+"Mexico","2024",98.42
+"Micronesia (Federated States of)","2000",0
+"Micronesia (Federated States of)","2015",80
+"Micronesia (Federated States of)","2016",80
+"Micronesia (Federated States of)","2017",80
+"Micronesia (Federated States of)","2019",80
+"Micronesia (Federated States of)","2020",80
+"Micronesia (Federated States of)","2021",80
+"Micronesia (Federated States of)","2022",80
+"Middle Africa","2015",68.33
+"Middle Africa","2016",66.86
+"Middle Africa","2017",67.14
+"Middle Africa","2018",66.32
+"Middle Africa","2019",68.21
+"Middle Africa","2020",75.33
+"Middle Africa","2021",77.89
+"Middle Africa","2022",79.25
+"Middle Africa","2023",80.6
+"Middle Africa","2024",82.09
+"Monaco","2005",100
+"Monaco","2006",100
+"Monaco","2007",100
+"Monaco","2008",100
+"Monaco","2009",100
+"Monaco","2010",100
+"Monaco","2011",100
+"Monaco","2012",100
+"Monaco","2013",100
+"Monaco","2014",100
+"Monaco","2015",100
+"Monaco","2016",100
+"Monaco","2017",100
+"Monaco","2018",100
+"Monaco","2019",100
+"Monaco","2020",100
+"Monaco","2021",100
+"Monaco","2022",100
+"Monaco","2023",100
+"Monaco","2024",100
+"Mongolia","2000",58
+"Mongolia","2001",60
+"Mongolia","2002",64
+"Mongolia","2004",18
+"Mongolia","2005",29
+"Mongolia","2006",41
+"Mongolia","2007",45.33
+"Mongolia","2008",65.7
+"Mongolia","2009",82.18
+"Mongolia","2010",85
+"Mongolia","2011",87.9
+"Mongolia","2012",91.3
+"Mongolia","2015",99
+"Mongolia","2016",99
+"Mongolia","2017",99
+"Mongolia","2018",100
+"Mongolia","2019",100
+"Mongolia","2020",100
+"Mongolia","2021",100
+"Mongolia","2022",100
+"Mongolia","2023",100
+"Mongolia","2024",100
+"Montenegro","2004",95.1
+"Montenegro","2005",99
+"Montenegro","2006",99
+"Montenegro","2007",99
+"Montenegro","2008",99
+"Montenegro","2009",100
+"Montenegro","2010",100
+"Montenegro","2014",99.5
+"Montenegro","2015",99.5
+"Montenegro","2016",99.5
+"Montenegro","2017",99.5
+"Montenegro","2018",99.58
+"Montenegro","2019",98.52
+"Montenegro","2020",98.34
+"Montenegro","2021",98.41
+"Montenegro","2022",98.41
+"Montenegro","2023",98.46
+"Montenegro","2024",98.56
+"Montserrat","2006",66
+"Montserrat","2007",98
+"Morocco","2000",95
+"Morocco","2001",95
+"Morocco","2002",95
+"Morocco","2003",95
+"Morocco","2004",96
+"Morocco","2005",97.5
+"Morocco","2006",98
+"Morocco","2008",98
+"Morocco","2009",98
+"Morocco","2010",98.4
+"Morocco","2011",99
+"Morocco","2012",99
+"Morocco","2013",99
+"Morocco","2014",99.2
+"Morocco","2015",99.2
+"Morocco","2016",99.6
+"Morocco","2017",99.6
+"Morocco","2018",99.7
+"Morocco","2019",99.7
+"Morocco","2020",99.75
+"Morocco","2021",99.75
+"Morocco","2022",99.8
+"Morocco","2023",99.85
+"Morocco","2024",99.5
+"Mozambique","2014",72
+"Mozambique","2015",78
+"Mozambique","2016",80
+"Mozambique","2017",80
+"Mozambique","2018",85
+"Mozambique","2019",85
+"Mozambique","2020",85
+"Mozambique","2021",85
+"Mozambique","2022",87
+"Mozambique","2023",88
+"Mozambique","2024",88
+"Myanmar","2006",10
+"Myanmar","2014",73
+"Myanmar","2015",95
+"Myanmar","2016",94.83
+"Myanmar","2017",90.45
+"Myanmar","2018",95.15
+"Myanmar","2019",96.3
+"Myanmar","2020",96.7
+"Myanmar","2021",96.34
+"Myanmar","2022",96
+"Myanmar","2023",96.38
+"Namibia","2001",85
+"Namibia","2004",88
+"Namibia","2005",88
+"Namibia","2006",90
+"Namibia","2007",95
+"Namibia","2009",78
+"Namibia","2010",92
+"Namibia","2011",100
+"Namibia","2012",100
+"Namibia","2013",100
+"Namibia","2014",100
+"Namibia","2015",100
+"Namibia","2016",100
+"Namibia","2017",100
+"Namibia","2018",100
+"Namibia","2019",100
+"Namibia","2020",100
+"Namibia","2021",100
+"Namibia","2022",100
+"Namibia","2023",100
+"Namibia","2024",100
+"Nauru","2010",98
+"Nauru","2011",98
+"Nauru","2012",98
+"Nauru","2015",98
+"Nauru","2016",98
+"Nauru","2017",98
+"Nauru","2019",98
+"Nauru","2020",98
+"Nauru","2021",98
+"Nauru","2022",98
+"Nepal","2006",10
+"Nepal","2010",35.13
+"Nepal","2013",80.62
+"Nepal","2014",80
+"Nepal","2015",82
+"Nepal","2016",91.97
+"Nepal","2017",92.47
+"Nepal","2019",92.47
+"Nepal","2020",93
+"Nepal","2021",93
+"Nepal","2022",98.26
+"Nepal","2023",100
+"Nepal","2024",100
+"Netherlands (Kingdom of the)","2000",99.5
+"Netherlands (Kingdom of the)","2001",99.5
+"Netherlands (Kingdom of the)","2002",99.5
+"Netherlands (Kingdom of the)","2003",99.5
+"Netherlands (Kingdom of the)","2004",99.5
+"Netherlands (Kingdom of the)","2005",99.9
+"Netherlands (Kingdom of the)","2006",98
+"Netherlands (Kingdom of the)","2007",98
+"Netherlands (Kingdom of the)","2008",98
+"Netherlands (Kingdom of the)","2010",100
+"Netherlands (Kingdom of the)","2011",100
+"Netherlands (Kingdom of the)","2012",100
+"Netherlands (Kingdom of the)","2014",100
+"Netherlands (Kingdom of the)","2015",100
+"Netherlands (Kingdom of the)","2016",100
+"Netherlands (Kingdom of the)","2017",100
+"Netherlands (Kingdom of the)","2018",100
+"Netherlands (Kingdom of the)","2019",100
+"Netherlands (Kingdom of the)","2020",100
+"Netherlands (Kingdom of the)","2021",100
+"Netherlands (Kingdom of the)","2022",99
+"Netherlands (Kingdom of the)","2023",99
+"Netherlands (Kingdom of the)","2024",99
+"New Caledonia","2002",75
+"New Caledonia","2003",75
+"New Caledonia","2004",75
+"New Caledonia","2005",75
+"New Caledonia","2006",75
+"New Caledonia","2007",75
+"New Caledonia","2008",83
+"New Caledonia","2009",89
+"New Caledonia","2015",97.4
+"New Caledonia","2021",97.4
+"New Caledonia","2022",97.4
+"New Zealand","2000",97
+"New Zealand","2001",97
+"New Zealand","2002",97
+"New Zealand","2003",98
+"New Zealand","2004",98
+"New Zealand","2005",98
+"New Zealand","2006",98
+"New Zealand","2007",97
+"New Zealand","2008",97
+"New Zealand","2009",97
+"New Zealand","2010",97
+"New Zealand","2011",97
+"New Zealand","2012",97
+"New Zealand","2014",97
+"New Zealand","2015",98
+"New Zealand","2016",98
+"New Zealand","2017",98
+"New Zealand","2018",98
+"New Zealand","2019",98
+"New Zealand","2020",98.5
+"New Zealand","2021",98.25
+"New Zealand","2022",98.54
+"New Zealand","2023",98.63
+"New Zealand","2024",98.63
+"Nicaragua","2004",60
+"Nicaragua","2005",70
+"Nicaragua","2009",100
+"Nicaragua","2015",66.38
+"Nicaragua","2016",67.79
+"Nicaragua","2017",69.19
+"Nicaragua","2018",70.6
+"Nicaragua","2019",72
+"Nicaragua","2020",72
+"Nicaragua","2021",73
+"Nicaragua","2022",85
+"Nicaragua","2023",79.37
+"Nicaragua","2024",87.7
+"Niger","2002",13
+"Niger","2003",14
+"Niger","2004",14
+"Niger","2005",15
+"Niger","2006",45
+"Niger","2011",75
+"Niger","2015",80
+"Niger","2016",89
+"Niger","2017",92
+"Niger","2019",92
+"Niger","2020",92
+"Niger","2021",92
+"Niger","2022",92
+"Niger","2024",87
+"Nigeria","2002",38
+"Nigeria","2003",45
+"Nigeria","2004",55
+"Nigeria","2005",58
+"Nigeria","2006",60
+"Nigeria","2008",83
+"Nigeria","2009",90
+"Nigeria","2010",90
+"Nigeria","2011",68.49
+"Nigeria","2012",80.85
+"Nigeria","2013",91.15
+"Nigeria","2014",99.39
+"Nigeria","2015",92.1
+"Nigeria","2016",92.7
+"Nigeria","2017",92.7
+"Nigeria","2018",94.33
+"Nigeria","2019",89.8
+"Nigeria","2020",90.8
+"Nigeria","2021",92.9
+"Nigeria","2022",93.9
+"Nigeria","2023",94.14
+"Nigeria","2024",95.31
+"North Macedonia","2000",90
+"North Macedonia","2004",98
+"North Macedonia","2005",99
+"North Macedonia","2006",99.8
+"North Macedonia","2007",99.9
+"North Macedonia","2010",99.9
+"North Macedonia","2015",99.7
+"North Macedonia","2016",99.7
+"North Macedonia","2017",99.7
+"North Macedonia","2018",99.88
+"North Macedonia","2019",99.88
+"North Macedonia","2020",99.88
+"North Macedonia","2021",99.88
+"North Macedonia","2022",99.88
+"North Macedonia","2023",99.93
+"North Macedonia","2024",99.94
+"Northern Africa","2015",96.38
+"Northern Africa","2016",97.05
+"Northern Africa","2017",97.03
+"Northern Africa","2018",97.09
+"Northern Africa","2019",97.36
+"Northern Africa","2020",97.4
+"Northern Africa","2021",97.16
+"Northern Africa","2022",97.98
+"Northern Africa","2023",98.34
+"Northern Africa","2024",98.36
+"Northern Africa and Western Asia","2015",95.94
+"Northern Africa and Western Asia","2016",96.85
+"Northern Africa and Western Asia","2017",97.23
+"Northern Africa and Western Asia","2018",97.36
+"Northern Africa and Western Asia","2019",97.47
+"Northern Africa and Western Asia","2020",97.7
+"Northern Africa and Western Asia","2021",97.93
+"Northern Africa and Western Asia","2022",98.18
+"Northern Africa and Western Asia","2023",98.25
+"Northern Africa and Western Asia","2024",98.43
+"Northern America","2015",99.84
+"Northern America","2016",99.85
+"Northern America","2017",99.85
+"Northern America","2018",99.86
+"Northern America","2019",99.88
+"Northern America","2020",99.88
+"Northern America","2021",99.86
+"Northern America","2022",99.61
+"Northern America","2023",99.07
+"Northern America","2024",99.07
+"Northern Europe","2020",99.87
+"Northern Europe","2021",99.86
+"Northern Europe","2022",99.86
+"Northern Europe","2023",99.91
+"Northern Europe","2024",99.91
+"Northern Mariana Islands","2022",34.78
+"Norway","2000",96
+"Norway","2001",97
+"Norway","2011",100
+"Norway","2012",100
+"Norway","2013",100
+"Norway","2014",100
+"Norway","2015",100
+"Norway","2016",99.2
+"Norway","2017",99.8
+"Norway","2018",99.9
+"Norway","2019",99.9
+"Norway","2020",99.9
+"Norway","2021",99.9
+"Norway","2022",99.9
+"Norway","2023",100
+"Norway","2024",100
+"Oceania","2015",96.05
+"Oceania","2016",96.46
+"Oceania","2017",96.56
+"Oceania","2018",96.65
+"Oceania","2019",96.61
+"Oceania","2020",96.53
+"Oceania","2021",96.49
+"Oceania","2022",96.54
+"Oceania","2023",96.54
+"Oceania","2024",95.44
+"Oceania (exc. Australia and New Zealand)","2015",89.29
+"Oceania (exc. Australia and New Zealand)","2016",90.1
+"Oceania (exc. Australia and New Zealand)","2017",90.28
+"Oceania (exc. Australia and New Zealand)","2018",90.5
+"Oceania (exc. Australia and New Zealand)","2019",90.28
+"Oceania (exc. Australia and New Zealand)","2020",90.01
+"Oceania (exc. Australia and New Zealand)","2021",90.02
+"Oceania (exc. Australia and New Zealand)","2022",90.13
+"Oceania (exc. Australia and New Zealand)","2023",89.96
+"Oceania (exc. Australia and New Zealand)","2024",86.23
+"Oman","2001",90.6
+"Oman","2004",85
+"Oman","2005",91.8
+"Oman","2006",96
+"Oman","2007",96
+"Oman","2008",96.4
+"Oman","2009",96.5
+"Oman","2010",97.6
+"Oman","2011",97.6
+"Oman","2012",97.6
+"Oman","2013",98
+"Oman","2014",99
+"Oman","2015",99
+"Oman","2016",99.01
+"Oman","2017",99.1
+"Oman","2018",99.3
+"Oman","2019",99.3
+"Oman","2020",99.38
+"Oman","2021",100
+"Oman","2022",100
+"Oman","2023",100
+"Oman","2024",100
+"Other non-specified areas in Eastern Asia","2000",100
+"Other non-specified areas in Eastern Asia","2001",100
+"Other non-specified areas in Eastern Asia","2002",100
+"Other non-specified areas in Eastern Asia","2003",100
+"Other non-specified areas in Eastern Asia","2004",100
+"Other non-specified areas in Eastern Asia","2005",100
+"Other non-specified areas in Eastern Asia","2006",100
+"Other non-specified areas in Eastern Asia","2007",100
+"Other non-specified areas in Eastern Asia","2008",100
+"Other non-specified areas in Eastern Asia","2009",100
+"Other non-specified areas in Eastern Asia","2010",100
+"Other non-specified areas in Eastern Asia","2011",100
+"Other non-specified areas in Eastern Asia","2012",100
+"Other non-specified areas in Eastern Asia","2013",100
+"Other non-specified areas in Eastern Asia","2014",100
+"Other non-specified areas in Eastern Asia","2015",100
+"Other non-specified areas in Eastern Asia","2016",100
+"Other non-specified areas in Eastern Asia","2017",100
+"Other non-specified areas in Eastern Asia","2018",100
+"Other non-specified areas in Eastern Asia","2019",100
+"Other non-specified areas in Eastern Asia","2020",100
+"Other non-specified areas in Eastern Asia","2021",100
+"Other non-specified areas in Eastern Asia","2022",100
+"Other non-specified areas in Eastern Asia","2023",100
+"Other non-specified areas in Eastern Asia","2024",100
+"Pakistan","2001",27.1
+"Pakistan","2005",35.8
+"Pakistan","2006",36
+"Pakistan","2012",75
+"Pakistan","2013",78
+"Pakistan","2014",81.5
+"Pakistan","2015",86
+"Pakistan","2016",87
+"Pakistan","2017",88
+"Pakistan","2018",88.7
+"Pakistan","2019",88.8
+"Pakistan","2020",88.82
+"Pakistan","2021",88.8
+"Pakistan","2022",89.4
+"Pakistan","2023",91
+"Pakistan","2024",92
+"Palau","2005",30
+"Palau","2006",95
+"Palau","2007",95
+"Palau","2008",95
+"Palau","2009",95
+"Palau","2010",95
+"Palau","2011",98
+"Palau","2012",98
+"Palau","2013",98
+"Palau","2014",98
+"Palau","2015",98
+"Palau","2021",98
+"Palau","2022",98
+"Panama","2000",73.8
+"Panama","2001",77
+"Panama","2002",78.6
+"Panama","2003",78.6
+"Panama","2004",86.8
+"Panama","2005",75.2
+"Panama","2006",77.3
+"Panama","2007",81.2
+"Panama","2008",83.15
+"Panama","2009",88.3
+"Panama","2010",90.7
+"Panama","2011",95.7
+"Panama","2012",96
+"Panama","2013",96
+"Panama","2014",96
+"Panama","2015",96
+"Panama","2016",96
+"Panama","2017",96
+"Panama","2018",96
+"Panama","2019",96
+"Panama","2020",96
+"Panama","2021",96
+"Panama","2022",96
+"Panama","2023",96
+"Papua New Guinea","2015",89
+"Papua New Guinea","2016",89
+"Papua New Guinea","2017",89
+"Papua New Guinea","2019",89
+"Papua New Guinea","2020",89
+"Papua New Guinea","2021",89
+"Papua New Guinea","2022",89
+"Papua New Guinea","2024",84
+"Paraguay","2010",94
+"Paraguay","2013",99.7
+"Paraguay","2015",95.36
+"Paraguay","2016",96.8
+"Paraguay","2017",98.24
+"Paraguay","2018",98.8
+"Paraguay","2019",98.97
+"Paraguay","2020",99.35
+"Paraguay","2021",99.48
+"Paraguay","2022",99.58
+"Paraguay","2023",99.83
+"Peru","2006",87
+"Peru","2007",92
+"Peru","2008",94.8
+"Peru","2009",84.31
+"Peru","2010",97.13
+"Peru","2011",97.89
+"Peru","2012",96.97
+"Peru","2013",99.95
+"Peru","2014",100
+"Peru","2015",74.86
+"Peru","2016",74.86
+"Peru","2017",82.89
+"Peru","2018",90.89
+"Peru","2019",90.89
+"Peru","2020",88.34
+"Peru","2021",88.97
+"Peru","2022",88.99
+"Peru","2023",88.73
+"Peru","2024",95.8
+"Philippines","2000",70
+"Philippines","2001",70
+"Philippines","2003",75
+"Philippines","2004",92
+"Philippines","2005",99
+"Philippines","2006",99
+"Philippines","2007",99
+"Philippines","2008",99
+"Philippines","2009",99
+"Philippines","2010",99
+"Philippines","2011",99
+"Philippines","2012",99
+"Philippines","2013",99
+"Philippines","2014",99
+"Philippines","2015",99
+"Philippines","2016",99
+"Philippines","2017",99
+"Philippines","2018",99
+"Philippines","2019",99
+"Philippines","2020",99
+"Philippines","2021",99
+"Philippines","2022",99
+"Philippines","2023",99
+"Philippines","2024",99
+"Poland","2000",95
+"Poland","2003",99
+"Poland","2004",99
+"Poland","2005",99
+"Poland","2006",99
+"Poland","2007",99
+"Poland","2008",99
+"Poland","2009",99
+"Poland","2010",99
+"Poland","2011",99.54
+"Poland","2012",99.54
+"Poland","2013",99.54
+"Poland","2014",99.9
+"Poland","2015",100
+"Poland","2016",100
+"Poland","2017",100
+"Poland","2018",100
+"Poland","2019",100
+"Poland","2020",100
+"Poland","2021",100
+"Poland","2022",100
+"Poland","2023",100
+"Poland","2024",100
+"Portugal","2000",99
+"Portugal","2001",99
+"Portugal","2002",99
+"Portugal","2003",99
+"Portugal","2004",99
+"Portugal","2005",99
+"Portugal","2006",99
+"Portugal","2007",99
+"Portugal","2008",99
+"Portugal","2009",99
+"Portugal","2010",99
+"Portugal","2011",99
+"Portugal","2012",99
+"Portugal","2013",99
+"Portugal","2014",99
+"Portugal","2015",99.8
+"Portugal","2016",99.8
+"Portugal","2017",99.88
+"Portugal","2018",99.88
+"Portugal","2019",99.88
+"Portugal","2020",99.9
+"Portugal","2021",99.9
+"Portugal","2022",100
+"Portugal","2023",100
+"Portugal","2024",100
+"Puerto Rico","2007",61.7
+"Puerto Rico","2008",64.3
+"Puerto Rico","2009",68.4
+"Puerto Rico","2014",99
+"Puerto Rico","2015",99
+"Puerto Rico","2016",95
+"Puerto Rico","2017",100
+"Puerto Rico","2018",100
+"Puerto Rico","2019",100
+"Puerto Rico","2020",100
+"Puerto Rico","2021",100
+"Puerto Rico","2022",100
+"Puerto Rico","2023",100
+"Puerto Rico","2024",100
+"Qatar","2000",95
+"Qatar","2001",95
+"Qatar","2002",95
+"Qatar","2003",95
+"Qatar","2004",95
+"Qatar","2005",99
+"Qatar","2006",100
+"Qatar","2007",99
+"Qatar","2008",100
+"Qatar","2009",100
+"Qatar","2010",100
+"Qatar","2011",100
+"Qatar","2012",100
+"Qatar","2013",100
+"Qatar","2014",100
+"Qatar","2015",100
+"Qatar","2016",100
+"Qatar","2017",100
+"Qatar","2018",100
+"Qatar","2019",100
+"Qatar","2020",100
+"Qatar","2021",100
+"Qatar","2022",100
+"Qatar","2023",100
+"Qatar","2024",100
+"Republic of Korea","2000",99
+"Republic of Korea","2001",99
+"Republic of Korea","2002",99
+"Republic of Korea","2003",99
+"Republic of Korea","2004",99
+"Republic of Korea","2005",79.65
+"Republic of Korea","2006",83.23
+"Republic of Korea","2007",89.77
+"Republic of Korea","2008",94.3
+"Republic of Korea","2009",99.9
+"Republic of Korea","2010",99.9
+"Republic of Korea","2011",99.9
+"Republic of Korea","2012",99.9
+"Republic of Korea","2013",99.9
+"Republic of Korea","2014",99.9
+"Republic of Korea","2015",99.9
+"Republic of Korea","2016",99.9
+"Republic of Korea","2017",99.9
+"Republic of Korea","2018",99.9
+"Republic of Korea","2019",99.9
+"Republic of Korea","2020",99.9
+"Republic of Korea","2021",99.9
+"Republic of Korea","2022",99.9
+"Republic of Korea","2023",99.9
+"Republic of Korea","2024",99.9
+"Republic of Moldova","2000",70
+"Republic of Moldova","2001",76
+"Republic of Moldova","2002",77.01
+"Republic of Moldova","2003",79.45
+"Republic of Moldova","2004",90
+"Republic of Moldova","2005",96.87
+"Republic of Moldova","2006",96.96
+"Republic of Moldova","2007",97.98
+"Republic of Moldova","2011",99
+"Republic of Moldova","2012",99
+"Republic of Moldova","2013",99
+"Republic of Moldova","2014",99
+"Republic of Moldova","2015",99
+"Republic of Moldova","2016",99
+"Republic of Moldova","2017",99.99
+"Republic of Moldova","2018",99.99
+"Republic of Moldova","2019",99.99
+"Republic of Moldova","2020",99.99
+"Republic of Moldova","2021",99.99
+"Republic of Moldova","2022",99.99
+"Republic of Moldova","2023",99.99
+"Republic of Moldova","2024",99.99
+"Romania","2000",97
+"Romania","2001",98
+"Romania","2002",98
+"Romania","2003",98
+"Romania","2006",97
+"Romania","2007",99
+"Romania","2008",99.5
+"Romania","2009",99.9
+"Romania","2010",99.9
+"Romania","2011",99.9
+"Romania","2012",99.9
+"Romania","2013",99.9
+"Romania","2014",99.9
+"Romania","2015",99.9
+"Romania","2016",99.99
+"Romania","2017",99.96
+"Romania","2018",99.96
+"Romania","2019",99.96
+"Romania","2020",99.98
+"Romania","2021",99.98
+"Romania","2022",99.98
+"Romania","2023",99.98
+"Romania","2024",99.77
+"Russian Federation","2015",89
+"Russian Federation","2016",90
+"Russian Federation","2017",91
+"Russian Federation","2018",91
+"Russian Federation","2019",98.9
+"Russian Federation","2020",98.94
+"Russian Federation","2021",99.4
+"Russian Federation","2022",99.2
+"Russian Federation","2023",99.4
+"Russian Federation","2024",99.4
+"Rwanda","2002",50
+"Rwanda","2004",70
+"Rwanda","2005",75
+"Rwanda","2006",80
+"Rwanda","2007",90
+"Rwanda","2008",92
+"Rwanda","2009",96
+"Rwanda","2010",96
+"Rwanda","2011",97.32
+"Rwanda","2012",98.42
+"Rwanda","2013",99.31
+"Rwanda","2014",99.9
+"Rwanda","2015",99.98
+"Rwanda","2016",99.92
+"Rwanda","2017",99.92
+"Rwanda","2018",99.92
+"Rwanda","2019",99.94
+"Rwanda","2020",99.94
+"Rwanda","2021",98.63
+"Rwanda","2022",98.76
+"Rwanda","2023",99.07
+"Rwanda","2024",99.84
+"Saint Helena","2002",0
+"Saint Helena","2003",0
+"Saint Helena","2004",0
+"Saint Helena","2005",0
+"Saint Helena","2006",0
+"Saint Helena","2015",98
+"Saint Helena","2016",98
+"Saint Helena","2017",98
+"Saint Helena","2019",98
+"Saint Helena","2020",98
+"Saint Helena","2021",98
+"Saint Helena","2022",98
+"Saint Kitts and Nevis","2014",100
+"Saint Kitts and Nevis","2015",100
+"Saint Kitts and Nevis","2016",100
+"Saint Kitts and Nevis","2017",100
+"Saint Kitts and Nevis","2019",100
+"Saint Kitts and Nevis","2020",100
+"Saint Kitts and Nevis","2021",100
+"Saint Kitts and Nevis","2022",100
+"Saint Lucia","2004",80
+"Saint Lucia","2005",80
+"Saint Lucia","2009",100
+"Saint Lucia","2015",81
+"Saint Lucia","2016",90
+"Saint Lucia","2018",98
+"Saint Lucia","2019",98
+"Saint Lucia","2020",98
+"Saint Lucia","2021",100
+"Saint Lucia","2022",100
+"Saint Vincent and the Grenadines","2001",55
+"Saint Vincent and the Grenadines","2002",75
+"Saint Vincent and the Grenadines","2003",95
+"Saint Vincent and the Grenadines","2004",100
+"Saint Vincent and the Grenadines","2005",100
+"Saint Vincent and the Grenadines","2006",100
+"Saint Vincent and the Grenadines","2007",100
+"Saint Vincent and the Grenadines","2008",100
+"Saint Vincent and the Grenadines","2009",100
+"Saint Vincent and the Grenadines","2010",100
+"Saint Vincent and the Grenadines","2011",100
+"Saint Vincent and the Grenadines","2012",100
+"Saint Vincent and the Grenadines","2013",100
+"Saint Vincent and the Grenadines","2014",100
+"Saint Vincent and the Grenadines","2015",100
+"Saint Vincent and the Grenadines","2016",100
+"Saint Vincent and the Grenadines","2017",100
+"Saint Vincent and the Grenadines","2018",100
+"Saint Vincent and the Grenadines","2019",100
+"Saint Vincent and the Grenadines","2020",100
+"Saint Vincent and the Grenadines","2021",100
+"Saint Vincent and the Grenadines","2022",100
+"Saint Vincent and the Grenadines","2023",100
+"Saint Vincent and the Grenadines","2024",100
+"Samoa","2015",97
+"Samoa","2016",96.75
+"Samoa","2017",97
+"Samoa","2019",97
+"Samoa","2020",97
+"Samoa","2021",97
+"Samoa","2022",99
+"San Marino","2008",98
+"San Marino","2009",98
+"San Marino","2010",98
+"San Marino","2015",98
+"San Marino","2016",99
+"San Marino","2017",98
+"San Marino","2018",98
+"San Marino","2019",99
+"San Marino","2020",99
+"San Marino","2021",99
+"San Marino","2022",99
+"Sao Tome and Principe","2005",8.3
+"Sao Tome and Principe","2006",12.5
+"Sao Tome and Principe","2007",19.5
+"Sao Tome and Principe","2008",70
+"Sao Tome and Principe","2009",80
+"Sao Tome and Principe","2010",57
+"Sao Tome and Principe","2011",64
+"Sao Tome and Principe","2012",70
+"Sao Tome and Principe","2015",79
+"Sao Tome and Principe","2016",92
+"Sao Tome and Principe","2017",93
+"Sao Tome and Principe","2018",93
+"Sao Tome and Principe","2019",94
+"Sao Tome and Principe","2020",94
+"Sao Tome and Principe","2021",94
+"Sao Tome and Principe","2022",96
+"Sao Tome and Principe","2023",97
+"Sao Tome and Principe","2024",97
+"Saudi Arabia","2001",92
+"Saudi Arabia","2004",92
+"Saudi Arabia","2005",96
+"Saudi Arabia","2006",96
+"Saudi Arabia","2007",98
+"Saudi Arabia","2008",98
+"Saudi Arabia","2009",98.65
+"Saudi Arabia","2010",99.1
+"Saudi Arabia","2011",99.33
+"Saudi Arabia","2012",99.42
+"Saudi Arabia","2013",99.72
+"Saudi Arabia","2014",99.42
+"Saudi Arabia","2015",99.42
+"Saudi Arabia","2016",99.42
+"Saudi Arabia","2017",99.42
+"Saudi Arabia","2018",99.42
+"Saudi Arabia","2019",99.99
+"Saudi Arabia","2020",99.99
+"Saudi Arabia","2021",99.99
+"Saudi Arabia","2022",100
+"Saudi Arabia","2023",100
+"Saudi Arabia","2024",100
+"Senegal","2003",85
+"Senegal","2004",85
+"Senegal","2005",85
+"Senegal","2006",83
+"Senegal","2007",85
+"Senegal","2008",86
+"Senegal","2009",87
+"Senegal","2010",90
+"Senegal","2011",90
+"Senegal","2012",91.1
+"Senegal","2013",91.6
+"Senegal","2014",91.6
+"Senegal","2015",92
+"Senegal","2016",97.4
+"Senegal","2017",97.7
+"Senegal","2018",97.9
+"Senegal","2019",98
+"Senegal","2020",99
+"Senegal","2021",99.4
+"Senegal","2022",99.4
+"Senegal","2023",99.5
+"Serbia","2004",95.1
+"Serbia","2005",95.5
+"Serbia","2006",97
+"Serbia","2010",96.95
+"Serbia","2011",97.38
+"Serbia","2012",99.7
+"Serbia","2013",99.71
+"Serbia","2014",99.75
+"Serbia","2015",99.75
+"Serbia","2016",99.76
+"Serbia","2017",99.76
+"Serbia","2018",99.77
+"Serbia","2019",99.16
+"Serbia","2020",99.19
+"Serbia","2021",99.73
+"Serbia","2022",99.75
+"Serbia","2023",99.77
+"Serbia","2024",99.78
+"Seychelles","2000",97
+"Seychelles","2003",90
+"Seychelles","2004",95
+"Seychelles","2005",98
+"Seychelles","2006",98
+"Seychelles","2007",98
+"Seychelles","2008",98
+"Seychelles","2009",98
+"Seychelles","2011",98
+"Seychelles","2012",98
+"Seychelles","2013",98
+"Seychelles","2014",98
+"Seychelles","2015",98
+"Seychelles","2016",98
+"Seychelles","2017",98
+"Seychelles","2018",99
+"Seychelles","2019",99
+"Seychelles","2020",99
+"Seychelles","2021",99
+"Seychelles","2022",99
+"Seychelles","2023",99
+"Seychelles","2024",99
+"Sierra Leone","2006",70
+"Sierra Leone","2015",90
+"Sierra Leone","2016",90
+"Sierra Leone","2017",90
+"Sierra Leone","2018",74
+"Sierra Leone","2019",80
+"Sierra Leone","2020",88.97
+"Sierra Leone","2021",93.2
+"Sierra Leone","2022",94.57
+"Sierra Leone","2023",96
+"Singapore","2000",100
+"Singapore","2001",100
+"Singapore","2002",100
+"Singapore","2003",100
+"Singapore","2004",100
+"Singapore","2005",100
+"Singapore","2006",100
+"Singapore","2007",99.83
+"Singapore","2008",99.42
+"Singapore","2009",100
+"Singapore","2010",100
+"Singapore","2011",99
+"Singapore","2012",99
+"Singapore","2013",99
+"Singapore","2014",100
+"Singapore","2015",100
+"Singapore","2016",100
+"Singapore","2017",100
+"Singapore","2018",100
+"Singapore","2019",100
+"Singapore","2020",100
+"Singapore","2021",100
+"Singapore","2022",100
+"Singapore","2023",100
+"Singapore","2024",100
+"Sint Maarten (Dutch part)","2022",91.01
+"Slovakia","2000",98
+"Slovakia","2001",98
+"Slovakia","2002",98
+"Slovakia","2003",99
+"Slovakia","2004",99
+"Slovakia","2005",99.5
+"Slovakia","2006",99.7
+"Slovakia","2007",99.8
+"Slovakia","2008",99.82
+"Slovakia","2009",99.84
+"Slovakia","2010",99.85
+"Slovakia","2011",100
+"Slovakia","2012",100
+"Slovakia","2013",100
+"Slovakia","2014",100
+"Slovakia","2015",100
+"Slovakia","2016",100
+"Slovakia","2017",100
+"Slovakia","2018",100
+"Slovakia","2019",100
+"Slovakia","2020",100
+"Slovakia","2021",100
+"Slovakia","2022",100
+"Slovakia","2023",100
+"Slovakia","2024",100
+"Slovenia","2000",97.8
+"Slovenia","2001",98.4
+"Slovenia","2002",99
+"Slovenia","2003",99
+"Slovenia","2004",99
+"Slovenia","2005",99.4
+"Slovenia","2006",99.6
+"Slovenia","2007",99.6
+"Slovenia","2008",99.6
+"Slovenia","2009",99.7
+"Slovenia","2010",99.7
+"Slovenia","2011",99.7
+"Slovenia","2012",99.7
+"Slovenia","2013",99.7
+"Slovenia","2014",99.7
+"Slovenia","2015",99.7
+"Slovenia","2016",99.7
+"Slovenia","2017",99.8
+"Slovenia","2018",99.8
+"Slovenia","2019",99.84
+"Slovenia","2020",99.92
+"Slovenia","2021",99.9
+"Slovenia","2022",99.8
+"Slovenia","2023",99.9
+"Slovenia","2024",99.9
+"Solomon Islands","2000",35
+"Solomon Islands","2015",91
+"Solomon Islands","2016",93
+"Solomon Islands","2017",94
+"Solomon Islands","2018",95
+"Solomon Islands","2019",95
+"Solomon Islands","2020",95
+"Solomon Islands","2021",95
+"Solomon Islands","2022",95
+"Somalia","2010",60
+"Somalia","2011",70
+"Somalia","2012",80
+"Somalia","2013",80
+"Somalia","2014",80
+"Somalia","2015",80
+"Somalia","2016",80
+"Somalia","2017",80
+"Somalia","2018",80
+"Somalia","2019",80
+"Somalia","2020",80
+"Somalia","2021",80
+"Somalia","2022",80
+"Somalia","2023",90
+"South Africa","2000",92
+"South Africa","2001",93
+"South Africa","2002",95.1
+"South Africa","2003",96
+"South Africa","2004",96
+"South Africa","2005",96
+"South Africa","2006",97.1
+"South Africa","2007",99.79
+"South Africa","2008",99.79
+"South Africa","2009",99.79
+"South Africa","2010",99.79
+"South Africa","2011",99.79
+"South Africa","2012",99.79
+"South Africa","2013",99.79
+"South Africa","2014",99.9
+"South Africa","2015",99.9
+"South Africa","2016",99.6
+"South Africa","2017",99.97
+"South Africa","2018",99.97
+"South Africa","2019",99.97
+"South Africa","2020",99.99
+"South Africa","2021",99.97
+"South Africa","2022",99.95
+"South Africa","2023",99.88
+"South Africa","2024",99.9
+"South America","2020",93.38
+"South America","2021",93.45
+"South America","2022",94.58
+"South America","2023",95.14
+"South America","2024",95.38
+"South Sudan","2013",41.6
+"South Sudan","2016",31
+"South Sudan","2017",30
+"South Sudan","2018",38
+"South Sudan","2019",48
+"South Sudan","2020",48
+"South Sudan","2021",48
+"South Sudan","2022",48
+"South Sudan","2023",65.25
+"South-Eastern Asia","2015",93.06
+"South-Eastern Asia","2016",93.16
+"South-Eastern Asia","2017",97.92
+"South-Eastern Asia","2018",98.3
+"South-Eastern Asia","2019",98.52
+"South-Eastern Asia","2020",98.31
+"South-Eastern Asia","2021",98.35
+"South-Eastern Asia","2022",98.78
+"South-Eastern Asia","2023",99.05
+"South-Eastern Asia","2024",99.19
+"Southern Africa","2015",99.69
+"Southern Africa","2016",99.45
+"Southern Africa","2017",99.74
+"Southern Africa","2018",99.77
+"Southern Africa","2019",99.79
+"Southern Africa","2020",99.84
+"Southern Africa","2021",99.73
+"Southern Africa","2022",99.74
+"Southern Africa","2023",99.71
+"Southern Africa","2024",99.73
+"Southern Asia","2015",94.04
+"Southern Asia","2016",95.13
+"Southern Asia","2017",95.97
+"Southern Asia","2018",96.05
+"Southern Asia","2019",97.51
+"Southern Asia","2020",97.57
+"Southern Asia","2021",97.62
+"Southern Asia","2022",97.78
+"Southern Asia","2023",98.07
+"Southern Asia","2024",98.3
+"Southern Europe","2020",99.87
+"Southern Europe","2021",99.9
+"Southern Europe","2022",99.91
+"Southern Europe","2023",99.91
+"Southern Europe","2024",99.91
+"Spain","2000",99
+"Spain","2001",99
+"Spain","2002",99
+"Spain","2003",99
+"Spain","2004",99
+"Spain","2005",99
+"Spain","2006",99
+"Spain","2007",99
+"Spain","2008",99
+"Spain","2009",99.8
+"Spain","2010",99.8
+"Spain","2011",99.8
+"Spain","2012",99.8
+"Spain","2013",99.8
+"Spain","2014",99.8
+"Spain","2015",99.8
+"Spain","2016",99.8
+"Spain","2017",99.8
+"Spain","2018",99.8
+"Spain","2019",99.8
+"Spain","2020",99.8
+"Spain","2021",99.8
+"Spain","2022",99.8
+"Spain","2023",99.8
+"Sri Lanka","2001",57.9
+"Sri Lanka","2004",80
+"Sri Lanka","2005",85
+"Sri Lanka","2006",90
+"Sri Lanka","2007",90
+"Sri Lanka","2008",95
+"Sri Lanka","2009",96
+"Sri Lanka","2010",98
+"Sri Lanka","2011",98
+"Sri Lanka","2012",98
+"Sri Lanka","2013",98
+"Sri Lanka","2015",98.96
+"Sri Lanka","2016",99
+"Sri Lanka","2017",99.72
+"Sri Lanka","2018",99
+"Sri Lanka","2019",99
+"Sri Lanka","2020",99
+"Sri Lanka","2021",99
+"Sri Lanka","2022",99
+"Sri Lanka","2023",99.5
+"Sri Lanka","2024",99.52
+"State of Palestine","2000",95
+"State of Palestine","2001",95
+"State of Palestine","2002",95
+"State of Palestine","2003",95
+"State of Palestine","2004",95
+"State of Palestine","2005",95
+"State of Palestine","2006",95
+"State of Palestine","2007",95
+"State of Palestine","2015",99
+"State of Palestine","2016",98
+"State of Palestine","2017",97
+"State of Palestine","2018",97
+"State of Palestine","2019",97
+"State of Palestine","2020",98
+"State of Palestine","2021",98
+"State of Palestine","2022",98
+"State of Palestine","2023",98
+"Sub-Saharan Africa","2015",87.11
+"Sub-Saharan Africa","2016",87.65
+"Sub-Saharan Africa","2017",87.64
+"Sub-Saharan Africa","2018",88.78
+"Sub-Saharan Africa","2019",88.59
+"Sub-Saharan Africa","2020",89.93
+"Sub-Saharan Africa","2021",91.26
+"Sub-Saharan Africa","2022",92.06
+"Sub-Saharan Africa","2023",93.06
+"Sub-Saharan Africa","2024",93.64
+"Sudan","2002",20
+"Sudan","2003",27
+"Sudan","2004",33
+"Sudan","2005",34
+"Sudan","2007",60
+"Sudan","2008",66
+"Sudan","2009",66
+"Sudan","2010",86
+"Sudan","2011",86.7
+"Sudan","2012",88.3
+"Sudan","2013",89
+"Sudan","2014",89.1
+"Sudan","2015",89.45
+"Sudan","2016",89.7
+"Sudan","2017",89.7
+"Sudan","2018",90
+"Sudan","2019",90.9
+"Sudan","2020",90.9
+"Sudan","2021",90.4
+"Sudan","2022",91.6
+"Suriname","2010",98
+"Suriname","2011",99
+"Suriname","2012",100
+"Suriname","2013",100
+"Suriname","2015",100
+"Suriname","2016",100
+"Suriname","2017",100
+"Suriname","2018",100
+"Suriname","2019",100
+"Suriname","2020",100
+"Suriname","2021",100
+"Suriname","2022",100
+"Suriname","2023",100
+"Suriname","2024",100
+"Sweden","2001",99
+"Sweden","2002",99
+"Sweden","2003",99
+"Sweden","2004",99
+"Sweden","2005",99
+"Sweden","2006",98
+"Sweden","2007",99
+"Sweden","2008",99
+"Sweden","2009",99
+"Sweden","2010",99.99
+"Sweden","2011",99.99
+"Sweden","2012",99.99
+"Sweden","2014",99.99
+"Sweden","2015",99.99
+"Sweden","2016",100
+"Sweden","2017",100
+"Sweden","2018",100
+"Sweden","2019",100
+"Sweden","2020",100
+"Sweden","2021",100
+"Sweden","2022",100
+"Sweden","2023",100
+"Sweden","2024",100
+"Switzerland","2000",98
+"Switzerland","2001",99
+"Switzerland","2002",99
+"Switzerland","2003",100
+"Switzerland","2004",100
+"Switzerland","2005",100
+"Switzerland","2006",100
+"Switzerland","2007",100
+"Switzerland","2008",100
+"Switzerland","2009",100
+"Switzerland","2010",100
+"Switzerland","2011",100
+"Switzerland","2012",100
+"Switzerland","2013",100
+"Switzerland","2014",100
+"Switzerland","2015",100
+"Switzerland","2016",100
+"Switzerland","2017",100
+"Switzerland","2018",100
+"Switzerland","2019",100
+"Switzerland","2020",100
+"Switzerland","2021",100
+"Switzerland","2022",100
+"Switzerland","2023",100
+"Switzerland","2024",100
+"Syrian Arab Republic","2000",50
+"Syrian Arab Republic","2002",40
+"Syrian Arab Republic","2003",75
+"Syrian Arab Republic","2004",90
+"Syrian Arab Republic","2005",92
+"Syrian Arab Republic","2006",95
+"Syrian Arab Republic","2007",96
+"Syrian Arab Republic","2008",96
+"Syrian Arab Republic","2009",97
+"Syrian Arab Republic","2010",97.5
+"Syrian Arab Republic","2011",91
+"Syrian Arab Republic","2012",91
+"Syrian Arab Republic","2015",78
+"Syrian Arab Republic","2016",80
+"Syrian Arab Republic","2017",85
+"Syrian Arab Republic","2018",88
+"Syrian Arab Republic","2019",88
+"Syrian Arab Republic","2020",94
+"Syrian Arab Republic","2021",97.5
+"Syrian Arab Republic","2022",99
+"Syrian Arab Republic","2023",99
+"Syrian Arab Republic","2024",100
+"Tajikistan","2001",0
+"Tajikistan","2015",60
+"Tajikistan","2016",90
+"Tajikistan","2017",90
+"Tajikistan","2019",90
+"Tajikistan","2020",90
+"Tajikistan","2021",90
+"Tajikistan","2022",94.29
+"Thailand","2005",25.89
+"Thailand","2006",30.92
+"Thailand","2007",37.77
+"Thailand","2011",100
+"Thailand","2014",97
+"Thailand","2015",97
+"Thailand","2016",98
+"Thailand","2017",98
+"Thailand","2018",98
+"Thailand","2019",98
+"Thailand","2020",98.8
+"Thailand","2021",98.8
+"Thailand","2022",98.8
+"Thailand","2023",99
+"Thailand","2024",99
+"Timor-Leste","2003",38
+"Timor-Leste","2004",48
+"Timor-Leste","2005",50
+"Timor-Leste","2006",54
+"Timor-Leste","2007",69
+"Timor-Leste","2008",69
+"Timor-Leste","2010",86
+"Timor-Leste","2012",92
+"Timor-Leste","2014",96
+"Timor-Leste","2015",96
+"Timor-Leste","2016",96.5
+"Timor-Leste","2017",96.5
+"Timor-Leste","2018",96.5
+"Timor-Leste","2019",96.5
+"Timor-Leste","2020",96.5
+"Timor-Leste","2021",96.5
+"Timor-Leste","2022",96.5
+"Timor-Leste","2023",96.5
+"Timor-Leste","2024",96.5
+"Togo","2000",80
+"Togo","2001",85
+"Togo","2002",85
+"Togo","2003",85
+"Togo","2004",85
+"Togo","2005",85
+"Togo","2006",85
+"Togo","2007",85
+"Togo","2010",75
+"Togo","2011",91
+"Togo","2012",91
+"Togo","2014",91
+"Togo","2015",93
+"Togo","2016",91
+"Togo","2017",97
+"Togo","2018",97
+"Togo","2019",97
+"Togo","2020",98
+"Togo","2021",98
+"Togo","2022",99
+"Togo","2023",99.7
+"Togo","2024",99.7
+"Tonga","2001",70
+"Tonga","2002",70
+"Tonga","2003",70
+"Tonga","2004",70
+"Tonga","2005",70
+"Tonga","2006",85
+"Tonga","2007",90
+"Tonga","2015",92
+"Tonga","2016",95
+"Tonga","2017",98
+"Tonga","2018",98
+"Tonga","2019",99
+"Tonga","2020",99
+"Tonga","2021",99
+"Tonga","2022",99
+"Trinidad and Tobago","2007",100
+"Trinidad and Tobago","2008",100
+"Trinidad and Tobago","2009",100
+"Trinidad and Tobago","2010",100
+"Trinidad and Tobago","2012",100
+"Trinidad and Tobago","2013",100
+"Trinidad and Tobago","2014",100
+"Trinidad and Tobago","2015",100
+"Trinidad and Tobago","2016",100
+"Trinidad and Tobago","2017",100
+"Trinidad and Tobago","2018",100
+"Trinidad and Tobago","2019",100
+"Trinidad and Tobago","2020",100
+"Trinidad and Tobago","2021",100
+"Trinidad and Tobago","2022",100
+"Trinidad and Tobago","2023",100
+"Trinidad and Tobago","2024",100
+"Tunisia","2002",60
+"Tunisia","2003",98
+"Tunisia","2004",98
+"Tunisia","2005",98
+"Tunisia","2006",100
+"Tunisia","2007",100
+"Tunisia","2008",100
+"Tunisia","2009",100
+"Tunisia","2010",99
+"Tunisia","2011",99
+"Tunisia","2012",99
+"Tunisia","2013",99
+"Tunisia","2014",99
+"Tunisia","2015",99
+"Tunisia","2016",99
+"Tunisia","2017",99
+"Tunisia","2018",99
+"Tunisia","2019",99
+"Tunisia","2020",99
+"Tunisia","2021",99
+"Tunisia","2022",99
+"Tunisia","2023",99
+"Tunisia","2024",99
+"Türkiye","2000",50.2
+"Türkiye","2001",87.5
+"Türkiye","2002",88.2
+"Türkiye","2003",94.96
+"Türkiye","2004",95
+"Türkiye","2005",96.3
+"Türkiye","2006",98.76
+"Türkiye","2007",98.01
+"Türkiye","2008",100
+"Türkiye","2009",100
+"Türkiye","2010",100
+"Türkiye","2013",98
+"Türkiye","2014",98
+"Türkiye","2015",98.51
+"Türkiye","2016",99.67
+"Türkiye","2017",99.84
+"Türkiye","2018",99.69
+"Türkiye","2019",99.7
+"Türkiye","2020",99.7
+"Türkiye","2021",99.75
+"Türkiye","2022",99.75
+"Türkiye","2023",99.85
+"Türkiye","2024",99.9
+"Turkmenistan","2001",12.4
+"Turkmenistan","2005",13.7
+"Turkmenistan","2006",13.7
+"Turkmenistan","2015",93.9
+"Turkmenistan","2016",95.31
+"Turkmenistan","2017",95.63
+"Turkmenistan","2018",96.5
+"Turkmenistan","2019",97.16
+"Turkmenistan","2020",97.76
+"Turkmenistan","2021",97.87
+"Turkmenistan","2022",98
+"Turks and Caicos Islands","2015",98
+"Turks and Caicos Islands","2019",98
+"Turks and Caicos Islands","2020",98
+"Turks and Caicos Islands","2021",98
+"Turks and Caicos Islands","2022",98
+"Tuvalu","2004",15
+"Tuvalu","2005",13
+"Tuvalu","2006",16
+"Tuvalu","2007",18
+"Tuvalu","2015",19
+"Tuvalu","2016",20
+"Tuvalu","2017",48
+"Tuvalu","2019",48
+"Tuvalu","2020",50
+"Tuvalu","2021",50
+"Tuvalu","2022",59.28
+"Uganda","2000",16.05
+"Uganda","2001",22
+"Uganda","2002",35
+"Uganda","2003",46
+"Uganda","2004",75
+"Uganda","2005",70
+"Uganda","2006",80
+"Uganda","2007",80
+"Uganda","2008",100
+"Uganda","2009",100
+"Uganda","2010",100
+"Uganda","2011",100
+"Uganda","2012",100
+"Uganda","2015",91
+"Uganda","2016",93
+"Uganda","2017",93
+"Uganda","2018",98
+"Uganda","2019",98
+"Uganda","2020",98
+"Uganda","2021",98
+"Uganda","2022",98
+"Uganda","2023",98
+"Uganda","2024",98
+"Ukraine","2002",75
+"Ukraine","2004",92
+"Ukraine","2005",96
+"Ukraine","2006",96.16
+"Ukraine","2008",99.9
+"Ukraine","2009",99.9
+"Ukraine","2010",99.9
+"Ukraine","2011",99.9
+"Ukraine","2012",99.9
+"Ukraine","2013",99.9
+"Ukraine","2014",99.9
+"Ukraine","2015",99.9
+"Ukraine","2016",99.9
+"Ukraine","2017",99.9
+"Ukraine","2018",99.9
+"Ukraine","2019",99.9
+"Ukraine","2020",99.9
+"Ukraine","2021",99.9
+"Ukraine","2022",99.9
+"United Arab Emirates","2000",100
+"United Arab Emirates","2001",100
+"United Arab Emirates","2002",100
+"United Arab Emirates","2003",100
+"United Arab Emirates","2004",100
+"United Arab Emirates","2005",100
+"United Arab Emirates","2006",100
+"United Arab Emirates","2007",100
+"United Arab Emirates","2008",100
+"United Arab Emirates","2009",100
+"United Arab Emirates","2010",100
+"United Arab Emirates","2011",100
+"United Arab Emirates","2012",100
+"United Arab Emirates","2013",100
+"United Arab Emirates","2014",100
+"United Arab Emirates","2015",100
+"United Arab Emirates","2016",100
+"United Arab Emirates","2017",100
+"United Arab Emirates","2018",100
+"United Arab Emirates","2019",100
+"United Arab Emirates","2020",100
+"United Arab Emirates","2021",100
+"United Arab Emirates","2022",100
+"United Arab Emirates","2023",100
+"United Arab Emirates","2024",100
+"United Kingdom of Great Britain and Northern Ireland","2000",99
+"United Kingdom of Great Britain and Northern Ireland","2001",99
+"United Kingdom of Great Britain and Northern Ireland","2002",99
+"United Kingdom of Great Britain and Northern Ireland","2003",99
+"United Kingdom of Great Britain and Northern Ireland","2004",99
+"United Kingdom of Great Britain and Northern Ireland","2005",99
+"United Kingdom of Great Britain and Northern Ireland","2006",99.8
+"United Kingdom of Great Britain and Northern Ireland","2007",99.8
+"United Kingdom of Great Britain and Northern Ireland","2008",99.8
+"United Kingdom of Great Britain and Northern Ireland","2009",99.8
+"United Kingdom of Great Britain and Northern Ireland","2010",99.8
+"United Kingdom of Great Britain and Northern Ireland","2011",99.7
+"United Kingdom of Great Britain and Northern Ireland","2012",99.6
+"United Kingdom of Great Britain and Northern Ireland","2013",99.7
+"United Kingdom of Great Britain and Northern Ireland","2014",99.7
+"United Kingdom of Great Britain and Northern Ireland","2015",99.6
+"United Kingdom of Great Britain and Northern Ireland","2016",99.6
+"United Kingdom of Great Britain and Northern Ireland","2017",99.8
+"United Kingdom of Great Britain and Northern Ireland","2018",99.9
+"United Kingdom of Great Britain and Northern Ireland","2019",99.9
+"United Kingdom of Great Britain and Northern Ireland","2020",99.9
+"United Kingdom of Great Britain and Northern Ireland","2021",99.9
+"United Kingdom of Great Britain and Northern Ireland","2022",99.9
+"United Kingdom of Great Britain and Northern Ireland","2023",99.9
+"United Kingdom of Great Britain and Northern Ireland","2024",99.9
+"United Republic of Tanzania","2002",25
+"United Republic of Tanzania","2003",25
+"United Republic of Tanzania","2004",36
+"United Republic of Tanzania","2005",45
+"United Republic of Tanzania","2006",56
+"United Republic of Tanzania","2007",65
+"United Republic of Tanzania","2008",70
+"United Republic of Tanzania","2009",85
+"United Republic of Tanzania","2010",85
+"United Republic of Tanzania","2011",90
+"United Republic of Tanzania","2012",95
+"United Republic of Tanzania","2013",95
+"United Republic of Tanzania","2014",95
+"United Republic of Tanzania","2015",95
+"United Republic of Tanzania","2016",95
+"United Republic of Tanzania","2017",95
+"United Republic of Tanzania","2018",95
+"United Republic of Tanzania","2019",95
+"United Republic of Tanzania","2020",95
+"United Republic of Tanzania","2021",95
+"United Republic of Tanzania","2022",95
+"United Republic of Tanzania","2023",98
+"United Republic of Tanzania","2024",98.2
+"United States of America","2000",99
+"United States of America","2001",99
+"United States of America","2002",99
+"United States of America","2003",99
+"United States of America","2004",99
+"United States of America","2005",99
+"United States of America","2006",99.8
+"United States of America","2007",99.6
+"United States of America","2008",99.6
+"United States of America","2009",99.6
+"United States of America","2010",99.8
+"United States of America","2012",99.9
+"United States of America","2014",99.9
+"United States of America","2015",99.9
+"United States of America","2016",99.9
+"United States of America","2017",99.9
+"United States of America","2018",99.9
+"United States of America","2019",99.9
+"United States of America","2020",99.9
+"United States of America","2021",99.9
+"United States of America","2022",99.6
+"United States of America","2023",99
+"United States of America","2024",99
+"United States Virgin Islands","2022",80.13
+"Uruguay","2000",100
+"Uruguay","2001",100
+"Uruguay","2002",100
+"Uruguay","2003",100
+"Uruguay","2004",100
+"Uruguay","2005",100
+"Uruguay","2006",100
+"Uruguay","2007",100
+"Uruguay","2008",100
+"Uruguay","2009",100
+"Uruguay","2010",100
+"Uruguay","2011",100
+"Uruguay","2012",100
+"Uruguay","2013",100
+"Uruguay","2015",100
+"Uruguay","2016",100
+"Uruguay","2017",100
+"Uruguay","2018",91
+"Uruguay","2019",91
+"Uruguay","2020",92.1
+"Uruguay","2021",92.7
+"Uruguay","2022",93.7
+"Uruguay","2023",93.9
+"Uruguay","2024",95.4
+"Uzbekistan","2002",75
+"Uzbekistan","2003",75
+"Uzbekistan","2004",75
+"Uzbekistan","2005",75
+"Uzbekistan","2006",75
+"Uzbekistan","2008",93
+"Uzbekistan","2012",92
+"Uzbekistan","2014",97.8
+"Uzbekistan","2015",98
+"Uzbekistan","2016",98.4
+"Uzbekistan","2017",98.4
+"Uzbekistan","2018",98.6
+"Uzbekistan","2019",99.2
+"Uzbekistan","2020",99.3
+"Uzbekistan","2021",99.4
+"Uzbekistan","2022",99.5
+"Uzbekistan","2023",99.5
+"Uzbekistan","2024",99.5
+"Vanuatu","2002",20
+"Vanuatu","2003",20
+"Vanuatu","2004",20
+"Vanuatu","2005",20
+"Vanuatu","2006",50
+"Vanuatu","2009",85
+"Vanuatu","2010",87
+"Vanuatu","2011",90
+"Vanuatu","2012",92
+"Vanuatu","2013",93
+"Vanuatu","2014",93
+"Vanuatu","2015",93
+"Vanuatu","2016",95
+"Vanuatu","2017",98
+"Vanuatu","2018",98
+"Vanuatu","2019",90
+"Vanuatu","2020",90
+"Vanuatu","2021",90
+"Vanuatu","2022",90
+"Vanuatu","2023",90
+"Vanuatu","2024",90
+"Venezuela (Bolivarian Republic of)","2006",85
+"Venezuela (Bolivarian Republic of)","2007",90
+"Venezuela (Bolivarian Republic of)","2015",96
+"Venezuela (Bolivarian Republic of)","2016",96
+"Venezuela (Bolivarian Republic of)","2017",96
+"Venezuela (Bolivarian Republic of)","2018",91
+"Venezuela (Bolivarian Republic of)","2019",92
+"Venezuela (Bolivarian Republic of)","2020",92
+"Venezuela (Bolivarian Republic of)","2021",92
+"Venezuela (Bolivarian Republic of)","2022",92
+"Venezuela (Bolivarian Republic of)","2023",94
+"Venezuela (Bolivarian Republic of)","2024",94
+"Viet Nam","2006",70
+"Viet Nam","2015",94
+"Viet Nam","2016",94
+"Viet Nam","2017",99.5
+"Viet Nam","2018",99.6
+"Viet Nam","2019",99.8
+"Viet Nam","2020",99.8
+"Viet Nam","2021",99.8
+"Viet Nam","2022",99.9
+"Viet Nam","2023",99.9
+"Viet Nam","2024",99.9
+"Wallis and Futuna Islands","2022",85
+"Wallis and Futuna Islands","2023",85
+"Western Africa","2015",92
+"Western Africa","2016",92.82
+"Western Africa","2017",93.03
+"Western Africa","2018",94
+"Western Africa","2019",92.11
+"Western Africa","2020",92.92
+"Western Africa","2021",94.13
+"Western Africa","2022",94.74
+"Western Africa","2023",95.41
+"Western Africa","2024",96.13
+"Western Asia","2015",95.56
+"Western Asia","2016",96.67
+"Western Asia","2017",97.4
+"Western Asia","2018",97.59
+"Western Asia","2019",97.56
+"Western Asia","2020",97.98
+"Western Asia","2021",98.61
+"Western Asia","2022",98.35
+"Western Asia","2023",98.17
+"Western Asia","2024",98.49
+"Western Europe","2020",99.57
+"Western Europe","2021",99.54
+"Western Europe","2022",99.49
+"Western Europe","2023",99.51
+"Western Europe","2024",99.52
+"World","2010",86.4
+"World","2011",87.6
+"World","2012",90
+"World","2013",93.1
+"World","2014",94
+"World","2015",94.9
+"World","2016",95.5
+"World","2017",96.2
+"World","2018",96.5
+"World","2019",96.9
+"World","2020",96.99
+"World","2021",97.21
+"World","2022",97.46
+"World","2023",97.75
+"World","2024",97.93
+"Yemen","2004",68
+"Yemen","2005",68
+"Yemen","2006",68
+"Yemen","2007",70
+"Yemen","2008",75
+"Yemen","2009",84
+"Yemen","2010",84
+"Yemen","2015",84
+"Yemen","2016",88.86
+"Yemen","2019",88.86
+"Yemen","2020",88.86
+"Yemen","2021",91.8
+"Yemen","2022",88.96
+"Yemen","2023",87.48
+"Yugoslavia [former]","2000",77
+"Yugoslavia [former]","2001",83.17
+"Yugoslavia [former]","2002",91.5
+"Yugoslavia [former]","2004",95.1
+"Yugoslavia [former]","2005",99
+"Zambia","2000",50.5
+"Zambia","2001",50.5
+"Zambia","2002",50.5
+"Zambia","2003",50.5
+"Zambia","2004",50.5
+"Zambia","2005",65
+"Zambia","2006",46
+"Zambia","2007",78
+"Zambia","2008",85
+"Zambia","2009",90
+"Zambia","2010",90
+"Zambia","2011",62
+"Zambia","2012",78
+"Zambia","2013",78
+"Zambia","2014",78
+"Zambia","2015",93
+"Zambia","2016",93
+"Zambia","2017",93
+"Zambia","2018",86.9
+"Zambia","2019",86.9
+"Zambia","2020",82.3
+"Zambia","2021",97.1
+"Zambia","2022",97.1
+"Zambia","2023",97.1
+"Zambia","2024",97.1
+"Zimbabwe","2005",70
+"Zimbabwe","2006",72
+"Zimbabwe","2007",75
+"Zimbabwe","2008",75
+"Zimbabwe","2009",41
+"Zimbabwe","2010",61
+"Zimbabwe","2011",72.4
+"Zimbabwe","2012",81
+"Zimbabwe","2013",84
+"Zimbabwe","2014",88
+"Zimbabwe","2015",88.7
+"Zimbabwe","2016",88.9
+"Zimbabwe","2017",90.09
+"Zimbabwe","2018",93
+"Zimbabwe","2019",93.4
+"Zimbabwe","2020",93.44
+"Zimbabwe","2021",93.54
+"Zimbabwe","2022",93.62
+"Zimbabwe","2023",93.75
+"Zimbabwe","2024",93.85
